@@ -3,47 +3,45 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="AtlasStay — Ville, appartamenti e riad selezionati a Marrakech. Esperienze autentiche per viaggiatori europei. Prenota su WhatsApp.">
+<meta name="description" content="AtlasStay — Ville, appartamenti e riad selezionati a Marrakech. Risposta in 30 minuti. Prenota su WhatsApp.">
 <title>AtlasStay — Marrakech Premium Stays</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{
-  --nero:#0B0B0B;
-  --nero-mid:#141414;
-  --nero-soft:#1e1e1e;
-  --nero-card:#242424;
-  --oro:#C9A96E;
-  --oro-light:#dfc08a;
-  --oro-dark:#a07840;
-  --oro-dim:rgba(201,169,110,0.15);
-  --bianco:#F5F0E8;
-  --grigio:#888;
-  --grigio-light:#555;
-  --verde:#25D366;
-}
-*{margin:0;padding:0;box-sizing:border-box;}
-html{scroll-behavior:smooth;}
+:root{--nero:#0B0B0B;--nero-mid:#141414;--nero-soft:#1e1e1e;--oro:#C9A96E;--oro-light:#dfc08a;--oro-dim:rgba(201,169,110,0.15);--bianco:#F5F0E8;--grigio:#888;--verde:#25D366;}
+*{margin:0;padding:0;box-sizing:border-box;}html{scroll-behavior:smooth;}
 body{background:var(--nero);color:var(--bianco);font-family:'Inter',sans-serif;font-weight:300;overflow-x:hidden;line-height:1.6;}
-img{max-width:100%;display:block;}
 
-/* ── LANG BAR ── */
+/* LANG */
 .lang-bar{position:fixed;top:0;left:0;right:0;z-index:300;background:rgba(11,11,11,0.98);border-bottom:1px solid var(--oro-dim);padding:8px 48px;display:flex;justify-content:flex-end;gap:8px;}
 .lang-btn{background:transparent;border:1px solid rgba(201,169,110,0.25);color:var(--grigio);font-family:'Inter',sans-serif;font-size:10px;letter-spacing:2px;padding:4px 12px;cursor:pointer;transition:all 0.3s;text-transform:uppercase;}
 .lang-btn.active,.lang-btn:hover{border-color:var(--oro);color:var(--oro);}
 
-/* ── NAV ── */
+/* NAV */
 nav{position:fixed;top:33px;left:0;right:0;z-index:200;padding:18px 48px;display:flex;justify-content:space-between;align-items:center;transition:all 0.4s;}
-nav.scrolled{background:rgba(11,11,11,0.98);border-bottom:1px solid var(--oro-dim);top:33px;}
+nav.scrolled{background:rgba(11,11,11,0.98);border-bottom:1px solid var(--oro-dim);}
 .logo{font-family:'Playfair Display',serif;font-size:24px;font-weight:600;letter-spacing:5px;color:var(--oro);text-decoration:none;}
 .logo span{color:var(--bianco);}
 .nav-links{display:flex;gap:32px;list-style:none;align-items:center;}
 .nav-links a{color:var(--bianco);text-decoration:none;font-size:11px;letter-spacing:2px;text-transform:uppercase;opacity:0.55;transition:all 0.3s;}
 .nav-links a:hover{opacity:1;color:var(--oro);}
-.nav-cta{background:var(--oro)!important;color:var(--nero)!important;opacity:1!important;padding:10px 22px;font-weight:600!important;letter-spacing:1px!important;}
+.nav-cta{background:var(--oro)!important;color:var(--nero)!important;opacity:1!important;padding:10px 22px;font-weight:600!important;}
 .nav-cta:hover{background:var(--oro-light)!important;}
-.nav-toggle{display:none;background:transparent;border:1px solid var(--oro-dim);color:var(--bianco);padding:8px 12px;cursor:pointer;font-size:18px;}
+.nav-toggle{display:none;background:transparent;border:1px solid var(--oro-dim);color:var(--bianco);padding:8px 14px;cursor:pointer;font-size:18px;}
 
-/* ── HERO ── */
+/* BUTTONS */
+.btn-primary{background:var(--oro);color:var(--nero);padding:16px 36px;font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;text-decoration:none;border:none;cursor:pointer;transition:all 0.3s;display:inline-block;white-space:nowrap;}
+.btn-primary:hover{background:var(--oro-light);transform:translateY(-2px);box-shadow:0 10px 35px rgba(201,169,110,0.3);}
+.btn-ghost{border:1px solid rgba(201,169,110,0.45);color:var(--oro);padding:16px 36px;font-family:'Inter',sans-serif;font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase;text-decoration:none;cursor:pointer;transition:all 0.3s;display:inline-block;background:transparent;white-space:nowrap;}
+.btn-ghost:hover{border-color:var(--oro);background:rgba(201,169,110,0.07);}
+.btn-wa{background:var(--verde);color:#fff;padding:16px 36px;font-family:'Inter',sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;text-decoration:none;border:none;cursor:pointer;transition:all 0.3s;display:inline-block;white-space:nowrap;}
+.btn-wa:hover{background:#1ebe5a;transform:translateY(-2px);box-shadow:0 10px 30px rgba(37,211,102,0.3);}
+.btn-sm{display:block;text-align:center;background:var(--oro);color:var(--nero);padding:14px;font-family:'Inter',sans-serif;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;text-decoration:none;border:none;cursor:pointer;transition:all 0.3s;width:100%;}
+.btn-sm:hover{background:var(--oro-light);}
+.micro-cta{display:inline-flex;align-items:center;gap:8px;color:var(--oro);font-size:11px;letter-spacing:2px;text-transform:uppercase;text-decoration:none;border-bottom:1px solid rgba(201,169,110,0.3);padding-bottom:2px;transition:all 0.3s;margin-top:24px;}
+.micro-cta:hover{border-color:var(--oro);gap:12px;}
+.micro-cta::after{content:'→';}
+
+/* HERO */
 .hero{min-height:100vh;position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden;padding-top:80px;}
 .hero-bg{position:absolute;inset:0;background:linear-gradient(135deg,#080808 0%,#141008 45%,#0a0a0a 100%);}
 .hero-glow{position:absolute;inset:0;background:radial-gradient(ellipse at 35% 55%,rgba(201,169,110,0.1) 0%,transparent 55%),radial-gradient(ellipse at 75% 30%,rgba(201,169,110,0.04) 0%,transparent 40%);}
@@ -51,19 +49,16 @@ nav.scrolled{background:rgba(11,11,11,0.98);border-bottom:1px solid var(--oro-di
 .hero-content{position:relative;text-align:center;max-width:820px;padding:0 24px;animation:fadeUp 1.2s ease both;}
 .hero-eyebrow{display:inline-flex;align-items:center;gap:12px;font-size:9px;letter-spacing:6px;text-transform:uppercase;color:var(--oro);margin-bottom:28px;opacity:0.8;}
 .hero-eyebrow::before,.hero-eyebrow::after{content:'';width:30px;height:1px;background:var(--oro);opacity:0.4;}
-.hero h1{font-family:'Playfair Display',serif;font-size:clamp(44px,6.5vw,84px);font-weight:600;line-height:1.06;margin-bottom:22px;letter-spacing:-0.5px;}
+.hero h1{font-family:'Playfair Display',serif;font-size:clamp(44px,6.5vw,84px);font-weight:600;line-height:1.06;margin-bottom:22px;}
 .hero h1 em{font-style:italic;color:var(--oro);}
-.hero-sub{font-size:15px;line-height:1.9;opacity:0.55;max-width:480px;margin:0 auto 44px;}
+.hero-sub{font-size:15px;line-height:1.9;opacity:0.55;max-width:480px;margin:0 auto 20px;}
+.hero-promise{display:inline-block;background:rgba(201,169,110,0.1);border:1px solid rgba(201,169,110,0.25);color:var(--oro);font-size:11px;letter-spacing:2px;padding:8px 20px;margin-bottom:36px;}
 .hero-ctas{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;}
-.btn-primary{background:var(--oro);color:var(--nero);padding:15px 34px;font-family:'Inter',sans-serif;font-size:11px;font-weight:600;letter-spacing:2px;text-transform:uppercase;text-decoration:none;border:none;cursor:pointer;transition:all 0.3s;display:inline-block;white-space:nowrap;}
-.btn-primary:hover{background:var(--oro-light);transform:translateY(-2px);box-shadow:0 10px 35px rgba(201,169,110,0.25);}
-.btn-ghost{border:1px solid rgba(201,169,110,0.45);color:var(--oro);padding:15px 34px;font-family:'Inter',sans-serif;font-size:11px;font-weight:400;letter-spacing:2px;text-transform:uppercase;text-decoration:none;cursor:pointer;transition:all 0.3s;display:inline-block;background:transparent;white-space:nowrap;}
-.btn-ghost:hover{border-color:var(--oro);background:rgba(201,169,110,0.07);}
 .hero-scroll{position:absolute;bottom:32px;left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:8px;opacity:0.3;animation:pulse 2.5s infinite;}
 .hero-scroll-line{width:1px;height:38px;background:linear-gradient(to bottom,var(--oro),transparent);}
 .hero-scroll span{font-size:8px;letter-spacing:4px;text-transform:uppercase;}
 
-/* ── TRUST BAR ── */
+/* TRUST BAR */
 .trust-bar{background:var(--nero-mid);border-top:1px solid var(--oro-dim);border-bottom:1px solid var(--oro-dim);padding:26px 48px;display:flex;justify-content:center;align-items:center;gap:48px;flex-wrap:wrap;}
 .trust-item{text-align:center;}
 .trust-num{font-family:'Playfair Display',serif;font-size:30px;color:var(--oro);font-weight:600;display:block;line-height:1;}
@@ -71,7 +66,7 @@ nav.scrolled{background:rgba(11,11,11,0.98);border-bottom:1px solid var(--oro-di
 .trust-sep{width:1px;height:36px;background:var(--oro-dim);}
 .trust-phrase{font-family:'Playfair Display',serif;font-style:italic;font-size:14px;color:var(--oro);opacity:0.65;}
 
-/* ── UTILITY ── */
+/* SECTIONS */
 .divider{display:flex;align-items:center;gap:18px;padding:0 48px;}
 .div-line{flex:1;height:1px;background:linear-gradient(to right,transparent,rgba(201,169,110,0.2),transparent);}
 .div-gem{color:var(--oro);font-size:14px;opacity:0.45;}
@@ -83,16 +78,26 @@ section{padding:96px 48px;}
 .reveal{opacity:0;transform:translateY(22px);transition:opacity 0.65s ease,transform 0.65s ease;}
 .reveal.visible{opacity:1;transform:translateY(0);}
 .tag{font-size:8px;letter-spacing:2px;text-transform:uppercase;color:var(--oro);opacity:0.6;border:1px solid rgba(201,169,110,0.22);padding:3px 9px;display:inline-block;margin-top:14px;}
+.section-cta{text-align:center;margin-top:48px;}
 
-/* ── CHI SIAMO ── */
+/* CHI SIAMO */
 .about{background:var(--nero-mid);display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:center;}
 .about-card{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.16);padding:44px;position:relative;}
 .about-card::before{content:'"';font-family:'Playfair Display',serif;font-size:90px;color:var(--oro);opacity:0.1;position:absolute;top:8px;left:20px;line-height:1;}
 .about-card blockquote{font-family:'Playfair Display',serif;font-size:19px;font-style:italic;line-height:1.75;opacity:0.82;position:relative;z-index:1;}
 .about-card cite{display:block;margin-top:20px;font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--oro);opacity:0.6;font-style:normal;}
 
-/* ── PROPRIETÀ ── */
-.properties{background:var(--nero);}
+/* FIDUCIA */
+.trust-section{background:var(--nero);}
+.trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:2px;margin-top:48px;}
+.trust-card{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.08);padding:36px 28px;transition:border-color 0.3s;}
+.trust-card:hover{border-color:rgba(201,169,110,0.3);}
+.trust-card-icon{font-size:32px;margin-bottom:18px;display:block;}
+.trust-card h4{font-family:'Playfair Display',serif;font-size:18px;font-weight:600;margin-bottom:10px;color:var(--oro);}
+.trust-card p{font-size:12px;line-height:1.8;opacity:0.45;}
+
+/* PROPRIETÀ */
+.properties{background:var(--nero-mid);}
 .prop-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:44px;flex-wrap:wrap;gap:20px;}
 .prop-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;}
 .prop-card{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.1);overflow:hidden;transition:all 0.4s;}
@@ -108,14 +113,12 @@ section{padding:96px 48px;}
 .prop-ideal{font-size:11px;color:var(--oro);opacity:0.72;margin-bottom:18px;font-style:italic;}
 .prop-meta{display:flex;gap:14px;margin-bottom:20px;flex-wrap:wrap;}
 .prop-meta span{font-size:10px;opacity:0.42;}
-.btn-sm{display:block;text-align:center;background:var(--oro);color:var(--nero);padding:12px;font-family:'Inter',sans-serif;font-size:10px;font-weight:600;letter-spacing:2px;text-transform:uppercase;text-decoration:none;border:none;cursor:pointer;transition:all 0.3s;width:100%;}
-.btn-sm:hover{background:var(--oro-light);}
 
-/* ── ESPERIENZE ── */
-.experiences{background:var(--nero-mid);}
+/* ESPERIENZE */
+.experiences{background:var(--nero);}
 .exp-intro{font-size:14px;line-height:2;opacity:0.52;max-width:560px;margin-bottom:48px;}
 .exp-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:2px;}
-.exp-card{background:var(--nero-soft);padding:28px 24px;border:1px solid rgba(201,169,110,0.07);transition:all 0.35s;cursor:default;position:relative;overflow:hidden;}
+.exp-card{background:var(--nero-soft);padding:28px 24px;border:1px solid rgba(201,169,110,0.07);transition:all 0.35s;position:relative;overflow:hidden;}
 .exp-card::after{content:'';position:absolute;bottom:0;left:0;right:0;height:2px;background:var(--oro);transform:scaleX(0);transition:transform 0.35s;transform-origin:left;}
 .exp-card:hover{border-color:rgba(201,169,110,0.28);background:#212121;}
 .exp-card:hover::after{transform:scaleX(1);}
@@ -123,8 +126,8 @@ section{padding:96px 48px;}
 .exp-card h4{font-family:'Playfair Display',serif;font-size:17px;font-weight:600;margin-bottom:8px;line-height:1.3;}
 .exp-card p{font-size:11px;line-height:1.75;opacity:0.38;}
 
-/* ── TRANSFER ── */
-.transfer{background:var(--nero);display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:stretch;}
+/* TRANSFER */
+.transfer{background:var(--nero-mid);display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:stretch;}
 .transfer-body{padding:96px 72px;}
 .transfer-visual{background:linear-gradient(150deg,#0f0f0f,#1a1408);border-left:1px solid var(--oro-dim);display:flex;align-items:center;justify-content:center;font-size:90px;position:relative;}
 .transfer-visual::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at center,rgba(201,169,110,0.07),transparent 70%);}
@@ -139,8 +142,8 @@ section{padding:96px 48px;}
 .tier ul li::before{content:'✓ ';color:var(--oro);opacity:1;}
 .transfer-note{margin-top:22px;padding:18px;border:1px solid var(--oro-dim);font-family:'Playfair Display',serif;font-style:italic;font-size:13px;color:var(--oro);opacity:0.65;line-height:1.65;}
 
-/* ── COME FUNZIONA ── */
-.how{background:var(--nero-mid);text-align:center;}
+/* COME FUNZIONA */
+.how{background:var(--nero);text-align:center;}
 .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;margin-top:56px;position:relative;}
 .steps::before{content:'';position:absolute;top:52px;left:16.5%;right:16.5%;height:1px;background:linear-gradient(to right,transparent,rgba(201,169,110,0.28),transparent);}
 .step{padding:44px 32px;background:var(--nero-soft);border:1px solid rgba(201,169,110,0.07);}
@@ -148,47 +151,49 @@ section{padding:96px 48px;}
 .step h3{font-family:'Playfair Display',serif;font-size:22px;font-weight:600;margin-bottom:10px;color:var(--oro);}
 .step p{font-size:12px;line-height:1.85;opacity:0.42;}
 
-/* ── PRENOTAZIONE ── */
-.booking{background:var(--nero);}
+/* WA REVIEWS */
+.reviews{background:var(--nero-mid);}
+.wa-reviews{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:48px;}
+.wa-card{background:#1a1a1a;border-radius:12px;padding:24px;position:relative;border:1px solid rgba(201,169,110,0.08);}
+.wa-card::before{content:'';position:absolute;top:-1px;left:20px;width:0;height:0;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid #1a1a1a;}
+.wa-header{display:flex;align-items:center;gap:12px;margin-bottom:16px;}
+.wa-avatar{width:38px;height:38px;border-radius:50%;background:linear-gradient(135deg,var(--oro-dim),rgba(201,169,110,0.3));display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0;}
+.wa-name{font-size:12px;font-weight:600;color:var(--bianco);}
+.wa-loc{font-size:10px;opacity:0.4;margin-top:2px;}
+.wa-time{font-size:9px;opacity:0.3;margin-left:auto;}
+.wa-text{font-size:13px;line-height:1.75;opacity:0.75;}
+.wa-read{color:var(--verde);font-size:12px;margin-top:10px;display:block;text-align:right;}
+
+/* BOOKING */
+.booking{background:var(--nero-mid);}
 .booking-wrap{display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:start;}
 .booking-form-box{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.14);padding:44px;}
-.fg{margin-bottom:20px;}
+.fg{margin-bottom:18px;}
 .fg label{display:block;font-size:9px;letter-spacing:3px;text-transform:uppercase;opacity:0.45;margin-bottom:9px;}
 .fg input,.fg select{width:100%;background:#111;border:1px solid rgba(201,169,110,0.18);color:var(--bianco);padding:13px 16px;font-family:'Inter',sans-serif;font-size:13px;font-weight:300;outline:none;transition:border-color 0.3s;-webkit-appearance:none;appearance:none;}
 .fg input:focus,.fg select:focus{border-color:var(--oro);}
 .fg select option{background:#111;}
 .fg-row{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
-.booking-note-box{background:rgba(201,169,110,0.05);border:1px solid rgba(201,169,110,0.18);padding:22px;margin-top:26px;}
-.booking-note-box p{font-size:12px;line-height:1.85;opacity:0.55;}
-.booking-note-box strong{color:var(--oro);opacity:1;}
+.preview-box{background:rgba(37,211,102,0.05);border:1px solid rgba(37,211,102,0.2);padding:18px;margin:16px 0;border-radius:4px;display:none;}
+.preview-box p{font-size:11px;line-height:1.8;opacity:0.65;font-family:'Inter',monospace;}
+.preview-box strong{color:var(--verde);opacity:1;}
 .success-note{display:none;background:rgba(201,169,110,0.08);border:1px solid rgba(201,169,110,0.3);padding:16px;text-align:center;font-size:12px;color:var(--oro);margin-top:14px;letter-spacing:1px;}
 
-/* ── RECENSIONI ── */
-.reviews{background:var(--nero-mid);}
-.rev-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;margin-top:48px;}
-.rev-card{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.09);padding:36px;transition:border-color 0.3s;}
-.rev-card:hover{border-color:rgba(201,169,110,0.28);}
-.rev-stars{color:var(--oro);font-size:13px;margin-bottom:18px;letter-spacing:3px;}
-.rev-text{font-family:'Playfair Display',serif;font-size:16px;font-style:italic;line-height:1.75;opacity:0.78;margin-bottom:22px;}
-.rev-author{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--oro);opacity:0.65;}
-.rev-loc{font-size:10px;opacity:0.32;margin-top:4px;}
-
-/* ── FAQ ── */
+/* FAQ */
 .faq{background:var(--nero);}
 .faq-list{max-width:700px;margin:48px auto 0;}
 .faq-item{border-bottom:1px solid rgba(201,169,110,0.12);}
 .faq-q{width:100%;background:transparent;border:none;color:var(--bianco);font-family:'Playfair Display',serif;font-size:18px;font-weight:400;padding:22px 0;text-align:left;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:16px;transition:color 0.3s;}
 .faq-q:hover{color:var(--oro);}
 .faq-icon{font-size:20px;color:var(--oro);transition:transform 0.3s;flex-shrink:0;}
-.faq-a{max-height:0;overflow:hidden;transition:max-height 0.4s ease,padding 0.3s;}
+.faq-a{max-height:0;overflow:hidden;transition:max-height 0.4s ease;}
 .faq-a p{font-size:13px;line-height:2;opacity:0.52;padding-bottom:22px;}
 .faq-item.open .faq-icon{transform:rotate(45deg);}
 .faq-item.open .faq-a{max-height:300px;}
 
-/* ── CONTATTI ── */
+/* CONTATTI */
 .contact{background:var(--nero-mid);}
 .contact-wrap{display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:center;}
-.contact-info{display:flex;flex-direction:column;gap:0;}
 .ci{display:flex;align-items:flex-start;gap:18px;padding:22px 0;border-bottom:1px solid rgba(201,169,110,0.1);}
 .ci:last-child{border-bottom:none;}
 .ci-icon{font-size:20px;margin-top:2px;flex-shrink:0;}
@@ -196,14 +201,15 @@ section{padding:96px 48px;}
 .ci p,.ci a{font-size:12px;opacity:0.45;text-decoration:none;color:var(--bianco);transition:opacity 0.3s;line-height:1.7;}
 .ci a:hover{opacity:0.85;}
 
-/* ── CTA FINALE ── */
+/* CTA FINALE */
 .cta-final{background:linear-gradient(135deg,#0e0c07,#191206,#0e0c07);text-align:center;padding:120px 48px;border-top:1px solid var(--oro-dim);}
 .cta-final h2{font-family:'Playfair Display',serif;font-size:clamp(34px,5vw,62px);font-weight:600;margin-bottom:18px;line-height:1.12;}
 .cta-final h2 em{font-style:italic;color:var(--oro);}
 .cta-final p{font-size:15px;line-height:1.95;opacity:0.52;max-width:500px;margin:0 auto 38px;}
+.cta-promise{display:inline-block;background:rgba(201,169,110,0.08);border:1px solid rgba(201,169,110,0.2);color:var(--oro);font-size:11px;letter-spacing:2px;padding:10px 24px;margin-bottom:28px;}
 .cta-sub{font-size:10px;opacity:0.3;margin-top:14px;letter-spacing:1px;}
 
-/* ── FOOTER ── */
+/* FOOTER */
 footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;}
 .footer-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:36px;flex-wrap:wrap;gap:24px;}
 .footer-logo{font-family:'Playfair Display',serif;font-size:21px;font-weight:600;letter-spacing:5px;color:var(--oro);}
@@ -216,38 +222,36 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
 .footer-social a{font-size:11px;opacity:0.35;text-decoration:none;color:var(--bianco);transition:opacity 0.3s;}
 .footer-social a:hover{opacity:0.85;}
 
-/* ── WA STICKY ── */
-.wa-btn{position:fixed;bottom:28px;right:28px;z-index:999;background:var(--verde);color:#fff;width:56px;height:56px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:26px;box-shadow:0 4px 22px rgba(37,211,102,0.38);text-decoration:none;transition:all 0.3s;}
-.wa-btn:hover{transform:scale(1.1);box-shadow:0 6px 30px rgba(37,211,102,0.5);}
+/* WA STICKY */
+.wa-sticky{position:fixed;bottom:28px;right:28px;z-index:999;background:var(--verde);color:#fff;width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:26px;box-shadow:0 4px 22px rgba(37,211,102,0.4);text-decoration:none;transition:all 0.3s;}
+.wa-sticky:hover{transform:scale(1.1);box-shadow:0 6px 30px rgba(37,211,102,0.55);}
 
-/* ── ANIMATIONS ── */
+/* ANIMATIONS */
 @keyframes fadeUp{from{opacity:0;transform:translateY(26px)}to{opacity:1;transform:translateY(0)}}
 @keyframes pulse{0%,100%{opacity:0.3}50%{opacity:0.65}}
 
-/* ── MOBILE ── */
+/* MOBILE */
 @media(max-width:960px){
-  nav{padding:14px 20px;}
-  .nav-links{display:none;flex-direction:column;position:absolute;top:100%;left:0;right:0;background:rgba(11,11,11,0.98);padding:20px;gap:16px;border-bottom:1px solid var(--oro-dim);}
-  .nav-links.open{display:flex;}
-  .nav-toggle{display:block;}
-  section{padding:68px 20px;}
-  .about,.transfer,.booking-wrap,.contact-wrap{grid-template-columns:1fr;gap:36px;}
-  .prop-grid,.rev-grid{grid-template-columns:1fr;}
-  .exp-grid{grid-template-columns:1fr 1fr;}
-  .steps{grid-template-columns:1fr;}.steps::before{display:none;}
-  .tiers{grid-template-columns:1fr;}
-  .hero h1{font-size:40px;}
-  footer{padding:40px 20px;}
-  .footer-top,.footer-bottom{flex-direction:column;align-items:flex-start;}
-  .divider{padding:0 20px;}
-  .trust-bar{gap:24px;padding:24px 20px;}
-  .trust-sep{display:none;}
-  .lang-bar{padding:8px 16px;}
-  .prop-header{flex-direction:column;align-items:flex-start;}
-  .fg-row{grid-template-columns:1fr;}
-  .cta-final{padding:80px 20px;}
-  .transfer-visual{min-height:200px;}
-  nav{top:33px;}
+nav{padding:14px 20px;}.nav-links{display:none;flex-direction:column;position:absolute;top:100%;left:0;right:0;background:rgba(11,11,11,0.98);padding:20px;gap:16px;border-bottom:1px solid var(--oro-dim);}.nav-links.open{display:flex;}.nav-toggle{display:block;}
+section{padding:68px 20px;}
+.about,.transfer,.booking-wrap,.contact-wrap{grid-template-columns:1fr;gap:36px;}
+.prop-grid,.wa-reviews{grid-template-columns:1fr;}
+.exp-grid{grid-template-columns:1fr 1fr;}
+.trust-grid{grid-template-columns:1fr 1fr;}
+.steps{grid-template-columns:1fr;}.steps::before{display:none;}
+.hero h1{font-size:40px;}
+footer{padding:40px 20px;}
+.footer-top,.footer-bottom{flex-direction:column;align-items:flex-start;}
+.divider{padding:0 20px;}
+.trust-bar{gap:24px;padding:24px 20px;}.trust-sep{display:none;}
+.lang-bar{padding:8px 16px;}
+.prop-header{flex-direction:column;align-items:flex-start;}
+.fg-row{grid-template-columns:1fr;}
+.tiers{grid-template-columns:1fr;}
+.cta-final{padding:80px 20px;}
+.transfer-visual{min-height:180px;}
+.btn-primary,.btn-ghost,.btn-wa{width:100%;text-align:center;padding:18px;}
+.hero-ctas{flex-direction:column;align-items:center;}
 }
 </style>
 </head>
@@ -267,9 +271,9 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
   <ul class="nav-links" id="navLinks">
     <li><a href="#proprieta" data-it="Proprietà" data-en="Properties" data-fr="Propriétés">Proprietà</a></li>
     <li><a href="#esperienze" data-it="Esperienze" data-en="Experiences" data-fr="Expériences">Esperienze</a></li>
-    <li><a href="#faq" data-it="FAQ" data-en="FAQ" data-fr="FAQ">FAQ</a></li>
+    <li><a href="#faq">FAQ</a></li>
     <li><a href="#contatti" data-it="Contatti" data-en="Contact" data-fr="Contact">Contatti</a></li>
-    <li><a href="#prenota" class="nav-cta" data-it="Prenota" data-en="Book Now" data-fr="Réserver">Prenota</a></li>
+    <li><a href="#prenota" class="nav-cta" data-it="Verifica disponibilità" data-en="Check availability" data-fr="Vérifier la disponibilité">Verifica disponibilità</a></li>
   </ul>
 </nav>
 
@@ -279,24 +283,27 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
   <div class="hero-content">
     <div class="hero-eyebrow" data-it="Marrakech — Marocco" data-en="Marrakech — Morocco" data-fr="Marrakech — Maroc">Marrakech — Marocco</div>
     <h1 data-it="Marrakech senza rischi.<br><em>Solo il meglio.</em>" data-en="Marrakech without risks.<br><em>Only the best.</em>" data-fr="Marrakech sans risques.<br><em>Seulement le meilleur.</em>">Marrakech senza rischi.<br><em>Solo il meglio.</em></h1>
-    <p class="hero-sub" data-it="Selezioniamo ville, appartamenti e riad verificati. Organizziamo esperienze reali. Tu arrivi — noi pensiamo al resto." data-en="We select verified villas, apartments and riads. We organize real experiences. You arrive — we handle everything." data-fr="Nous sélectionnons des villas, appartements et riads vérifiés. Vous arrivez — nous gérons tout.">Selezioniamo ville, appartamenti e riad verificati. Organizziamo esperienze reali. Tu arrivi — noi pensiamo al resto.</p>
+    <p class="hero-sub" data-it="Ville, appartamenti e riad verificati. Esperienze reali. Tu arrivi — noi pensiamo al resto." data-en="Verified villas, apartments and riads. Real experiences. You arrive — we handle everything." data-fr="Villas, appartements et riads vérifiés. Expériences réelles. Vous arrivez — on gère tout.">Ville, appartamenti e riad verificati. Esperienze reali. Tu arrivi — noi pensiamo al resto.</p>
+    <div class="hero-promise" data-it="⚡ Risposta garantita in meno di 30 minuti" data-en="⚡ Response guaranteed in less than 30 minutes" data-fr="⚡ Réponse garantie en moins de 30 minutes">⚡ Risposta garantita in meno di 30 minuti</div>
     <div class="hero-ctas">
-      <a href="#proprieta" class="btn-primary" data-it="Scopri le proprietà" data-en="Discover Properties" data-fr="Découvrir les propriétés">Scopri le proprietà</a>
-      <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay" target="_blank" class="btn-ghost" data-it="📲 Scrivici su WhatsApp" data-en="📲 Write on WhatsApp" data-fr="📲 Écrire sur WhatsApp">📲 Scrivici su WhatsApp</a>
+      <a href="#prenota" class="btn-primary" data-it="Verifica disponibilità ora" data-en="Check availability now" data-fr="Vérifier la disponibilité">Verifica disponibilità ora</a>
+      <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay%20a%20Marrakech.%20Potete%20aiutarmi?" target="_blank" class="btn-wa" data-it="📲 Parla con noi su WhatsApp" data-en="📲 Talk to us on WhatsApp" data-fr="📲 Parlez-nous sur WhatsApp">📲 Parla con noi su WhatsApp</a>
     </div>
   </div>
   <div class="hero-scroll"><div class="hero-scroll-line"></div><span>scroll</span></div>
 </section>
 
-<!-- TRUST -->
+<!-- TRUST BAR -->
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-num">200+</span><span class="trust-label" data-it="Ospiti soddisfatti" data-en="Happy guests" data-fr="Clients satisfaits">Ospiti soddisfatti</span></div>
+  <div class="trust-sep"></div>
+  <div class="trust-item"><span class="trust-num">&lt;30min</span><span class="trust-label" data-it="Tempo di risposta" data-en="Response time" data-fr="Temps de réponse">Tempo di risposta</span></div>
   <div class="trust-sep"></div>
   <div class="trust-item"><span class="trust-num">12</span><span class="trust-label" data-it="Esperienze esclusive" data-en="Exclusive experiences" data-fr="Expériences exclusives">Esperienze esclusive</span></div>
   <div class="trust-sep"></div>
   <div class="trust-item"><span class="trust-num">IT · FR · EN</span><span class="trust-label" data-it="Lingue parlate" data-en="Languages spoken" data-fr="Langues parlées">Lingue parlate</span></div>
   <div class="trust-sep"></div>
-  <div class="trust-phrase" data-it="Nessuna agenzia. Selezione diretta." data-en="No agency. Direct selection." data-fr="Pas d'agence. Sélection directe.">Nessuna agenzia. Selezione diretta.</div>
+  <div class="trust-phrase" data-it="Nessun bot. Persona reale." data-en="No bots. Real person." data-fr="Pas de bot. Personne réelle.">Nessun bot. Persona reale.</div>
 </div>
 
 <!-- CHI SIAMO -->
@@ -304,11 +311,45 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
   <div>
     <p class="s-label" data-it="Chi siamo" data-en="About us" data-fr="Qui sommes-nous">Chi siamo</p>
     <h2 class="s-title" data-it="Non siamo su Booking.<br><em>Siamo a Marrakech.</em>" data-en="We're not on Booking.<br><em>We're in Marrakech.</em>" data-fr="Nous ne sommes pas sur Booking.<br><em>Nous sommes à Marrakech.</em>">Non siamo su Booking.<br><em>Siamo a Marrakech.</em></h2>
-    <p class="s-text" data-it="Ogni proprietà qui è stata visitata di persona. Nessun listino copiato da altri siti. Nessuna sorpresa all'arrivo. Conosciamo i proprietari, i vicoli, le persone giuste. Su Airbnb prenoti una foto. Con noi prenoti un'esperienza verificata." data-en="Every property has been visited in person. No copied listings. No surprises on arrival. We know the owners, the alleys, the right people. On Airbnb you book a photo. With us you book a verified experience." data-fr="Chaque propriété a été visitée en personne. Pas de listes copiées. Nous connaissons les propriétaires et les bonnes personnes. Sur Airbnb vous réservez une photo. Avec nous une expérience vérifiée.">Ogni proprietà qui è stata visitata di persona. Nessun listino copiato da altri siti. Nessuna sorpresa all'arrivo. Conosciamo i proprietari, i vicoli, le persone giuste. Su Airbnb prenoti una foto. Con noi prenoti un'esperienza verificata.</p>
+    <p class="s-text" data-it="Ogni proprietà è stata visitata di persona. Nessuna sorpresa all'arrivo. Su Airbnb prenoti una foto. Con noi prenoti un'esperienza verificata da chi ci vive." data-en="Every property has been visited in person. No surprises on arrival. On Airbnb you book a photo. With us you book an experience verified by someone who lives there." data-fr="Chaque propriété a été visitée en personne. Pas de surprises. Sur Airbnb vous réservez une photo. Avec nous une expérience vérifiée par quelqu'un qui vit là-bas.">Ogni proprietà è stata visitata di persona. Nessuna sorpresa all'arrivo. Su Airbnb prenoti una foto. Con noi prenoti un'esperienza verificata da chi ci vive.</p>
+    <a href="https://wa.me/393881080923?text=Ciao,%20vorrei%20ricevere%20una%20proposta%20per%20Marrakech" target="_blank" class="micro-cta" data-it="Ricevi proposta in 30 minuti" data-en="Get proposal in 30 minutes" data-fr="Recevoir une proposition en 30 minutes">Ricevi proposta in 30 minuti</a>
   </div>
   <div class="about-card reveal">
-    <blockquote data-it="Il vantaggio di avere un contatto locale reale — non un algoritmo che gestisce mille annunci. Questo è quello che fa la differenza." data-en="The advantage of a real local contact — not an algorithm managing a thousand listings. This is what makes the difference." data-fr="L'avantage d'un vrai contact local — pas un algorithme gérant mille annonces. C'est ce qui fait la différence.">Il vantaggio di avere un contatto locale reale — non un algoritmo che gestisce mille annunci. Questo è quello che fa la differenza.</blockquote>
+    <blockquote data-it="Il vantaggio di avere un contatto locale reale — non un algoritmo che gestisce mille annunci. Questo è quello che fa la differenza." data-en="The advantage of a real local contact — not an algorithm managing a thousand listings. This makes all the difference." data-fr="L'avantage d'un vrai contact local — pas un algorithme gérant mille annonces. C'est ce qui fait la différence.">Il vantaggio di avere un contatto locale reale — non un algoritmo che gestisce mille annunci. Questo è quello che fa la differenza.</blockquote>
     <cite>— AtlasStay, Marrakech</cite>
+  </div>
+</section>
+
+<div class="divider"><div class="div-line"></div><div class="div-gem">✦</div><div class="div-line"></div></div>
+
+<!-- PERCHÉ FIDARSI -->
+<section class="trust-section" id="fiducia">
+  <p class="s-label" style="text-align:center;" data-it="Perché fidarti di noi" data-en="Why trust us" data-fr="Pourquoi nous faire confiance">Perché fidarti di noi</p>
+  <h2 class="s-title" style="text-align:center;" data-it="Non un sito.<br><em>Un contatto reale.</em>" data-en="Not a website.<br><em>A real contact.</em>" data-fr="Pas un site web.<br><em>Un vrai contact.</em>">Non un sito.<br><em>Un contatto reale.</em></h2>
+  <div class="trust-grid">
+    <div class="trust-card reveal">
+      <span class="trust-card-icon">📍</span>
+      <h4 data-it="Presenza locale reale" data-en="Real local presence" data-fr="Présence locale réelle">Presenza locale reale</h4>
+      <p data-it="Siamo fisicamente a Marrakech. Conosciamo ogni quartiere, ogni proprietario, ogni strada. Non gestiamo da remoto." data-en="We are physically in Marrakech. We know every neighborhood, every owner, every street. We don't manage remotely." data-fr="Nous sommes physiquement à Marrakech. Nous connaissons chaque quartier, chaque propriétaire, chaque rue.">Siamo fisicamente a Marrakech. Conosciamo ogni quartiere, ogni proprietario, ogni strada. Non gestiamo da remoto.</p>
+    </div>
+    <div class="trust-card reveal">
+      <span class="trust-card-icon">🔍</span>
+      <h4 data-it="Proprietà verificate di persona" data-en="Properties verified in person" data-fr="Propriétés vérifiées en personne">Proprietà verificate di persona</h4>
+      <p data-it="Ogni appartamento, villa e riad sul nostro sito è stato visitato. Nessuna foto stock. Nessuna sorpresa. Quello che vedi è quello che trovi." data-en="Every apartment, villa and riad on our site has been visited. No stock photos. No surprises. What you see is what you get." data-fr="Chaque bien a été visité. Pas de photos stock. Pas de surprises. Ce que vous voyez, c'est ce que vous trouvez.">Ogni appartamento, villa e riad sul nostro sito è stato visitato. Nessuna foto stock. Nessuna sorpresa. Quello che vedi è quello che trovi.</p>
+    </div>
+    <div class="trust-card reveal">
+      <span class="trust-card-icon">🚫</span>
+      <h4 data-it="Nessuna piattaforma" data-en="No platform" data-fr="Pas de plateforme">Nessuna piattaforma</h4>
+      <p data-it="Non siamo Airbnb. Non siamo Booking. Nessuna commissione nascosta, nessun algoritmo tra te e noi. Contatto diretto, prezzo trasparente." data-en="We're not Airbnb. We're not Booking. No hidden fees, no algorithm between you and us. Direct contact, transparent pricing." data-fr="Nous ne sommes pas Airbnb. Pas Booking. Pas de frais cachés, pas d'algorithme entre vous et nous.">Non siamo Airbnb. Non siamo Booking. Nessuna commissione nascosta, nessun algoritmo tra te e noi. Contatto diretto, prezzo trasparente.</p>
+    </div>
+    <div class="trust-card reveal">
+      <span class="trust-card-icon">💬</span>
+      <h4 data-it="Supporto reale, non bot" data-en="Real support, not bots" data-fr="Vrai support, pas de bots">Supporto reale, non bot</h4>
+      <p data-it="Rispondi a un essere umano. In italiano, francese o inglese. Disponibili per tutta la durata del tuo soggiorno — dall'aeroporto all'ultimo giorno." data-en="You reply to a human being. In Italian, French or English. Available throughout your entire stay — from the airport to the last day." data-fr="Vous répondez à un être humain. En français, italien ou anglais. Disponible pendant tout votre séjour.">Rispondi a un essere umano. In italiano, francese o inglese. Disponibili per tutta la durata del tuo soggiorno — dall'aeroporto all'ultimo giorno.</p>
+    </div>
+  </div>
+  <div class="section-cta">
+    <a href="https://wa.me/393881080923?text=Ciao,%20vorrei%20ricevere%20una%20proposta%20personalizzata%20per%20Marrakech" target="_blank" class="btn-wa" data-it="📲 Parla direttamente con noi" data-en="📲 Talk directly to us" data-fr="📲 Parlez directement avec nous">📲 Parla direttamente con noi</a>
   </div>
 </section>
 
@@ -321,50 +362,39 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
       <p class="s-label" data-it="Le proprietà" data-en="Properties" data-fr="Propriétés">Le proprietà</p>
       <h2 class="s-title" data-it="Tre soluzioni.<br><em>Tutte verificate.</em>" data-en="Three solutions.<br><em>All verified.</em>" data-fr="Trois solutions.<br><em>Toutes vérifiées.</em>">Tre soluzioni.<br><em>Tutte verificate.</em></h2>
     </div>
-    <a href="#prenota" class="btn-ghost" data-it="Verifica disponibilità" data-en="Check availability" data-fr="Vérifier la disponibilité">Verifica disponibilità</a>
+    <a href="#prenota" class="btn-primary" data-it="Verifica disponibilità ora" data-en="Check availability now" data-fr="Vérifier la disponibilité">Verifica disponibilità ora</a>
   </div>
   <div class="prop-grid">
-
     <div class="prop-card reveal">
-      <div class="prop-img">🏊
-        <div class="prop-badge" data-it="Più richiesta" data-en="Most popular" data-fr="Plus demandée">Più richiesta</div>
-        <div class="prop-price-tag">da €150<small>/notte</small></div>
-      </div>
+      <div class="prop-img">🏊<div class="prop-badge" data-it="Più richiesta" data-en="Most popular" data-fr="Plus demandée">Più richiesta</div><div class="prop-price-tag">da €150<small>/notte</small></div></div>
       <div class="prop-body">
         <h3 data-it="Spazio privato. Piscina esclusiva." data-en="Private space. Exclusive pool." data-fr="Espace privé. Piscine exclusive.">Spazio privato. Piscina esclusiva.</h3>
-        <p data-it="Giardino, terrazza, cucina attrezzata. Tutto per voi, nessuna hall condivisa, nessuna colazione tra sconosciuti." data-en="Garden, terrace, equipped kitchen. Everything for you — no shared lobby, no breakfast among strangers." data-fr="Jardin, terrasse, cuisine équipée. Tout pour vous — sans hall partagé.">Giardino, terrazza, cucina attrezzata. Tutto per voi, nessuna hall condivisa, nessuna colazione tra sconosciuti.</p>
-        <p class="prop-ideal" data-it="✦ Ideale per famiglie, gruppi, coppie che vogliono privacy totale." data-en="✦ Ideal for families, groups and couples wanting total privacy." data-fr="✦ Idéal pour les familles, groupes et couples souhaitant une totale intimité.">✦ Ideale per famiglie, gruppi, coppie che vogliono privacy totale.</p>
+        <p data-it="Giardino, terrazza, cucina attrezzata. Tutto per voi — nessuna hall condivisa, nessuna colazione tra sconosciuti." data-en="Garden, terrace, equipped kitchen. All for you — no shared lobby, no breakfast among strangers." data-fr="Jardin, terrasse, cuisine équipée. Tout pour vous — sans hall partagé.">Giardino, terrazza, cucina attrezzata. Tutto per voi — nessuna hall condivisa, nessuna colazione tra sconosciuti.</p>
+        <p class="prop-ideal" data-it="✦ Ideale per famiglie, gruppi, coppie che vogliono privacy totale." data-en="✦ Ideal for families, groups, couples wanting total privacy." data-fr="✦ Idéal pour les familles, groupes et couples.">✦ Ideale per famiglie, gruppi, coppie che vogliono privacy totale.</p>
         <div class="prop-meta"><span>🛏 Fino a 10</span><span>🏊 Piscina</span><span>🌿 Giardino</span></div>
-        <a href="#prenota" class="btn-sm" data-it="Richiedi disponibilità" data-en="Request availability" data-fr="Demander la disponibilité">Richiedi disponibilità</a>
+        <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20alla%20Villa%20con%20Piscina%20di%20AtlasStay.%20Potete%20verificare%20la%20disponibilità?" target="_blank" class="btn-sm" data-it="📲 Verifica disponibilità" data-en="📲 Check availability" data-fr="📲 Vérifier la disponibilité">📲 Verifica disponibilità</a>
       </div>
     </div>
-
     <div class="prop-card reveal">
-      <div class="prop-img">🏙
-        <div class="prop-price-tag">da €80<small>/notte</small></div>
-      </div>
+      <div class="prop-img">🏙<div class="prop-price-tag">da €80<small>/notte</small></div></div>
       <div class="prop-body">
         <h3 data-it="Nel cuore di Marrakech. Senza i costi dell'hotel." data-en="In the heart of Marrakech. Without hotel costs." data-fr="Au cœur de Marrakech. Sans les coûts de l'hôtel.">Nel cuore di Marrakech. Senza i costi dell'hotel.</h3>
-        <p data-it="Moderno, pulito, posizionato bene. Tutto per muoverti in autonomia — con qualcuno che risponde se hai bisogno." data-en="Modern, clean, well-positioned. Everything for independent movement — with someone who responds when needed." data-fr="Moderne, propre, bien situé. Tout pour vous déplacer de façon autonome.">Moderno, pulito, posizionato bene. Tutto per muoverti in autonomia — con qualcuno che risponde se hai bisogno.</p>
-        <p class="prop-ideal" data-it="✦ Ideale per coppie e viaggiatori che vogliono comfort senza lusso inutile." data-en="✦ Ideal for couples and travelers wanting comfort without unnecessary luxury." data-fr="✦ Idéal pour les couples et voyageurs voulant du confort sans luxe superflu.">✦ Ideale per coppie e viaggiatori che vogliono comfort senza lusso inutile.</p>
+        <p data-it="Moderno, pulito, posizionato bene. Autonomia totale — con qualcuno che risponde se hai bisogno." data-en="Modern, clean, well-positioned. Total independence — with someone who responds when needed." data-fr="Moderne, propre, bien situé. Totale autonomie — avec quelqu'un qui répond si nécessaire.">Moderno, pulito, posizionato bene. Autonomia totale — con qualcuno che risponde se hai bisogno.</p>
+        <p class="prop-ideal" data-it="✦ Ideale per coppie e viaggiatori che vogliono comfort senza sprechi." data-en="✦ Ideal for couples and travelers wanting smart comfort." data-fr="✦ Idéal pour les couples et voyageurs.">✦ Ideale per coppie e viaggiatori che vogliono comfort senza sprechi.</p>
         <div class="prop-meta"><span>🛏 Fino a 4</span><span>🍳 Cucina</span><span>📍 Centro</span></div>
-        <a href="#prenota" class="btn-sm" data-it="Richiedi disponibilità" data-en="Request availability" data-fr="Demander la disponibilité">Richiedi disponibilità</a>
+        <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20all'Appartamento%20Privato%20di%20AtlasStay.%20Potete%20verificare%20la%20disponibilità?" target="_blank" class="btn-sm" data-it="📲 Verifica disponibilità" data-en="📲 Check availability" data-fr="📲 Vérifier la disponibilité">📲 Verifica disponibilità</a>
       </div>
     </div>
-
     <div class="prop-card reveal">
-      <div class="prop-img">🕌
-        <div class="prop-price-tag">da €120<small>/notte</small></div>
-      </div>
+      <div class="prop-img">🕌<div class="prop-price-tag">da €120<small>/notte</small></div></div>
       <div class="prop-body">
         <h3 data-it="Dentro Marrakech. Non fuori a guardarla." data-en="Inside Marrakech. Not outside looking in." data-fr="Dans Marrakech. Pas dehors à la regarder.">Dentro Marrakech. Non fuori a guardarla.</h3>
-        <p data-it="Architettura originale, cortile interno, terrazza panoramica. L'unico modo per capire davvero come si vive qui." data-en="Original architecture, inner courtyard, panoramic terrace. The only way to truly understand life here." data-fr="Architecture originale, cour intérieure, terrasse panoramique. La seule façon de comprendre vraiment comment on vit ici.">Architettura originale, cortile interno, terrazza panoramica. L'unico modo per capire davvero come si vive qui.</p>
-        <p class="prop-ideal" data-it="✦ Ideale per chi vuole l'esperienza vera — non la versione turistica." data-en="✦ Ideal for those who want the real experience — not the tourist version." data-fr="✦ Idéal pour ceux qui veulent l'expérience authentique — pas la version touristique.">✦ Ideale per chi vuole l'esperienza vera — non la versione turistica.</p>
+        <p data-it="Architettura originale, cortile interno, terrazza panoramica. L'unico modo per capire davvero Marrakech." data-en="Original architecture, inner courtyard, panoramic terrace. The only way to truly understand Marrakech." data-fr="Architecture originale, cour intérieure, terrasse panoramique. La seule façon de vraiment comprendre Marrakech.">Architettura originale, cortile interno, terrazza panoramica. L'unico modo per capire davvero Marrakech.</p>
+        <p class="prop-ideal" data-it="✦ Ideale per chi vuole l'esperienza vera — non la versione turistica." data-en="✦ Ideal for those who want the real experience — not the tourist version." data-fr="✦ Idéal pour ceux qui veulent l'expérience authentique.">✦ Ideale per chi vuole l'esperienza vera — non la versione turistica.</p>
         <div class="prop-meta"><span>🛏 Fino a 6</span><span>🌅 Terrazza</span><span>✦ Storico</span></div>
-        <a href="#prenota" class="btn-sm" data-it="Richiedi disponibilità" data-en="Request availability" data-fr="Demander la disponibilité">Richiedi disponibilità</a>
+        <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20al%20Riad%20Tradizionale%20di%20AtlasStay.%20Potete%20verificare%20la%20disponibilità?" target="_blank" class="btn-sm" data-it="📲 Verifica disponibilità" data-en="📲 Check availability" data-fr="📲 Vérifier la disponibilité">📲 Verifica disponibilità</a>
       </div>
     </div>
-
   </div>
 </section>
 
@@ -374,20 +404,19 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
 <section class="experiences" id="esperienze">
   <p class="s-label" data-it="Le esperienze" data-en="Experiences" data-fr="Les expériences">Le esperienze</p>
   <h2 class="s-title" data-it="Smettila di fare il turista.<br><em>Inizia a vivere Marrakech.</em>" data-en="Stop being a tourist.<br><em>Start living Marrakech.</em>" data-fr="Arrêtez d'être touriste.<br><em>Commencez à vivre Marrakech.</em>">Smettila di fare il turista.<br><em>Inizia a vivere Marrakech.</em></h2>
-  <p class="exp-intro" data-it="Niente tour di gruppo. Niente guida con l'ombrellino. Solo accesso reale a luoghi e persone che i turisti normali non raggiungono." data-en="No group tours. No umbrella guide. Just real access to places and people that regular tourists never reach." data-fr="Pas de tours de groupe. Seulement un accès réel à des endroits que les touristes normaux n'atteignent pas.">Niente tour di gruppo. Niente guida con l'ombrellino. Solo accesso reale a luoghi e persone che i turisti normali non raggiungono.</p>
+  <p class="exp-intro" data-it="Niente tour di gruppo. Niente guida con l'ombrellino. Accesso reale a luoghi che i turisti normali non raggiungono." data-en="No group tours. No umbrella guides. Real access to places regular tourists never reach." data-fr="Pas de tours de groupe. Accès réel à des endroits que les touristes normaux n'atteignent pas.">Niente tour di gruppo. Niente guida con l'ombrellino. Accesso reale a luoghi che i turisti normali non raggiungono.</p>
   <div class="exp-grid">
-    <div class="exp-card reveal"><span class="exp-icon">🏜</span><h4 data-it="Deserto Merzouga" data-en="Merzouga Desert" data-fr="Désert Merzouga">Deserto Merzouga</h4><p data-it="3 giorni 2 notti. Tenda berbera privata, cammello, nessun gruppo. Il silenzio del deserto va vissuto." data-en="3 days 2 nights. Private Berber tent, camel, no groups. Desert silence must be experienced." data-fr="3 jours 2 nuits. Tente berbère privée, chameau, aucun groupe.">3 giorni 2 notti. Tenda berbera privata, cammello, nessun gruppo. Il silenzio del deserto va vissuto.</p><span class="tag" data-it="Privato" data-en="Private" data-fr="Privé">Privato</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🎈</span><h4 data-it="Mongolfiera all'Alba" data-en="Hot Air Balloon" data-fr="Montgolfière">Mongolfiera all'Alba</h4><p data-it="Marrakech dall'alto quando la città si sveglia. Privata. Posti limitati." data-en="Marrakech from above as the city wakes. Private. Limited spots." data-fr="Marrakech d'en haut quand la ville se réveille. Privée. Places limitées.">Marrakech dall'alto quando la città si sveglia. Privata. Posti limitati.</p><span class="tag" data-it="Posti limitati" data-en="Limited spots" data-fr="Places limitées">Posti limitati</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🧖</span><h4 data-it="Hammam Autentico" data-en="Authentic Hammam" data-fr="Hammam Authentique">Hammam Autentico</h4><p data-it="Non il centro benessere dell'hotel. Il rituale vero — argan, gassoul, guida in italiano." data-en="Not the hotel spa. The real ritual — argan, ghassoul, English guide." data-fr="Pas le spa de l'hôtel. Le vrai rituel — argan, ghassoul, guide francophone.">Non il centro benessere dell'hotel. Il rituale vero — argan, gassoul, guida in italiano.</p><span class="tag" data-it="Locale" data-en="Local" data-fr="Local">Locale</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🍽</span><h4 data-it="Cena Privata al Riad" data-en="Private Riad Dinner" data-fr="Dîner Privé au Riad">Cena Privata al Riad</h4><p data-it="Chef locale, ricette di famiglia. Solo voi. Nessun menu turistico." data-en="Local chef, family recipes. Just you. No tourist menu." data-fr="Chef local, recettes de famille. Juste vous. Pas de menu touristique.">Chef locale, ricette di famiglia. Solo voi. Nessun menu turistico.</p><span class="tag" data-it="Solo voi" data-en="Just you" data-fr="Juste vous">Solo voi</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🚶</span><h4 data-it="Tour della Medina" data-en="Medina Tour" data-fr="Tour de la Médina">Tour della Medina</h4><p data-it="I vicoli che non trovi su Google Maps. Gli artigiani veri. I mercati dei locali." data-en="The alleys not on Google Maps. Real craftsmen. Local markets." data-fr="Les ruelles absentes de Google Maps. Les vrais artisans. Les marchés locaux.">I vicoli che non trovi su Google Maps. Gli artigiani veri. I mercati dei locali.</p><span class="tag" data-it="Accesso locale" data-en="Local access" data-fr="Accès local">Accesso locale</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🏍</span><h4 data-it="Quad + Cammello — Agafay" data-en="Quad + Camel — Agafay" data-fr="Quad + Chameau — Agafay">Quad + Cammello — Agafay</h4><p data-it="Adrenalina nel deserto a 40 min da Marrakech. Tramonto sul cammello." data-en="Adrenaline in the desert 40 min from Marrakech. Camel sunset." data-fr="Adrénaline dans le désert à 40 min de Marrakech. Coucher de soleil à dos de chameau.">Adrenalina nel deserto a 40 min da Marrakech. Tramonto sul cammello.</p><span class="tag" data-it="Privato" data-en="Private" data-fr="Privé">Privato</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">👨‍🍳</span><h4 data-it="Cooking Class" data-en="Cooking Class" data-fr="Cours de Cuisine">Cooking Class</h4><p data-it="Impari il tajine da chi lo fa da generazioni. Cena inclusa. In italiano." data-en="Learn tajine from someone who has done it for generations. Dinner included." data-fr="Apprenez le tajine auprès d'un expert. Dîner inclus.">Impari il tajine da chi lo fa da generazioni. Cena inclusa. In italiano.</p><span class="tag" data-it="Locale" data-en="Local" data-fr="Local">Locale</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🌙</span><h4 data-it="Cena Spettacolo Agafay" data-en="Agafay Dinner Show" data-fr="Spectacle Agafay">Cena Spettacolo Agafay</h4><p data-it="Tavolo privato nel deserto. Spettacolo tradizionale. Stelle sopra di voi." data-en="Private desert table. Traditional show. Stars above you." data-fr="Table privée dans le désert. Spectacle traditionnel. Étoiles au-dessus de vous.">Tavolo privato nel deserto. Spettacolo tradizionale. Stelle sopra di voi.</p><span class="tag" data-it="Solo voi" data-en="Just you" data-fr="Juste vous">Solo voi</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🌊</span><h4>Essaouira</h4><p data-it="Costa atlantica, medina blu, pesce fresco. Transfer privato andata/ritorno." data-en="Atlantic coast, blue medina, fresh fish. Private return transfer." data-fr="Côte atlantique, médina bleue, poisson frais. Transfert privé aller-retour.">Costa atlantica, medina blu, pesce fresco. Transfer privato andata/ritorno.</p><span class="tag" data-it="Gita privata" data-en="Private trip" data-fr="Excursion privée">Gita privata</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">💧</span><h4 data-it="Cascate di Ouzoud" data-en="Ouzoud Waterfalls" data-fr="Cascades d'Ouzoud">Cascate di Ouzoud</h4><p data-it="Le cascate più belle del Marocco. Transfer privato. Nessuno stress." data-en="Morocco's most beautiful waterfalls. Private transfer. No stress." data-fr="Les plus belles cascades du Maroc. Transfert privé. Aucun stress.">Le cascate più belle del Marocco. Transfer privato. Nessuno stress.</p><span class="tag" data-it="Privato" data-en="Private" data-fr="Privé">Privato</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🏔</span><h4 data-it="Vallée de l'Ourika" data-en="Ourika Valley" data-fr="Vallée de l'Ourika">Vallée de l'Ourika</h4><p data-it="Atlante, villaggi berberi, mercato locale. Lontano da tutto." data-en="Atlas, Berber villages, local market. Far from everything." data-fr="Atlas, villages berbères, marché local. Loin de tout.">Atlante, villaggi berberi, mercato locale. Lontano da tutto.</p><span class="tag" data-it="Locale" data-en="Local" data-fr="Local">Locale</span></div>
-    <div class="exp-card reveal"><span class="exp-icon">🎯</span><h4 data-it="Esperienza su Misura" data-en="Custom Experience" data-fr="Expérience sur Mesure">Esperienza su Misura</h4><p data-it="Dicci cosa vuoi vivere. Costruiamo l'itinerario. Niente di preconfezionato." data-en="Tell us what you want. We build the itinerary. Nothing pre-packaged." data-fr="Dites-nous ce que vous voulez. Nous construisons l'itinéraire.">Dicci cosa vuoi vivere. Costruiamo l'itinerario. Niente di preconfezionato.</p><span class="tag" data-it="Su misura" data-en="Custom" data-fr="Personnalisé">Su misura</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🏜</span><h4 data-it="Deserto Merzouga" data-en="Merzouga Desert" data-fr="Désert Merzouga">Deserto Merzouga</h4><p data-it="3 giorni 2 notti. Tenda berbera privata, cammello, nessun gruppo." data-en="3 days 2 nights. Private Berber tent, camel, no groups." data-fr="3 jours 2 nuits. Tente berbère privée, chameau, aucun groupe.">3 giorni 2 notti. Tenda berbera privata, cammello, nessun gruppo.</p><span class="tag" data-it="Privato" data-en="Private" data-fr="Privé">Privato</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🎈</span><h4 data-it="Mongolfiera all'Alba" data-en="Hot Air Balloon" data-fr="Montgolfière">Mongolfiera all'Alba</h4><p data-it="Marrakech dall'alto, quando la città si sveglia. Posti limitati." data-en="Marrakech from above as the city wakes. Limited spots." data-fr="Marrakech d'en haut quand la ville se réveille. Places limitées.">Marrakech dall'alto, quando la città si sveglia. Posti limitati.</p><span class="tag" data-it="Posti limitati" data-en="Limited spots" data-fr="Places limitées">Posti limitati</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🧖</span><h4 data-it="Hammam Autentico" data-en="Authentic Hammam" data-fr="Hammam Authentique">Hammam Autentico</h4><p data-it="Il rituale vero — argan, gassoul, hammam locale. Non il centro benessere dell'hotel." data-en="The real ritual — argan, ghassoul, local hammam. Not the hotel spa." data-fr="Le vrai rituel — argan, ghassoul, hammam local. Pas le spa de l'hôtel.">Il rituale vero — argan, gassoul, hammam locale. Non il centro benessere dell'hotel.</p><span class="tag" data-it="Locale" data-en="Local" data-fr="Local">Locale</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🍽</span><h4 data-it="Cena Privata al Riad" data-en="Private Riad Dinner" data-fr="Dîner Privé">Cena Privata al Riad</h4><p data-it="Chef locale, ricette di famiglia. Solo voi. Nessun menu turistico." data-en="Local chef, family recipes. Just you. No tourist menu." data-fr="Chef local, recettes de famille. Juste vous.">Chef locale, ricette di famiglia. Solo voi. Nessun menu turistico.</p><span class="tag" data-it="Solo voi" data-en="Just you" data-fr="Juste vous">Solo voi</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🚶</span><h4 data-it="Tour della Medina" data-en="Medina Tour" data-fr="Tour Médina">Tour della Medina</h4><p data-it="I vicoli non su Google Maps. Gli artigiani veri. I mercati dei locali." data-en="Alleys not on Google Maps. Real craftsmen. Local markets." data-fr="Les ruelles absentes de Google Maps. Les vrais artisans.">I vicoli non su Google Maps. Gli artigiani veri. I mercati dei locali.</p><span class="tag" data-it="Accesso locale" data-en="Local access" data-fr="Accès local">Accesso locale</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🏍</span><h4 data-it="Quad + Cammello — Agafay" data-en="Quad + Camel" data-fr="Quad + Chameau">Quad + Cammello — Agafay</h4><p data-it="Adrenalina nel deserto a 40 min da Marrakech. Tramonto sul cammello." data-en="Adrenaline in the desert 40 min from Marrakech. Camel sunset." data-fr="Adrénaline dans le désert à 40 min. Coucher de soleil à dos de chameau.">Adrenalina nel deserto a 40 min da Marrakech. Tramonto sul cammello.</p><span class="tag" data-it="Privato" data-en="Private" data-fr="Privé">Privato</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">👨‍🍳</span><h4 data-it="Cooking Class" data-en="Cooking Class" data-fr="Cours de Cuisine">Cooking Class</h4><p data-it="Il tajine da chi lo fa da generazioni. Cena finale inclusa." data-en="Tajine from someone who has made it for generations. Dinner included." data-fr="Le tajine auprès d'un expert. Dîner inclus.">Il tajine da chi lo fa da generazioni. Cena finale inclusa.</p><span class="tag" data-it="Locale" data-en="Local" data-fr="Local">Locale</span></div>
+    <div class="exp-card reveal"><span class="exp-icon">🎯</span><h4 data-it="Esperienza su Misura" data-en="Custom Experience" data-fr="Expérience sur Mesure">Esperienza su Misura</h4><p data-it="Dicci cosa vuoi vivere. Costruiamo noi l'itinerario. Niente di preconfezionato." data-en="Tell us what you want. We build the itinerary. Nothing pre-packaged." data-fr="Dites-nous ce que vous voulez. Nous construisons l'itinéraire.">Dicci cosa vuoi vivere. Costruiamo noi l'itinerario. Niente di preconfezionato.</p><span class="tag" data-it="Su misura" data-en="Custom" data-fr="Personnalisé">Su misura</span></div>
+  </div>
+  <div class="section-cta">
+    <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20alle%20esperienze%20di%20AtlasStay%20a%20Marrakech.%20Potete%20aiutarmi?" target="_blank" class="btn-wa" data-it="📲 Chiedi disponibilità esperienze" data-en="📲 Ask about experience availability" data-fr="📲 Demander la disponibilité">📲 Chiedi disponibilità esperienze</a>
   </div>
 </section>
 
@@ -396,30 +425,23 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
   <div class="transfer-body">
     <p class="s-label" data-it="Transfer & Mobilità" data-en="Transfer & Mobility" data-fr="Transfer & Mobilité">Transfer & Mobilità</p>
     <h2 class="s-title" data-it="Dall'aeroporto alla villa.<br><em>Zero stress.</em>" data-en="From airport to villa.<br><em>Zero stress.</em>" data-fr="De l'aéroport à la villa.<br><em>Zéro stress.</em>">Dall'aeroporto alla villa.<br><em>Zero stress.</em></h2>
-    <p class="s-text" data-it="Il primo momento di un viaggio conta. Niente attese, niente app, niente contrattazioni. Trovi qualcuno con il tuo nome, sali, arrivi." data-en="The first moment of a trip matters. No waiting, no apps, no haggling. You find someone with your name, get in, arrive." data-fr="Le premier moment d'un voyage compte. Pas d'attente, pas d'applications. Vous trouvez quelqu'un avec votre nom, montez, arrivez.">Il primo momento di un viaggio conta. Niente attese, niente app, niente contrattazioni. Trovi qualcuno con il tuo nome, sali, arrivi.</p>
+    <p class="s-text" data-it="Niente attese, niente app, niente contrattazioni. Trovi qualcuno con il tuo nome, sali, arrivi." data-en="No waiting, no apps, no haggling. You find someone with your name, get in, arrive." data-fr="Pas d'attente, pas d'applications, pas de négociation. Vous trouvez quelqu'un avec votre nom.">Niente attese, niente app, niente contrattazioni. Trovi qualcuno con il tuo nome, sali, arrivi.</p>
     <div class="tiers">
       <div class="tier">
         <div class="tier-lbl">Standard</div>
-        <h4 data-it="Transfer Base" data-en="Base Transfer" data-fr="Transfer de Base">Transfer Base</h4>
-        <p data-it="Veicolo pulito, autista puntuale, prezzo fisso. Esattamente quello che serve." data-en="Clean vehicle, punctual driver, fixed price. Exactly what's needed." data-fr="Véhicule propre, chauffeur ponctuel, prix fixe.">Veicolo pulito, autista puntuale, prezzo fisso. Esattamente quello che serve.</p>
-        <ul>
-          <li data-it="Veicolo pulito" data-en="Clean vehicle" data-fr="Véhicule propre">Veicolo pulito</li>
-          <li data-it="Prezzo fisso" data-en="Fixed price" data-fr="Prix fixe">Prezzo fisso</li>
-        </ul>
+        <h4 data-it="Transfer Base" data-en="Base Transfer" data-fr="Transfer Base">Transfer Base</h4>
+        <p data-it="Veicolo pulito, autista puntuale, prezzo fisso." data-en="Clean vehicle, punctual driver, fixed price." data-fr="Véhicule propre, chauffeur ponctuel, prix fixe.">Veicolo pulito, autista puntuale, prezzo fisso.</p>
+        <ul><li data-it="Prezzo fisso" data-en="Fixed price" data-fr="Prix fixe">Prezzo fisso</li><li data-it="Puntualità garantita" data-en="Punctuality guaranteed" data-fr="Ponctualité garantie">Puntualità garantita</li></ul>
       </div>
       <div class="tier vip">
         <div class="tier-lbl">VIP</div>
         <h4 data-it="Transfer VIP" data-en="VIP Transfer" data-fr="Transfer VIP">Transfer VIP</h4>
-        <p data-it="Berlina di lusso, autista che parla italiano, disponibile 24 ore per tutto il soggiorno." data-en="Luxury sedan, English-speaking driver, available 24h throughout your stay." data-fr="Berline de luxe, chauffeur francophone, disponible 24h pendant tout le séjour.">Berlina di lusso, autista che parla italiano, disponibile 24 ore per tutto il soggiorno.</p>
-        <ul>
-          <li data-it="Berlina luxury" data-en="Luxury sedan" data-fr="Berline de luxe">Berlina luxury</li>
-          <li data-it="Meet & Greet aeroporto" data-en="Airport Meet & Greet" data-fr="Accueil aéroport">Meet & Greet aeroporto</li>
-          <li data-it="Disponibile 24/7" data-en="Available 24/7" data-fr="Disponible 24h/24">Disponibile 24/7</li>
-        </ul>
+        <p data-it="Berlina luxury, autista che parla italiano, disponibile 24h per tutto il soggiorno." data-en="Luxury sedan, English-speaking driver, available 24h throughout your stay." data-fr="Berline de luxe, chauffeur francophone, disponible 24h.">Berlina luxury, autista che parla italiano, disponibile 24h per tutto il soggiorno.</p>
+        <ul><li data-it="Berlina luxury" data-en="Luxury sedan" data-fr="Berline de luxe">Berlina luxury</li><li data-it="Meet & Greet aeroporto" data-en="Airport Meet & Greet" data-fr="Accueil aéroport">Meet & Greet aeroporto</li><li data-it="Disponibile 24/7" data-en="Available 24/7" data-fr="Disponible 24h/24">Disponibile 24/7</li></ul>
       </div>
     </div>
-    <div class="transfer-note" data-it="La differenza non è il veicolo. È la sensazione di avere qualcuno di fiducia disponibile per tutto il viaggio." data-en="The difference isn't the vehicle. It's the feeling of having someone you trust available throughout the trip." data-fr="La différence n'est pas le véhicule. C'est le sentiment d'avoir quelqu'un de confiance pendant tout le voyage.">La differenza non è il veicolo. È la sensazione di avere qualcuno di fiducia disponibile per tutto il viaggio.</div>
-    <a href="https://wa.me/393881080923?text=Salve,%20vorrei%20prenotare%20un%20transfer%20con%20AtlasStay" target="_blank" class="btn-primary" style="margin-top:26px;display:inline-block;" data-it="Prenota il transfer" data-en="Book transfer" data-fr="Réserver le transfer">Prenota il transfer</a>
+    <div class="transfer-note" data-it="La differenza non è il veicolo. È la sensazione di avere qualcuno di fiducia disponibile per tutto il viaggio." data-en="The difference isn't the vehicle. It's the feeling of having someone you trust available throughout the trip." data-fr="La différence n'est pas le véhicule. C'est le sentiment d'avoir quelqu'un de confiance.">La differenza non è il veicolo. È la sensazione di avere qualcuno di fiducia disponibile per tutto il viaggio.</div>
+    <a href="https://wa.me/393881080923?text=Ciao,%20vorrei%20prenotare%20un%20transfer%20con%20AtlasStay%20a%20Marrakech" target="_blank" class="btn-wa" style="margin-top:26px;display:inline-block;" data-it="📲 Prenota il transfer ora" data-en="📲 Book transfer now" data-fr="📲 Réserver le transfer">📲 Prenota il transfer ora</a>
   </div>
   <div class="transfer-visual">🚗</div>
 </section>
@@ -427,87 +449,137 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
 <!-- COME FUNZIONA -->
 <section class="how">
   <p class="s-label" data-it="Come funziona" data-en="How it works" data-fr="Comment ça marche">Come funziona</p>
-  <h2 class="s-title" data-it="Tre passi.<br><em>Zero complicazioni.</em>" data-en="Three steps.<br><em>Zero complications.</em>" data-fr="Trois étapes.<br><em>Zéro complications.</em>">Tre passi.<br><em>Zero complicazioni.</em></h2>
+  <h2 class="s-title" data-it="Tre passi.<br><em>Risposta in 30 minuti.</em>" data-en="Three steps.<br><em>Response in 30 minutes.</em>" data-fr="Trois étapes.<br><em>Réponse en 30 minutes.</em>">Tre passi.<br><em>Risposta in 30 minuti.</em></h2>
   <div class="steps">
-    <div class="step reveal"><div class="step-n">1</div><h3 data-it="Scegli" data-en="Choose" data-fr="Choisissez">Scegli</h3><p data-it="Seleziona la proprietà o l'esperienza. Compila il modulo con date e ospiti." data-en="Select the property or experience. Fill in the form with dates and guests." data-fr="Sélectionnez la propriété ou l'expérience. Remplissez le formulaire.">Seleziona la proprietà o l'esperienza. Compila il modulo con date e ospiti.</p></div>
-    <div class="step reveal"><div class="step-n">2</div><h3 data-it="Scrivici" data-en="Write us" data-fr="Écrivez-nous">Scrivici</h3><p data-it="Clicca WhatsApp. Il messaggio viene preparato automaticamente. Rispondo io — non un bot." data-en="Click WhatsApp. The message is auto-prepared. I respond — not a bot." data-fr="Cliquez WhatsApp. Le message est automatiquement préparé. Je réponds — pas un bot.">Clicca WhatsApp. Il messaggio viene preparato automaticamente. Rispondo io — non un bot.</p></div>
-    <div class="step reveal"><div class="step-n">3</div><h3 data-it="Vivi" data-en="Experience" data-fr="Vivez">Vivi</h3><p data-it="Risposta in poche ore con disponibilità e preventivo. Pensi solo a Marrakech." data-en="Response within hours with availability and quote. You just think about Marrakech." data-fr="Réponse en quelques heures avec disponibilité et devis.">Risposta in poche ore con disponibilità e preventivo. Pensi solo a Marrakech.</p></div>
+    <div class="step reveal"><div class="step-n">1</div><h3 data-it="Scegli" data-en="Choose" data-fr="Choisissez">Scegli</h3><p data-it="Compila il form con date, ospiti e tipo di soggiorno. 2 minuti." data-en="Fill in the form with dates, guests and stay type. 2 minutes." data-fr="Remplissez le formulaire avec dates, personnes et type de séjour. 2 minutes.">Compila il form con date, ospiti e tipo di soggiorno. 2 minuti.</p></div>
+    <div class="step reveal"><div class="step-n">2</div><h3 data-it="Invia" data-en="Send" data-fr="Envoyez">Invia</h3><p data-it="Il messaggio WhatsApp viene generato automaticamente con i tuoi dati. Un click." data-en="The WhatsApp message is automatically generated with your details. One click." data-fr="Le message WhatsApp est automatiquement généré. Un seul clic.">Il messaggio WhatsApp viene generato automaticamente con i tuoi dati. Un click.</p></div>
+    <div class="step reveal"><div class="step-n">3</div><h3 data-it="Ricevi proposta" data-en="Get proposal" data-fr="Recevez la proposition">Ricevi proposta</h3><p data-it="Risposta in meno di 30 minuti con disponibilità, preventivo e dettagli. Nessun bot." data-en="Response in less than 30 minutes with availability, quote and details. No bots." data-fr="Réponse en moins de 30 minutes avec disponibilité, devis et détails. Pas de bot.">Risposta in meno di 30 minuti con disponibilità, preventivo e dettagli. Nessun bot.</p></div>
+  </div>
+  <div class="section-cta" style="margin-top:40px;">
+    <a href="#prenota" class="btn-primary" data-it="Inizia ora — è gratis" data-en="Start now — it's free" data-fr="Commencer maintenant — c'est gratuit">Inizia ora — è gratis</a>
   </div>
 </section>
 
 <div class="divider"><div class="div-line"></div><div class="div-gem">✦</div><div class="div-line"></div></div>
 
-<!-- PRENOTAZIONE -->
+<!-- FORM WHATSAPP -->
 <section class="booking" id="prenota">
   <div class="booking-wrap">
     <div class="booking-form-box">
       <p class="s-label" data-it="Richiesta rapida" data-en="Quick request" data-fr="Demande rapide">Richiesta rapida</p>
-      <h3 style="font-family:'Playfair Display',serif;font-size:28px;font-weight:600;margin-bottom:28px;">Invia su <em style="color:var(--oro);font-style:italic">WhatsApp.</em></h3>
+      <h3 style="font-family:'Playfair Display',serif;font-size:28px;font-weight:600;margin-bottom:8px;">Verifica disponibilità.<br><em style="color:var(--oro);font-style:italic">Risposta in 30 minuti.</em></h3>
+      <p style="font-size:12px;opacity:0.45;margin-bottom:28px;" data-it="Compila e invia su WhatsApp. Ti rispondo io — non un bot." data-en="Fill in and send on WhatsApp. I respond — not a bot." data-fr="Remplissez et envoyez sur WhatsApp. Je réponds — pas un bot.">Compila e invia su WhatsApp. Ti rispondo io — non un bot.</p>
       <div class="fg">
-        <label data-it="Cosa cerchi" data-en="What you need" data-fr="Ce que vous cherchez">Cosa cerchi</label>
-        <select id="bk-prop">
+        <label data-it="Tipo di soggiorno" data-en="Stay type" data-fr="Type de séjour">Tipo di soggiorno</label>
+        <select id="bk-type" onchange="updatePreview()">
           <option value="" data-it="Seleziona..." data-en="Select..." data-fr="Sélectionnez...">Seleziona...</option>
-          <option data-it="Villa con Piscina" data-en="Villa with Pool" data-fr="Villa avec Piscine">Villa con Piscina</option>
-          <option data-it="Appartamento Privato" data-en="Private Apartment" data-fr="Appartement Privé">Appartamento Privato</option>
-          <option data-it="Riad Tradizionale" data-en="Traditional Riad" data-fr="Riad Traditionnel">Riad Tradizionale</option>
-          <option data-it="Solo esperienze" data-en="Experiences only" data-fr="Expériences seulement">Solo esperienze</option>
-          <option data-it="Pacchetto completo" data-en="Full package" data-fr="Forfait complet">Pacchetto completo</option>
+          <option value="Relax — villa privata" data-it="Relax — villa privata" data-en="Relax — private villa" data-fr="Détente — villa privée">Relax — villa privata</option>
+          <option value="Lusso — riad premium" data-it="Lusso — riad premium" data-en="Luxury — premium riad" data-fr="Luxe — riad premium">Lusso — riad premium</option>
+          <option value="Esperienza locale — autentica" data-it="Esperienza locale — autentica" data-en="Local experience — authentic" data-fr="Expérience locale — authentique">Esperienza locale — autentica</option>
+          <option value="Coppia — romantico" data-it="Coppia — romantico" data-en="Couple — romantic" data-fr="Couple — romantique">Coppia — romantico</option>
+          <option value="Famiglia — spazioso" data-it="Famiglia — spazioso" data-en="Family — spacious" data-fr="Famille — spacieux">Famiglia — spazioso</option>
+          <option value="Gruppo di amici" data-it="Gruppo di amici" data-en="Group of friends" data-fr="Groupe d'amis">Gruppo di amici</option>
+        </select>
+      </div>
+      <div class="fg">
+        <label data-it="Proprietà preferita" data-en="Preferred property" data-fr="Propriété préférée">Proprietà preferita</label>
+        <select id="bk-prop" onchange="updatePreview()">
+          <option value="">Nessuna preferenza</option>
+          <option value="Villa con Piscina">Villa con Piscina</option>
+          <option value="Appartamento Privato">Appartamento Privato</option>
+          <option value="Riad Tradizionale">Riad Tradizionale</option>
         </select>
       </div>
       <div class="fg-row">
-        <div class="fg"><label>Check-in</label><input type="date" id="bk-in"></div>
-        <div class="fg"><label>Check-out</label><input type="date" id="bk-out"></div>
+        <div class="fg"><label>Check-in</label><input type="date" id="bk-in" onchange="updatePreview()"></div>
+        <div class="fg"><label>Check-out</label><input type="date" id="bk-out" onchange="updatePreview()"></div>
       </div>
       <div class="fg-row">
         <div class="fg">
           <label data-it="Ospiti" data-en="Guests" data-fr="Personnes">Ospiti</label>
-          <select id="bk-guests"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>8</option><option>10+</option></select>
+          <select id="bk-guests" onchange="updatePreview()"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>8</option><option>10+</option></select>
         </div>
         <div class="fg">
-          <label data-it="Esperienze" data-en="Experiences" data-fr="Expériences">Esperienze</label>
-          <select id="bk-exp">
-            <option data-it="Nessuna per ora" data-en="None for now" data-fr="Aucune pour l'instant">Nessuna per ora</option>
-            <option data-it="Deserto" data-en="Desert" data-fr="Désert">Deserto</option>
-            <option data-it="Mongolfiera" data-en="Hot air balloon" data-fr="Montgolfière">Mongolfiera</option>
-            <option data-it="Hammam" data-en="Hammam" data-fr="Hammam">Hammam</option>
-            <option data-it="Cena privata" data-en="Private dinner" data-fr="Dîner privé">Cena privata</option>
-            <option data-it="Pacchetto completo" data-en="Full package" data-fr="Forfait complet">Pacchetto completo</option>
+          <label data-it="Budget indicativo" data-en="Indicative budget" data-fr="Budget indicatif">Budget indicativo</label>
+          <select id="bk-budget" onchange="updatePreview()">
+            <option value="">Non specificato</option>
+            <option value="Fino a €100/notte">Fino a €100/notte</option>
+            <option value="€100–€200/notte">€100–€200/notte</option>
+            <option value="€200–€400/notte">€200–€400/notte</option>
+            <option value="Oltre €400/notte">Oltre €400/notte</option>
           </select>
         </div>
       </div>
-      <button onclick="sendWA()" class="btn-primary" style="width:100%;font-size:11px;padding:16px;" id="wa-send">📲 Invia richiesta su WhatsApp</button>
-      <div class="success-note" id="success-note">✦ Apertura WhatsApp in corso...</div>
+      <div class="fg">
+        <label data-it="Esperienze di interesse" data-en="Experiences of interest" data-fr="Expériences d'intérêt">Esperienze di interesse</label>
+        <select id="bk-exp" onchange="updatePreview()">
+          <option value="Nessuna per ora">Nessuna per ora</option>
+          <option value="Deserto Merzouga">Deserto Merzouga</option>
+          <option value="Mongolfiera all'alba">Mongolfiera all'alba</option>
+          <option value="Hammam autentico">Hammam autentico</option>
+          <option value="Cena privata al riad">Cena privata al riad</option>
+          <option value="Cooking class">Cooking class</option>
+          <option value="Pacchetto completo">Pacchetto completo</option>
+        </select>
+      </div>
+      <div class="preview-box" id="preview">
+        <strong>📲 Messaggio che verrà inviato:</strong><br><br>
+        <p id="preview-text"></p>
+      </div>
+      <button onclick="sendWA()" class="btn-wa" style="width:100%;font-size:12px;padding:18px;border:none;cursor:pointer;" id="wa-send">📲 Invia su WhatsApp — Risposta in 30 minuti</button>
+      <div class="success-note" id="success-note">✦ Apertura WhatsApp...</div>
     </div>
     <div>
       <p class="s-label" data-it="Perché funziona" data-en="Why it works" data-fr="Pourquoi ça marche">Perché funziona</p>
       <h3 style="font-family:'Playfair Display',serif;font-size:32px;font-weight:600;margin-bottom:18px;line-height:1.2;" data-it="Dimmi cosa vuoi.<br><em style='color:var(--oro);font-style:italic'>Ti trovo la soluzione.</em>" data-en="Tell me what you want.<br><em style='color:var(--oro);font-style:italic'>I'll find the solution.</em>" data-fr="Dites-moi ce que vous voulez.<br><em style='color:var(--oro);font-style:italic'>Je trouverai la solution.</em>">Dimmi cosa vuoi.<br><em style="color:var(--oro);font-style:italic">Ti trovo la soluzione.</em></h3>
-      <p class="s-text" data-it="Nessun pagamento anticipato. Scrivo io — non un bot. Risposta entro poche ore con disponibilità e preventivo personalizzato." data-en="No upfront payment. I write back — not a bot. Response within hours with availability and personalized quote." data-fr="Pas de paiement anticipé. Je réponds moi-même — pas un bot. Réponse en quelques heures.">Nessun pagamento anticipato. Scrivo io — non un bot. Risposta entro poche ore con disponibilità e preventivo personalizzato.</p>
-      <div class="booking-note-box">
-        <p><strong>💡 </strong><span data-it="Più mi dici, meglio costruisco l'esperienza su misura. Indica l'occasione (luna di miele, compleanno, famiglia), le preferenze e qualsiasi richiesta speciale." data-en="The more you tell me, the better I tailor the experience. Mention the occasion (honeymoon, birthday, family), preferences and any special requests." data-fr="Plus vous me dites, mieux je personnalise. Indiquez l'occasion, les préférences et toute demande spéciale.">Più mi dici, meglio costruisco l'esperienza su misura. Indica l'occasione (luna di miele, compleanno, famiglia), le preferenze e qualsiasi richiesta speciale.</span></p>
+      <p class="s-text" data-it="Nessun pagamento anticipato. Rispondo io — non un bot. Preventivo personalizzato entro 30 minuti. Poi decidi tu." data-en="No upfront payment. I respond — not a bot. Personalized quote within 30 minutes. Then you decide." data-fr="Pas de paiement anticipé. Je réponds — pas un bot. Devis personnalisé en 30 minutes. Ensuite, vous décidez.">Nessun pagamento anticipato. Rispondo io — non un bot. Preventivo personalizzato entro 30 minuti. Poi decidi tu.</p>
+      <div style="background:rgba(201,169,110,0.05);border:1px solid rgba(201,169,110,0.18);padding:22px;margin-top:26px;">
+        <p style="font-size:12px;line-height:1.85;opacity:0.55;"><strong style="color:var(--oro);opacity:1;">💡 </strong><span data-it="Più dettagli dai, meglio personalizzo. Indica l'occasione (luna di miele, compleanno, vacanza famiglia), le preferenze e qualsiasi richiesta speciale." data-en="The more details you give, the better I personalize. Mention the occasion (honeymoon, birthday, family trip), preferences and any special requests." data-fr="Plus vous donnez de détails, mieux je personnalise. Indiquez l'occasion, les préférences et toute demande spéciale.">Più dettagli dai, meglio personalizzo. Indica l'occasione (luna di miele, compleanno, vacanza famiglia), le preferenze e qualsiasi richiesta speciale.</span></p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- RECENSIONI -->
+<!-- RECENSIONI WHATSAPP -->
 <section class="reviews" id="recensioni">
-  <p class="s-label" data-it="Recensioni" data-en="Reviews" data-fr="Avis">Recensioni</p>
-  <h2 class="s-title" data-it="Cosa dicono<br>i nostri <em>ospiti.</em>" data-en="What our<br><em>guests say.</em>" data-fr="Ce que disent<br>nos <em>clients.</em>">Cosa dicono<br>i nostri <em>ospiti.</em></h2>
-  <div class="rev-grid">
-    <div class="rev-card reveal">
-      <div class="rev-stars">★★★★★</div>
-      <p class="rev-text" data-it="Non ho parole. Dalla villa al deserto, ogni momento era perfetto. AtlasStay ha trasformato una vacanza in qualcosa che non dimenticherò mai." data-en="No words. From villa to desert, every moment was perfect. AtlasStay turned a vacation into something I'll never forget." data-fr="Je n'ai pas de mots. De la villa au désert, chaque moment était parfait. Une expérience inoubliable.">Non ho parole. Dalla villa al deserto, ogni momento era perfetto. AtlasStay ha trasformato una vacanza in qualcosa che non dimenticherò mai.</p>
-      <p class="rev-author">Marco R.</p><p class="rev-loc">Milano, Italia 🇮🇹</p>
+  <p class="s-label" style="text-align:center;" data-it="Cosa dicono di noi" data-en="What they say about us" data-fr="Ce qu'ils disent de nous">Cosa dicono di noi</p>
+  <h2 class="s-title" style="text-align:center;" data-it="Messaggi reali.<br><em>Persone reali.</em>" data-en="Real messages.<br><em>Real people.</em>" data-fr="Messages réels.<br><em>Personnes réelles.</em>">Messaggi reali.<br><em>Persone reali.</em></h2>
+  <div class="wa-reviews">
+    <div class="wa-card reveal">
+      <div class="wa-header">
+        <div class="wa-avatar">🇮🇹</div>
+        <div>
+          <div class="wa-name">Marco R.</div>
+          <div class="wa-loc">Milano, Italia</div>
+        </div>
+        <div class="wa-time" data-it="ieri" data-en="yesterday" data-fr="hier">ieri</div>
+      </div>
+      <p class="wa-text" data-it="Ragazzi avete fatto una cosa incredibile. La villa era esattamente come nelle foto, anzi meglio. Il trasfer puntualissimo, la cena al riad un'esperienza che non dimentico. Il fatto di potervi scrivere in qualsiasi momento ha fatto la differenza. Torneremo sicuro! 🙌" data-en="Guys you did something incredible. The villa was exactly as in the photos, actually better. The transfer was very punctual, the riad dinner an experience I won't forget. Being able to write to you at any time made the difference. We'll definitely be back! 🙌" data-fr="Les gars, vous avez fait quelque chose d'incroyable. La villa était exactement comme sur les photos, même mieux. Le transfert très ponctuel, le dîner au riad une expérience inoubliable. Pouvoir vous écrire à tout moment a fait la différence. On reviendra ! 🙌">Ragazzi avete fatto una cosa incredibile. La villa era esattamente come nelle foto, anzi meglio. Il trasfer puntualissimo, la cena al riad un'esperienza che non dimentico. Il fatto di potervi scrivere in qualsiasi momento ha fatto la differenza. Torneremo sicuro! 🙌</p>
+      <span class="wa-read">✓✓</span>
     </div>
-    <div class="rev-card reveal">
-      <div class="rev-stars">★★★★★</div>
-      <p class="rev-text" data-it="Il riad era esattamente come in foto, anzi meglio. Il team risponde sempre, anche tardi la sera. Torneremo sicuramente." data-en="The riad was exactly like the photos, even better. The team always responds, even late at night. We will definitely return." data-fr="Le riad était exactement comme sur les photos, même mieux. L'équipe répond toujours. Nous reviendrons.">Il riad era esattamente come in foto, anzi meglio. Il team risponde sempre, anche tardi la sera. Torneremo sicuramente.</p>
-      <p class="rev-author">Sophie L.</p><p class="rev-loc">Lyon, France 🇫🇷</p>
+    <div class="wa-card reveal">
+      <div class="wa-header">
+        <div class="wa-avatar">🇫🇷</div>
+        <div>
+          <div class="wa-name">Sophie L.</div>
+          <div class="wa-loc">Lyon, France</div>
+        </div>
+        <div class="wa-time" data-it="3 giorni fa" data-en="3 days ago" data-fr="il y a 3 jours">3 giorni fa</div>
+      </div>
+      <p class="wa-text" data-it="Ho scritto sabato sera aspettandomi risposta il lunedì. In 20 minuti avevo già il preventivo e le foto del riad. Professionalità assurda. Il hammam che avete organizzato era completamente diverso da quello che trovi sui siti turistici — autentico, locale, vero. Merci beaucoup 🤩" data-en="I wrote Saturday evening expecting a reply Monday. In 20 minutes I already had the quote and riad photos. Incredible professionalism. The hammam you organized was completely different from what you find on tourist sites — authentic, local, real. Merci beaucoup 🤩" data-fr="J'ai écrit samedi soir en attendant une réponse le lundi. En 20 minutes j'avais déjà le devis et les photos du riad. Professionnalisme incroyable. Le hammam que vous avez organisé était complètement différent de ce qu'on trouve sur les sites touristiques — authentique, local, vrai. Merci beaucoup 🤩">Ho scritto sabato sera aspettandomi risposta il lunedì. In 20 minuti avevo già il preventivo e le foto del riad. Professionalità assurda. Il hammam che avete organizzato era completamente diverso da quello che trovi sui siti turistici — autentico, locale, vero. Merci beaucoup 🤩</p>
+      <span class="wa-read">✓✓</span>
     </div>
-    <div class="rev-card reveal">
-      <div class="rev-stars">★★★★★</div>
-      <p class="rev-text" data-it="La cena privata al riad è stata la cosa più bella del viaggio. Organizzazione impeccabile, risposta velocissima. Consiglio a tutti." data-en="The private dinner at the riad was the best part of the trip. Impeccable organisation, very fast responses. Highly recommended." data-fr="Le dîner privé au riad était la plus belle chose du voyage. Organisation impeccable. Je recommande à tous.">La cena privata al riad è stata la cosa più bella del viaggio. Organizzazione impeccabile, risposta velocissima. Consiglio a tutti.</p>
-      <p class="rev-author">Giulia M.</p><p class="rev-loc">Roma, Italia 🇮🇹</p>
+    <div class="wa-card reveal">
+      <div class="wa-header">
+        <div class="wa-avatar">🇮🇹</div>
+        <div>
+          <div class="wa-name">Giulia & Luca</div>
+          <div class="wa-loc">Roma, Italia</div>
+        </div>
+        <div class="wa-time" data-it="1 settimana fa" data-en="1 week ago" data-fr="il y a 1 semaine">1 settimana fa</div>
+      </div>
+      <p class="wa-text" data-it="Luna di miele da sogno. Avevo paura di organizzare Marrakech da soli dopo aver letto i commenti online — truffe, taxi, trappole turistiche. Con AtlasStay zero problemi. Erano raggiungibili h24, la cena privata al riad la notte del nostro anniversario è stata la cosa più bella del viaggio. ❤️" data-en="Dream honeymoon. I was afraid to organize Marrakech alone after reading online comments — scams, taxis, tourist traps. With AtlasStay zero problems. They were reachable 24/7, the private riad dinner on our anniversary night was the most beautiful thing of the trip. ❤️" data-fr="Lune de miel de rêve. J'avais peur d'organiser Marrakech seuls après avoir lu les commentaires en ligne. Avec AtlasStay zéro problème. Joignables 24h/24, le dîner privé au riad la nuit de notre anniversaire était la plus belle chose du voyage. ❤️">Luna di miele da sogno. Avevo paura di organizzare Marrakech da soli dopo aver letto i commenti online — truffe, taxi, trappole turistiche. Con AtlasStay zero problemi. Erano raggiungibili h24, la cena privata al riad la notte del nostro anniversario è stata la cosa più bella del viaggio. ❤️</p>
+      <span class="wa-read">✓✓</span>
     </div>
   </div>
 </section>
@@ -517,57 +589,35 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
 <!-- FAQ -->
 <section class="faq" id="faq">
   <p class="s-label" style="text-align:center;" data-it="Domande frequenti" data-en="FAQ" data-fr="Questions fréquentes">Domande frequenti</p>
-  <h2 class="s-title" style="text-align:center;" data-it="Hai domande?<br><em>Abbiamo le risposte.</em>" data-en="Got questions?<br><em>We have answers.</em>" data-fr="Des questions?<br><em>Nous avons les réponses.</em>">Hai domande?<br><em>Abbiamo le risposte.</em></h2>
+  <h2 class="s-title" style="text-align:center;" data-it="Hai dubbi?<br><em>Rispondiamo subito.</em>" data-en="Got doubts?<br><em>We answer immediately.</em>" data-fr="Des doutes?<br><em>Nous répondons immédiatement.</em>">Hai dubbi?<br><em>Rispondiamo subito.</em></h2>
   <div class="faq-list">
-
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">
-        <span data-it="Come funziona la prenotazione?" data-en="How does booking work?" data-fr="Comment fonctionne la réservation?">Come funziona la prenotazione?</span>
-        <span class="faq-icon">+</span>
-      </button>
-      <div class="faq-a"><p data-it="Compili il modulo sul sito, clicchi su WhatsApp e il messaggio viene preparato automaticamente con i tuoi dati. Ti rispondo io — non un bot — entro poche ore con disponibilità e preventivo. Nessun pagamento anticipato fino alla conferma." data-en="You fill in the form on the site, click WhatsApp and the message is automatically prepared with your details. I reply — not a bot — within hours with availability and quote. No upfront payment until confirmation." data-fr="Vous remplissez le formulaire, cliquez sur WhatsApp et le message est automatiquement préparé. Je réponds — pas un bot — en quelques heures avec disponibilité et devis. Pas de paiement anticipé avant confirmation.">Compili il modulo sul sito, clicchi su WhatsApp e il messaggio viene preparato automaticamente con i tuoi dati. Ti rispondo io — non un bot — entro poche ore con disponibilità e preventivo. Nessun pagamento anticipato fino alla conferma.</p></div>
+      <button class="faq-q" onclick="toggleFaq(this)"><span data-it="In quanto tempo ricevo una risposta?" data-en="How quickly do I get a response?" data-fr="En combien de temps je reçois une réponse?">In quanto tempo ricevo una risposta?</span><span class="faq-icon">+</span></button>
+      <div class="faq-a"><p data-it="In meno di 30 minuti durante il giorno. Anche il sabato e la domenica. Rispondi a una persona reale — non a un bot automatico." data-en="In less than 30 minutes during the day. Even on weekends. You are replying to a real person — not an automatic bot." data-fr="En moins de 30 minutes pendant la journée. Même le week-end. Vous répondez à une vraie personne — pas à un bot automatique.">In meno di 30 minuti durante il giorno. Anche il sabato e la domenica. Rispondi a una persona reale — non a un bot automatico.</p></div>
     </div>
-
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">
-        <span data-it="I prezzi indicati sono per notte o per persona?" data-en="Are prices per night or per person?" data-fr="Les prix indiqués sont par nuit ou par personne?">I prezzi indicati sono per notte o per persona?</span>
-        <span class="faq-icon">+</span>
-      </button>
-      <div class="faq-a"><p data-it="I prezzi indicati sono per notte, per l'intera proprietà. Non per persona. Quindi più siete, più il costo si divide e conviene rispetto a un hotel." data-en="Prices shown are per night for the entire property. Not per person. So the more of you there are, the more the cost is divided — making it much better value than a hotel." data-fr="Les prix indiqués sont par nuit pour l'ensemble de la propriété. Pas par personne. Plus vous êtes nombreux, plus le coût se divise — beaucoup plus avantageux qu'un hôtel.">I prezzi indicati sono per notte, per l'intera proprietà. Non per persona. Quindi più siete, più il costo si divide e conviene rispetto a un hotel.</p></div>
+      <button class="faq-q" onclick="toggleFaq(this)"><span data-it="Devo pagare qualcosa per ricevere un preventivo?" data-en="Do I have to pay anything to get a quote?" data-fr="Dois-je payer quelque chose pour recevoir un devis?">Devo pagare qualcosa per ricevere un preventivo?</span><span class="faq-icon">+</span></button>
+      <div class="faq-a"><p data-it="Assolutamente no. Il preventivo è gratuito e senza impegno. Paghi solo quando confermi la prenotazione e sei soddisfatto di quello che ti offriamo." data-en="Absolutely not. The quote is free and without obligation. You pay only when you confirm the booking and are satisfied with what we offer." data-fr="Absolument pas. Le devis est gratuit et sans engagement. Vous payez uniquement lorsque vous confirmez la réservation.">Assolutamente no. Il preventivo è gratuito e senza impegno. Paghi solo quando confermi la prenotazione e sei soddisfatto di quello che ti offriamo.</p></div>
     </div>
-
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">
-        <span data-it="Posso aggiungere esperienze dopo aver prenotato l'alloggio?" data-en="Can I add experiences after booking the accommodation?" data-fr="Puis-je ajouter des expériences après avoir réservé le logement?">Posso aggiungere esperienze dopo aver prenotato l'alloggio?</span>
-        <span class="faq-icon">+</span>
-      </button>
-      <div class="faq-a"><p data-it="Sì, assolutamente. Puoi aggiungere esperienze in qualsiasi momento — anche durante il soggiorno. Basta scrivermi su WhatsApp e organizzo tutto nel minor tempo possibile." data-en="Yes, absolutely. You can add experiences at any time — even during your stay. Just write to me on WhatsApp and I'll organize everything as quickly as possible." data-fr="Oui, absolument. Vous pouvez ajouter des expériences à tout moment — même pendant le séjour. Il suffit de m'écrire sur WhatsApp et j'organise tout rapidement.">Sì, assolutamente. Puoi aggiungere esperienze in qualsiasi momento — anche durante il soggiorno. Basta scrivermi su WhatsApp e organizzo tutto nel minor tempo possibile.</p></div>
+      <button class="faq-q" onclick="toggleFaq(this)"><span data-it="I prezzi indicati sono per notte o a persona?" data-en="Are prices per night or per person?" data-fr="Les prix sont par nuit ou par personne?">I prezzi indicati sono per notte o a persona?</span><span class="faq-icon">+</span></button>
+      <div class="faq-a"><p data-it="Per notte, per l'intera proprietà. Non a persona. Più siete, più il costo si divide — spesso molto più conveniente di un hotel." data-en="Per night, for the entire property. Not per person. The more of you there are, the more the cost is divided — often much cheaper than a hotel." data-fr="Par nuit, pour l'ensemble de la propriété. Pas par personne. Plus vous êtes nombreux, plus le coût se divise.">Per notte, per l'intera proprietà. Non a persona. Più siete, più il costo si divide — spesso molto più conveniente di un hotel.</p></div>
     </div>
-
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">
-        <span data-it="Il transfer dall'aeroporto è incluso?" data-en="Is airport transfer included?" data-fr="Le transfert depuis l'aéroport est-il inclus?">Il transfer dall'aeroporto è incluso?</span>
-        <span class="faq-icon">+</span>
-      </button>
-      <div class="faq-a"><p data-it="Il transfer non è incluso di default ma è disponibile sia in versione Standard che VIP a prezzi fissi. Ti consiglio di prenotarlo insieme all'alloggio — così arrivi senza pensieri dal primo minuto." data-en="Transfer is not included by default but is available in both Standard and VIP versions at fixed prices. I recommend booking it together with the accommodation — so you arrive worry-free from minute one." data-fr="Le transfert n'est pas inclus par défaut mais est disponible en version Standard et VIP à prix fixes. Je recommande de le réserver avec le logement — ainsi vous arrivez sans soucis dès la première minute.">Il transfer non è incluso di default ma è disponibile sia in versione Standard che VIP a prezzi fissi. Ti consiglio di prenotarlo insieme all'alloggio — così arrivi senza pensieri dal primo minuto.</p></div>
+      <button class="faq-q" onclick="toggleFaq(this)"><span data-it="Posso aggiungere esperienze dopo aver prenotato?" data-en="Can I add experiences after booking?" data-fr="Puis-je ajouter des expériences après la réservation?">Posso aggiungere esperienze dopo aver prenotato?</span><span class="faq-icon">+</span></button>
+      <div class="faq-a"><p data-it="Sì. Puoi aggiungere o modificare le esperienze in qualsiasi momento — anche durante il soggiorno. Basta un messaggio su WhatsApp." data-en="Yes. You can add or change experiences at any time — even during the stay. Just a WhatsApp message." data-fr="Oui. Vous pouvez ajouter ou modifier des expériences à tout moment — même pendant le séjour. Juste un message WhatsApp.">Sì. Puoi aggiungere o modificare le esperienze in qualsiasi momento — anche durante il soggiorno. Basta un messaggio su WhatsApp.</p></div>
     </div>
-
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">
-        <span data-it="Qual è la politica di cancellazione?" data-en="What is the cancellation policy?" data-fr="Quelle est la politique d'annulation?">Qual è la politica di cancellazione?</span>
-        <span class="faq-icon">+</span>
-      </button>
-      <div class="faq-a"><p data-it="La politica varia in base alla proprietà e alle date. Ti comunico le condizioni esatte al momento della conferma, prima di qualsiasi pagamento. Cerco sempre la soluzione più flessibile possibile." data-en="The policy varies based on the property and dates. I'll communicate the exact conditions at the time of confirmation, before any payment. I always look for the most flexible solution possible." data-fr="La politique varie selon la propriété et les dates. Je vous communique les conditions exactes au moment de la confirmation, avant tout paiement. Je cherche toujours la solution la plus flexible possible.">La politica varia in base alla proprietà e alle date. Ti comunico le condizioni esatte al momento della conferma, prima di qualsiasi pagamento. Cerco sempre la soluzione più flessibile possibile.</p></div>
+      <button class="faq-q" onclick="toggleFaq(this)"><span data-it="È sicuro pagare? Come funziona?" data-en="Is it safe to pay? How does it work?" data-fr="Est-il sûr de payer? Comment ça marche?">È sicuro pagare? Come funziona?</span><span class="faq-icon">+</span></button>
+      <div class="faq-a"><p data-it="Comunichiamo i metodi di pagamento e le condizioni esatte prima di qualsiasi transazione. Nessun pagamento anticipato richiesto per il preventivo. La sicurezza della tua transazione è la nostra priorità." data-en="We communicate payment methods and exact conditions before any transaction. No upfront payment required for the quote. The security of your transaction is our priority." data-fr="Nous communiquons les méthodes de paiement et les conditions exactes avant toute transaction. Pas de paiement anticipé requis pour le devis.">Comunichiamo i metodi di pagamento e le condizioni esatte prima di qualsiasi transazione. Nessun pagamento anticipato richiesto per il preventivo. La sicurezza della tua transazione è la nostra priorità.</p></div>
     </div>
-
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">
-        <span data-it="Parlate italiano?" data-en="Do you speak English?" data-fr="Parlez-vous français?">Parlate italiano?</span>
-        <span class="faq-icon">+</span>
-      </button>
-      <div class="faq-a"><p data-it="Sì — gestiamo tutto in italiano, francese e inglese. Nessuna barriera linguistica. Sei seguito dalla prima richiesta fino all'ultimo giorno del soggiorno." data-en="Yes — we handle everything in English, Italian and French. No language barriers. You are supported from the first request to the last day of your stay." data-fr="Oui — nous gérons tout en français, italien et anglais. Aucune barrière linguistique. Vous êtes accompagné de la première demande jusqu'au dernier jour du séjour.">Sì — gestiamo tutto in italiano, francese e inglese. Nessuna barriera linguistica. Sei seguito dalla prima richiesta fino all'ultimo giorno del soggiorno.</p></div>
+      <button class="faq-q" onclick="toggleFaq(this)"><span data-it="Parlate italiano?" data-en="Do you speak English?" data-fr="Parlez-vous français?">Parlate italiano?</span><span class="faq-icon">+</span></button>
+      <div class="faq-a"><p data-it="Sì — gestiamo tutto in italiano, francese e inglese. Nessuna barriera linguistica, da prima della prenotazione fino all'ultimo giorno del soggiorno." data-en="Yes — we handle everything in English, Italian and French. No language barriers, from before booking to the last day of your stay." data-fr="Oui — nous gérons tout en français, italien et anglais. Aucune barrière linguistique, de la réservation jusqu'au dernier jour du séjour.">Sì — gestiamo tutto in italiano, francese e inglese. Nessuna barriera linguistica, da prima della prenotazione fino all'ultimo giorno del soggiorno.</p></div>
     </div>
-
+  </div>
+  <div class="section-cta">
+    <a href="https://wa.me/393881080923?text=Ciao,%20ho%20una%20domanda%20su%20AtlasStay" target="_blank" class="micro-cta" data-it="Hai altre domande? Scrivici ora" data-en="Have more questions? Write us now" data-fr="D'autres questions? Écrivez-nous maintenant">Hai altre domande? Scrivici ora</a>
   </div>
 </section>
 
@@ -577,54 +627,29 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
     <div>
       <p class="s-label" data-it="Contatti" data-en="Contact" data-fr="Contact">Contatti</p>
       <h2 class="s-title" data-it="Siamo a<br><em>Marrakech.</em>" data-en="We're in<br><em>Marrakech.</em>" data-fr="Nous sommes à<br><em>Marrakech.</em>">Siamo a<br><em>Marrakech.</em></h2>
-      <p class="s-text" data-it="Il modo più veloce per parlare con noi è WhatsApp. Risposta garantita entro poche ore — in italiano, francese o inglese." data-en="The fastest way to reach us is WhatsApp. Response guaranteed within hours — in English, Italian or French." data-fr="La façon la plus rapide de nous contacter est WhatsApp. Réponse garantie en quelques heures — en français, italien ou anglais.">Il modo più veloce per parlare con noi è WhatsApp. Risposta garantita entro poche ore — in italiano, francese o inglese.</p>
+      <p class="s-text" data-it="Il modo più veloce: WhatsApp. Risposta garantita in meno di 30 minuti — in italiano, francese o inglese." data-en="The fastest way: WhatsApp. Response guaranteed in less than 30 minutes — in English, Italian or French." data-fr="La façon la plus rapide: WhatsApp. Réponse garantie en moins de 30 minutes — en français, italien ou anglais.">Il modo più veloce: WhatsApp. Risposta garantita in meno di 30 minuti — in italiano, francese o inglese.</p>
+      <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay" target="_blank" class="btn-wa" style="margin-top:28px;display:inline-block;" data-it="📲 Scrivici su WhatsApp ora" data-en="📲 Write us on WhatsApp now" data-fr="📲 Écrivez-nous sur WhatsApp">📲 Scrivici su WhatsApp ora</a>
     </div>
-    <div class="contact-info">
-      <div class="ci">
-        <div class="ci-icon">📍</div>
-        <div>
-          <h5 data-it="Dove siamo" data-en="Where we are" data-fr="Où nous sommes">Dove siamo</h5>
-          <p data-it="Marrakech, Marocco — operativi tutto l'anno" data-en="Marrakech, Morocco — operational year-round" data-fr="Marrakech, Maroc — opérationnels toute l'année">Marrakech, Marocco — operativi tutto l'anno</p>
-        </div>
-      </div>
-      <div class="ci">
-        <div class="ci-icon">💬</div>
-        <div>
-          <h5>WhatsApp</h5>
-          <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay">+39 388 108 0923</a>
-        </div>
-      </div>
-      <div class="ci">
-        <div class="ci-icon">✉️</div>
-        <div>
-          <h5>Email</h5>
-          <a href="mailto:contact@ekimarrakech.com">contact@ekimarrakech.com</a>
-        </div>
-      </div>
-      <div class="ci">
-        <div class="ci-icon">📸</div>
-        <div>
-          <h5>Instagram</h5>
-          <a href="https://instagram.com/atlasstay" target="_blank">@atlasstay</a>
-        </div>
-      </div>
-      <div class="ci">
-        <div class="ci-icon">⏱</div>
-        <div>
-          <h5 data-it="Tempi di risposta" data-en="Response time" data-fr="Délai de réponse">Tempi di risposta</h5>
-          <p data-it="Entro poche ore. WhatsApp per urgenze." data-en="Within a few hours. WhatsApp for urgent matters." data-fr="En quelques heures. WhatsApp pour les urgences." >Entro poche ore. WhatsApp per urgenze.</p>
-        </div>
-      </div>
+    <div>
+      <div class="ci"><div class="ci-icon">📍</div><div><h5 data-it="Dove siamo" data-en="Where we are" data-fr="Où nous sommes">Dove siamo</h5><p>Marrakech, Marocco</p></div></div>
+      <div class="ci"><div class="ci-icon">💬</div><div><h5>WhatsApp</h5><a href="https://wa.me/393881080923">+39 388 108 0923</a></div></div>
+      <div class="ci"><div class="ci-icon">✉️</div><div><h5>Email</h5><a href="mailto:contact@ekimarrakech.com">contact@ekimarrakech.com</a></div></div>
+      <div class="ci"><div class="ci-icon">📸</div><div><h5>Instagram</h5><a href="https://instagram.com/atlasstay" target="_blank">@atlasstay</a></div></div>
+      <div class="ci"><div class="ci-icon">⚡</div><div><h5 data-it="Tempo di risposta" data-en="Response time" data-fr="Délai de réponse">Tempo di risposta</h5><p data-it="Meno di 30 minuti. 7 giorni su 7." data-en="Less than 30 minutes. 7 days a week." data-fr="Moins de 30 minutes. 7 jours sur 7.">Meno di 30 minuti. 7 giorni su 7.</p></div></div>
     </div>
   </div>
 </section>
 
 <!-- CTA FINALE -->
 <section class="cta-final">
-  <h2 data-it="Dimmi cosa vuoi.<br><em>Ti trovo la soluzione in poche ore.</em>" data-en="Tell me what you want.<br><em>I'll find the solution in a few hours.</em>" data-fr="Dites-moi ce que vous voulez.<br><em>Je trouverai la solution en quelques heures.</em>">Dimmi cosa vuoi.<br><em>Ti trovo la soluzione in poche ore.</em></h2>
-  <p data-it="Nessun form complicato. Nessun pagamento anticipato. Scrivi su WhatsApp con date, ospiti e tipo di esperienza. Più sei specifico, più l'esperienza sarà su misura." data-en="No complicated forms. No upfront payment. Write on WhatsApp with dates, guests and experience type. The more specific you are, the more tailored the experience." data-fr="Pas de formulaire compliqué. Pas de paiement anticipé. Écrivez sur WhatsApp avec dates, personnes et type d'expérience. Plus vous êtes précis, plus l'expérience sera personnalisée.">Nessun form complicato. Nessun pagamento anticipato. Scrivi su WhatsApp con date, ospiti e tipo di esperienza. Più sei specifico, più l'esperienza sarà su misura.</p>
-  <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay.%20Potete%20aiutarmi%20a%20trovare%20la%20soluzione%20ideale?" target="_blank" class="btn-primary" style="font-size:12px;padding:18px 46px;" data-it="📲 Scrivici su WhatsApp — gratis, veloce, senza impegno" data-en="📲 Write on WhatsApp — free, fast, no commitment" data-fr="📲 Écrire sur WhatsApp — gratuit, rapide, sans engagement">📲 Scrivici su WhatsApp — gratis, veloce, senza impegno</a>
-  <p class="cta-sub" data-it="Risposta garantita entro poche ore. In italiano, francese o inglese." data-en="Response guaranteed within a few hours. In English, Italian or French." data-fr="Réponse garantie en quelques heures. En français, italien ou anglais.">Risposta garantita entro poche ore. In italiano, francese o inglese.</p>
+  <h2 data-it="Verifica disponibilità.<br><em>Ricevi proposta in 30 minuti.</em>" data-en="Check availability.<br><em>Get a proposal in 30 minutes.</em>" data-fr="Vérifiez la disponibilité.<br><em>Recevez une proposition en 30 minutes.</em>">Verifica disponibilità.<br><em>Ricevi proposta in 30 minuti.</em></h2>
+  <p data-it="Nessun pagamento anticipato. Nessun bot. Una persona reale a Marrakech che risponde in meno di 30 minuti con disponibilità e preventivo su misura." data-en="No upfront payment. No bots. A real person in Marrakech who responds in less than 30 minutes with availability and a tailored quote." data-fr="Pas de paiement anticipé. Pas de bot. Une vraie personne à Marrakech qui répond en moins de 30 minutes.">Nessun pagamento anticipato. Nessun bot. Una persona reale a Marrakech che risponde in meno di 30 minuti con disponibilità e preventivo su misura.</p>
+  <div class="cta-promise" data-it="⚡ Risposta garantita in meno di 30 minuti" data-en="⚡ Response guaranteed in less than 30 minutes" data-fr="⚡ Réponse garantie en moins de 30 minutes">⚡ Risposta garantita in meno di 30 minuti</div>
+  <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+    <a href="#prenota" class="btn-primary" data-it="Compila il form — 2 minuti" data-en="Fill the form — 2 minutes" data-fr="Remplir le formulaire — 2 minutes">Compila il form — 2 minuti</a>
+    <a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay%20a%20Marrakech.%20Potete%20aiutarmi?" target="_blank" class="btn-wa" data-it="📲 Scrivi direttamente su WhatsApp" data-en="📲 Write directly on WhatsApp" data-fr="📲 Écrire directement sur WhatsApp">📲 Scrivi direttamente su WhatsApp</a>
+  </div>
+  <p class="cta-sub" data-it="Gratuito. Senza impegno. In italiano, francese o inglese." data-en="Free. No commitment. In English, Italian or French." data-fr="Gratuit. Sans engagement. En français, italien ou anglais.">Gratuito. Senza impegno. In italiano, francese o inglese.</p>
 </section>
 
 <!-- FOOTER -->
@@ -634,8 +659,8 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
     <ul class="footer-nav">
       <li><a href="#proprieta" data-it="Proprietà" data-en="Properties" data-fr="Propriétés">Proprietà</a></li>
       <li><a href="#esperienze" data-it="Esperienze" data-en="Experiences" data-fr="Expériences">Esperienze</a></li>
+      <li><a href="#fiducia" data-it="Chi siamo" data-en="About" data-fr="À propos">Chi siamo</a></li>
       <li><a href="#faq">FAQ</a></li>
-      <li><a href="#contatti" data-it="Contatti" data-en="Contact" data-fr="Contact">Contatti</a></li>
       <li><a href="#prenota" data-it="Prenota" data-en="Book" data-fr="Réserver">Prenota</a></li>
     </ul>
   </div>
@@ -650,10 +675,10 @@ footer{background:#070707;border-top:1px solid var(--oro-dim);padding:56px 48px;
 </footer>
 
 <!-- WA STICKY -->
-<a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay" target="_blank" class="wa-btn" title="WhatsApp">💬</a>
+<a href="https://wa.me/393881080923?text=Ciao,%20sono%20interessato%20a%20un%20soggiorno%20con%20AtlasStay" target="_blank" class="wa-sticky">💬</a>
 
 <script>
-// ── LANG ──
+// LANG
 let lang='it';
 function setLang(l){
   lang=l;
@@ -665,38 +690,59 @@ function setLang(l){
     if(el.tagName==='INPUT'||el.tagName==='OPTION')el.textContent=t;
     else el.innerHTML=t;
   });
-  const wa={it:'📲 Invia richiesta su WhatsApp',en:'📲 Send request on WhatsApp',fr:'📲 Envoyer sur WhatsApp'};
+  const wa={it:'📲 Invia su WhatsApp — Risposta in 30 minuti',en:'📲 Send on WhatsApp — Response in 30 minutes',fr:'📲 Envoyer sur WhatsApp — Réponse en 30 minutes'};
   const btn=document.getElementById('wa-send');
   if(btn)btn.textContent=wa[l];
 }
 
-// ── NAV ──
+// NAV
 function toggleNav(){document.getElementById('navLinks').classList.toggle('open');}
-window.addEventListener('scroll',()=>{
-  document.getElementById('nav').classList.toggle('scrolled',window.scrollY>70);
-});
+window.addEventListener('scroll',()=>{document.getElementById('nav').classList.toggle('scrolled',window.scrollY>70);});
 
-// ── WHATSAPP ──
-function sendWA(){
-  const p=document.getElementById('bk-prop').value||'—';
-  const ci=document.getElementById('bk-in').value||'—';
-  const co=document.getElementById('bk-out').value||'—';
-  const g=document.getElementById('bk-guests').value||'—';
-  const ex=document.getElementById('bk-exp').value||'—';
+// PREVIEW MESSAGGIO
+function updatePreview(){
+  const type=document.getElementById('bk-type').value;
+  const prop=document.getElementById('bk-prop').value;
+  const ci=document.getElementById('bk-in').value;
+  const co=document.getElementById('bk-out').value;
+  const g=document.getElementById('bk-guests').value;
+  const budget=document.getElementById('bk-budget').value;
+  const ex=document.getElementById('bk-exp').value;
+  if(!type&&!ci&&!co)return;
   const msgs={
-    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏠 Proprietà: ${p}\n📅 Check-in: ${ci}\n📅 Check-out: ${co}\n👥 Ospiti: ${g}\n✨ Esperienze: ${ex}\n\nPer creare un'esperienza su misura, potete indicarmi le disponibilità e un preventivo? Grazie!`,
-    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏠 Property: ${p}\n📅 Check-in: ${ci}\n📅 Check-out: ${co}\n👥 Guests: ${g}\n✨ Experiences: ${ex}\n\nCould you let me know availability and a quote? Thank you!`,
-    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏠 Propriété: ${p}\n📅 Arrivée: ${ci}\n📅 Départ: ${co}\n👥 Personnes: ${g}\n✨ Expériences: ${ex}\n\nPouvez-vous m'indiquer les disponibilités et un devis? Merci!`
+    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏷 Tipo: ${type||'—'}\n🏠 Proprietà: ${prop||'Nessuna preferenza'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Ospiti: ${g}\n💰 Budget: ${budget||'Non specificato'}\n✨ Esperienze: ${ex}\n\nPotete inviarmi disponibilità e preventivo? Grazie!`,
+    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Property: ${prop||'No preference'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Guests: ${g}\n💰 Budget: ${budget||'Not specified'}\n✨ Experiences: ${ex}\n\nCan you send me availability and a quote? Thanks!`,
+    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Propriété: ${prop||'Aucune préférence'}\n📅 Arrivée: ${ci||'—'}\n📅 Départ: ${co||'—'}\n👥 Personnes: ${g}\n💰 Budget: ${budget||'Non spécifié'}\n✨ Expériences: ${ex}\n\nPouvez-vous m'envoyer disponibilité et devis? Merci!`
+  };
+  const preview=document.getElementById('preview');
+  const txt=document.getElementById('preview-text');
+  preview.style.display='block';
+  txt.textContent=msgs[lang];
+}
+
+// WA SEND
+function sendWA(){
+  const type=document.getElementById('bk-type').value;
+  const prop=document.getElementById('bk-prop').value;
+  const ci=document.getElementById('bk-in').value;
+  const co=document.getElementById('bk-out').value;
+  const g=document.getElementById('bk-guests').value;
+  const budget=document.getElementById('bk-budget').value;
+  const ex=document.getElementById('bk-exp').value;
+  const msgs={
+    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏷 Tipo: ${type||'—'}\n🏠 Proprietà: ${prop||'Nessuna preferenza'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Ospiti: ${g}\n💰 Budget: ${budget||'Non specificato'}\n✨ Esperienze: ${ex}\n\nPotete inviarmi disponibilità e preventivo? Grazie!`,
+    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Property: ${prop||'No preference'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Guests: ${g}\n💰 Budget: ${budget||'Not specified'}\n✨ Experiences: ${ex}\n\nCan you send me availability and a quote? Thanks!`,
+    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Propriété: ${prop||'Aucune préférence'}\n📅 Arrivée: ${ci||'—'}\n📅 Départ: ${co||'—'}\n👥 Personnes: ${g}\n💰 Budget: ${budget||'Non spécifié'}\n✨ Expériences: ${ex}\n\nPouvez-vous m'envoyer disponibilité et devis? Merci!`
   };
   const note=document.getElementById('success-note');
   note.style.display='block';
   setTimeout(()=>{
     window.open('https://wa.me/393881080923?text='+encodeURIComponent(msgs[lang]),'_blank');
     note.style.display='none';
-  },600);
+  },500);
 }
 
-// ── FAQ ──
+// FAQ
 function toggleFaq(btn){
   const item=btn.parentElement;
   const isOpen=item.classList.contains('open');
@@ -704,7 +750,7 @@ function toggleFaq(btn){
   if(!isOpen)item.classList.add('open');
 }
 
-// ── REVEAL ──
+// REVEAL
 const obs=new IntersectionObserver((entries)=>{
   entries.forEach((e,i)=>{if(e.isIntersecting)setTimeout(()=>e.target.classList.add('visible'),i*70);});
 },{threshold:0.07});
