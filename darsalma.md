@@ -5,7 +5,7 @@
 ## IDENTITÀ
 
 **Nome listing Airbnb:** Dar Salma 2BR w/ Pool • 10min Majorelle  
-**Tipologia:** Intero alloggio in affitto  
+**Tipologia:** Intero alloggio · Appartamento  
 **Capacità:** 4 ospiti · 2 camere da letto · 2 letti · 1 bagno  
 **Posizione:** Marrakech – 10 minuti dal Giardino Majorelle  
 **Piscina:** presente (operativa luglio–ottobre)  
@@ -14,6 +14,13 @@
 **Stato listing:** Novità · 2 recensioni  
 **Foto:** 20  
 **Posizionamento:** Mid-range premium accessibile
+
+### Configurazione letti
+| Ambiente | Setup |
+|----------|-------|
+| Salotto | 3 divani |
+| Camera da letto 1 | 1 letto matrimoniale |
+| Camera da letto 2 | 1 letto matrimoniale a due piazze (152×203) |
 
 **Target:**
 - Coppie europee
@@ -116,6 +123,41 @@ Considerato investimento iniziale, non costo ricorrente.
 | Valutazioni < 5 stelle | 1 (50%) |
 
 **Trend:** conversione cresciuta da 0,23% → 0,37% → 0,48%. Wishlist: 27 → 34. Algoritmo stabile e favorevole.
+
+---
+
+## STRUTTURA PREZZI (impostata nell'editor)
+
+| Voce | Valore |
+|------|--------|
+| Prezzo base notte | **MAD 400** |
+| Prezzo weekend | **MAD 800** |
+| Sconto settimanale | **10%** |
+| Disponibilità | 1–365 notti |
+
+**Attenzione:** l'ADR rilevato in analytics è 31€ (~MAD 335), inferiore al listino base MAD 400.  
+Causa probabile: nelle prime settimane erano attivi prezzi dinamici Airbnb o sconti new-listing.  
+Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto il base rate.  
+→ **Priorità: allineare il pricing e sfruttare il weekend rate (MAD 800) in modo strategico.**
+
+---
+
+## DESCRIZIONE LISTING (testo attuale)
+
+**Descrizione alloggio:**
+> Modern 2BR apartment in a quiet area, 10 min from Majorelle. AC, pool, fast WiFi and full kitchen. Clean, smooth check-in and local tips included.
+
+**Il tuo alloggio:**
+> 2 bedrooms, sleeps 4 comfortably · AC in bedrooms...
+
+**Accesso per gli ospiti:**
+> Quiet residential area, well connected: 10 min Majorelle Garden...
+
+**Interazione con gli ospiti:**
+> What makes Dar Salma special: Carefully curated Moroccan-modern dec...
+
+**Regole casa:**
+> Respectful guests only. No smoking, no parties, quiet hours after 1...
 
 ---
 
