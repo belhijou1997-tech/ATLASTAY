@@ -200,6 +200,59 @@ Le disponibilità non sono considerate perse: il listing è giovane, il ranking 
 
 ---
 
+## INSIGHTS DI MERCATO AIRBNB – MARRAKECH (19 maggio 2026)
+*Dati basati sulle ricerche per Marrakech negli ultimi 14 giorni*
+
+### Finestra di ricerca
+| Orizzonte | % ricerche |
+|-----------|-----------|
+| 0–1 giorno | 16% |
+| 2–7 giorni | 12% |
+| 8–30 giorni | 18% |
+| **31–90 giorni** | **19%** ← dominante |
+| Oltre 90 giorni | 18% |
+| Non specificato | 16% |
+
+→ La maggior parte cerca con **1–3 mesi di anticipo**: giugno e luglio si prenotano adesso.
+
+### Tipo di viaggiatore
+| Tipo | % |
+|------|---|
+| **Coppia** | **63%** ← target principale |
+| Famiglia | 17% |
+| Gruppo | 10% |
+| Viaggiatore singolo | 10% |
+
+### Provenienza
+| Segmento | % |
+|----------|---|
+| Viaggiatori internazionali | 76% |
+| Viaggiatori nazionali (Marocco) | 24% |
+
+**Top 5 paesi:**
+| Paese | % |
+|-------|---|
+| Marocco | 24% |
+| **Francia** | **21%** |
+| Regno Unito | 8% |
+| Spagna | 7% |
+| Stati Uniti | 5% |
+
+### Condizioni di cancellazione preferite dal mercato
+| Policy | % |
+|--------|---|
+| **Cancellazione gratuita** | **51%** |
+| Non rimborsabile | 46% |
+| Parzialmente rimborsabile | 3% |
+
+### Dispositivo di ricerca
+| Dispositivo | % |
+|-------------|---|
+| **Mobile** | **81%** |
+| Computer | 19% |
+
+---
+
 ## SEGNALI POSITIVI
 
 - Tasso occupazione 58,8% per un listing nuovo è solido
