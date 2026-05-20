@@ -178,6 +178,21 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ---
 
+## STORICO PRENOTAZIONI
+
+| # | Ospite | Prenotato il | Check-in | Notti | Totale host | €/notte |
+|---|--------|-------------|----------|-------|-------------|---------|
+| 1 | NADIA HACHHACH | ~30 apr 2026 | 3 mag 2026 | 1 | n.d. | — |
+| 2 | Buochra Elmoden | 1 mag 2026 | 4 mag 2026 | 3 | €143,01 | ~€47,67 |
+| 3 | Mickaël Pouillon | 14 mag 2026 | 13 ott 2026 | 7 | €318,99 | ~€45,57 |
+
+**Note:**
+- Mickaël Pouillon (nome francese) → conferma il mercato Francia. Ha prenotato con **5 mesi di anticipo** per ottobre — conferma il segmento ">90 giorni" e la domanda fuori stagione piscina.
+- Buochra + Nadia → nomi nordafricani/marocchini → segmento nazionale/diaspora (24% del mercato).
+- ADR reale ospiti: ~€46–48/notte. Coerente con base MAD 400 + potenziale cleaning fee inclusa nel totale.
+
+---
+
 ## PERFORMANCE ECONOMICA
 
 | Voce | Valore |
