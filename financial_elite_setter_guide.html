@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Financial Elite – Guida Operativa Setter</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; color: #1a1a1a; background: #fff; }
+
+  .cover { background: #0a1628; color: white; padding: 60px 40px; text-align: center; min-height: 200px; display: flex; flex-direction: column; justify-content: center; }
+  .cover h1 { font-size: 28px; font-weight: 700; letter-spacing: 2px; margin-bottom: 8px; }
+  .cover h2 { font-size: 16px; font-weight: 300; color: #c9a84c; letter-spacing: 1px; margin-bottom: 20px; }
+  .cover .subtitle { font-size: 12px; color: #8899aa; }
+
+  .container { max-width: 800px; margin: 0 auto; padding: 20px 30px; }
+
+  h2.section-title { font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #c9a84c; border-bottom: 2px solid #c9a84c; padding-bottom: 6px; margin: 30px 0 16px; }
+
+  h3.block-title { font-size: 13px; font-weight: 700; color: #0a1628; margin: 20px 0 8px; }
+
+  p { line-height: 1.7; margin-bottom: 8px; color: #333; }
+
+  .box { background: #f4f6f9; border-left: 4px solid #0a1628; padding: 12px 16px; margin: 12px 0; border-radius: 0 6px 6px 0; }
+  .box-gold { background: #fdf8ee; border-left: 4px solid #c9a84c; padding: 12px 16px; margin: 12px 0; border-radius: 0 6px 6px 0; }
+  .box-red { background: #fff5f5; border-left: 4px solid #cc3333; padding: 12px 16px; margin: 12px 0; border-radius: 0 6px 6px 0; }
+
+  .script { background: #0a1628; color: #e8f0fe; padding: 14px 18px; border-radius: 6px; margin: 10px 0; font-style: italic; line-height: 1.8; font-size: 13px; }
+  .script strong { color: #c9a84c; font-style: normal; }
+
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 12px; }
+  th { background: #0a1628; color: #c9a84c; padding: 8px 12px; text-align: left; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 10px; }
+  td { padding: 8px 12px; border-bottom: 1px solid #e8ecf0; vertical-align: top; }
+  tr:nth-child(even) td { background: #f9fafb; }
+
+  .fase { background: white; border: 1px solid #e0e4ea; border-radius: 8px; margin: 14px 0; overflow: hidden; }
+  .fase-header { background: #0a1628; color: white; padding: 10px 16px; display: flex; align-items: center; gap: 12px; }
+  .fase-num { background: #c9a84c; color: #0a1628; font-weight: 700; font-size: 13px; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .fase-title { font-size: 13px; font-weight: 600; }
+  .fase-obj { font-size: 11px; color: #8899aa; margin-left: auto; }
+  .fase-body { padding: 14px 16px; }
+
+  .obiezione { background: white; border: 1px solid #e0e4ea; border-radius: 8px; margin: 14px 0; overflow: hidden; }
+  .obiezione-header { background: #cc3333; color: white; padding: 8px 14px; font-weight: 600; font-size: 12px; }
+  .obiezione-body { padding: 12px 14px; }
+
+  .tag { display: inline-block; background: #0a1628; color: #c9a84c; font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 20px; margin: 2px; letter-spacing: 0.5px; }
+  .tag-no { display: inline-block; background: #cc3333; color: white; font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 20px; margin: 2px; }
+
+  ul { padding-left: 18px; margin: 6px 0; }
+  ul li { margin-bottom: 4px; line-height: 1.6; color: #333; }
+
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 12px 0; }
+  .col-box { background: #f4f6f9; border-radius: 8px; padding: 14px; }
+  .col-box h4 { font-size: 11px; font-weight: 700; color: #0a1628; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+
+  .page-break { page-break-before: always; }
+
+  .checklist { list-style: none; padding: 0; }
+  .checklist li { padding: 6px 0; border-bottom: 1px solid #f0f0f0; display: flex; align-items: center; gap: 10px; }
+  .checklist li::before { content: '☐'; font-size: 16px; color: #0a1628; flex-shrink: 0; }
+
+  .highlight { color: #c9a84c; font-weight: 700; }
+  .danger { color: #cc3333; font-weight: 600; }
+
+  @media print {
+    .container { padding: 10px 20px; }
+    .fase, .obiezione { break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cover">
+  <h1>FINANCIAL ELITE</h1>
+  <h2>Guida Operativa Setter</h2>
+  <div class="subtitle">Call di Qualifica · Obiezioni · Framework Completo</div>
+</div>
+
+<div class="container">
+
+  <!-- SEZIONE 1: IDENTITÀ -->
+  <h2 class="section-title">1 · Identità Financial Elite</h2>
+
+  <div class="box-gold">
+    <strong>Financial Elite è una società di consulenza marketing verticale</strong> che aiuta i consulenti finanziari a costruire autorevolezza e posizionamento tramite personal brand e social, creando un sistema prevedibile di acquisizione clienti patrimonializzati e aumentando la raccolta gestita fino a <strong>+3-5 milioni €/anno</strong>.
+  </div>
+
+  <div class="two-col">
+    <div class="col-box">
+      <h4>✅ È</h4>
+      <ul>
+        <li>Società di consulenza marketing verticale</li>
+        <li>Specializzata in acquisizione clienti</li>
+        <li>Focalizzata su raccolta gestita</li>
+        <li>Sistema prevedibile e controllabile</li>
+      </ul>
+    </div>
+    <div class="col-box">
+      <h4>❌ Non è</h4>
+      <ul>
+        <li>Agenzia social</li>
+        <li>Agenzia pubblicitaria</li>
+        <li>Team social media manager</li>
+        <li>Corso influencer</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- SEZIONE 2: SETTORE -->
+  <h2 class="section-title">2 · Settore Finanziario – Concetti Chiave</h2>
+
+  <table>
+    <tr><th>Termine</th><th>Definizione</th></tr>
+    <tr><td><strong>Raccolta gestita</strong></td><td>Patrimonio investito che genera commissioni → il consulente CI guadagna</td></tr>
+    <tr><td><strong>Raccolta amministrata</strong></td><td>Liquidità ferma/parcheggiata → il consulente NON guadagna</td></tr>
+    <tr><td><strong>Raccolta totale</strong></td><td>Gestita + Amministrata</td></tr>
+    <tr><td><strong>Nuova raccolta</strong></td><td>Nuovi capitali acquisiti</td></tr>
+    <tr><td><strong>AUM</strong></td><td>Assets Under Management</td></tr>
+    <tr><td><strong>Fee</strong></td><td>Commissioni sul gestito</td></tr>
+    <tr><td><strong>Cliente patrimonializzato</strong></td><td>Cliente con patrimonio significativo da investire</td></tr>
+  </table>
+
+  <div class="box">
+    <strong>Regola d'oro:</strong> Più raccolta gestita = più fee = più guadagno. Per questo ogni conversazione deve collegarsi alla <strong>raccolta gestita</strong>.
+  </div>
+
+  <!-- SEZIONE 3: TARGET -->
+  <h2 class="section-title">3 · I Due Target</h2>
+
+  <div class="two-col">
+    <div class="col-box">
+      <h4>👔 Senior</h4>
+      <ul>
+        <li>Esperienza elevata</li>
+        <li>Cresce tramite passaparola</li>
+        <li>Buon portafoglio, scettico sui social</li>
+        <li><strong>Pain:</strong> troppi clienti piccoli, plateau</li>
+        <li><strong>Vuole:</strong> meno clienti, migliori, più marginalità</li>
+        <li><strong>Teme:</strong> sembrare un marketer/influencer</li>
+      </ul>
+    </div>
+    <div class="col-box">
+      <h4>🚀 Junior</h4>
+      <ul>
+        <li>Poca esperienza, motivato</li>
+        <li>Obiettivi di raccolta da raggiungere</li>
+        <li>Aperto ai social, poco budget</li>
+        <li><strong>Pain:</strong> crescita lenta, poca credibilità</li>
+        <li><strong>Vuole:</strong> crescere velocemente</li>
+        <li><strong>Teme:</strong> non raggiungere obiettivi</li>
+      </ul>
+    </div>
+  </div>
+
+  <table>
+    <tr><th></th><th>Senior</th><th>Junior</th></tr>
+    <tr><td>Pain principale</td><td>Troppi clienti piccoli, plateau</td><td>Crescita lenta, credibilità</td></tr>
+    <tr><td>Leva emotiva</td><td>Controllo e qualità</td><td>Velocità e credibilità</td></tr>
+    <tr><td>Obiezione tipica</td><td>"I clienti grandi non sono online"</td><td>"Non ho budget"</td></tr>
+    <tr><td>Tono in call</td><td>Consulenziale, rispettoso</td><td>Energico, visionario</td></tr>
+  </table>
+
+  <div class="page-break"></div>
+
+  <!-- SEZIONE 4: CQ -->
+  <h2 class="section-title">4 · Struttura Call di Qualifica (CQ)</h2>
+
+  <div class="box-gold">
+    <strong>Obiettivo CQ:</strong> NON vendere. Qualificare il lead, individuare pain, aumentare consapevolezza, creare fiducia, fissare la call di chiusura.
+  </div>
+
+  <!-- FASE 1 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">1</div>
+      <div class="fase-title">APERTURA</div>
+      <div class="fase-obj">Abbassare le difese</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">
+        "Ciao <strong>[Nome]</strong>, mi senti bene?<br>
+        Sono <strong>[Tuo Nome]</strong> di Financial Elite.<br>
+        Hai compilato il nostro form qualche giorno fa — giusto?"
+      </div>
+      <div class="box-red">❌ NON spiegare cosa fate · NON pitchare · NON fare domande sul business</div>
+    </div>
+  </div>
+
+  <!-- FASE 2 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">2</div>
+      <div class="fase-title">MOTIVO DELLA CHIAMATA</div>
+      <div class="fase-obj">Creare attenzione</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">
+        "Perfetto. Sei riuscito a dare un'occhiata alla guida?"<br><br>
+        <em>Se no:</em> "Nessun problema, te la rimando su WhatsApp così puoi guardarla con calma."
+      </div>
+    </div>
+  </div>
+
+  <!-- FASE 3 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">3</div>
+      <div class="fase-title">UNCINO + AUTOREVOLEZZA</div>
+      <div class="fase-obj">Creare curiosità e status</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">
+        "Nel frattempo ti chiamo perché <strong>Lorenzo Bignami</strong> stesso mi ha chiesto di sentirti.<br>
+        Stiamo selezionando alcuni consulenti finanziari a cui dare un'opportunità concreta questa settimana."<br><br>
+        "Come mai avevi deciso di approfondire il tema dell'acquisizione clienti?"
+      </div>
+      <p><em>Se chiede "di cosa si tratta?":</em></p>
+      <div class="script">"Si tratta di un programma individuale che aiuta consulenti finanziari ad acquisire nuovi clienti in modo costante e prevedibile tramite i social, senza dipendere dal passaparola."</div>
+    </div>
+  </div>
+
+  <!-- FASE 4 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">4</div>
+      <div class="fase-title">INDAGINE</div>
+      <div class="fase-obj">Mappare la situazione (neutro)</div>
+    </div>
+    <div class="fase-body">
+      <p><strong>Regola: parli 20%, lui parla 80%</strong></p>
+      <table>
+        <tr><th>#</th><th>Domanda</th><th>Obiettivo</th></tr>
+        <tr><td>1</td><td>"Che strategie usi oggi per acquisire nuovi clienti?"</td><td>Sistema attuale</td></tr>
+        <tr><td>2</td><td>"Quanto dipendi dal passaparola?"</td><td>Dipendenza</td></tr>
+        <tr><td>3</td><td>"Che tipo di clienti hai prevalentemente?"</td><td>Qualità portafoglio</td></tr>
+        <tr><td>4</td><td>"Qual è la tua raccolta gestita attualmente?"</td><td>Situazione economica</td></tr>
+        <tr><td>5</td><td>"Hai mai usato i social per acquisire clienti?"</td><td>Apertura al digitale</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <!-- FASE 5 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">5</div>
+      <div class="fase-title">PAIN / STATO ATTUALE</div>
+      <div class="fase-obj">Far emergere il problema</div>
+    </div>
+    <div class="fase-body">
+      <p><strong>Regola: il pain più forte è quello che lui dice con le sue parole.</strong></p>
+      <div class="script">"Se potessi cambiare qualcosa della tua situazione professionale attuale, cosa cambieresti?"</div>
+      <p><strong>Approfondimento:</strong></p>
+      <ul>
+        <li>"Come ti fa sentire questa situazione?"</li>
+        <li>"Quanto senti di stare crescendo in modo prevedibile?"</li>
+        <li>"Cosa succede se continui così nei prossimi 2-3 anni?"</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- FASE 6 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">6</div>
+      <div class="fase-title">STATO IDEALE</div>
+      <div class="fase-obj">Creare desiderio</div>
+    </div>
+    <div class="fase-body">
+      <p><strong>Logica:</strong> Pain (dov'è) → Stato ideale (dove vuole essere) → Gap → Motivazione ad agire</p>
+      <div class="script">
+        "Qual è l'obiettivo professionale che vorresti raggiungere nei prossimi 12 mesi?"<br><br>
+        "Come cambierebbe la tua vita se avessi un flusso costante di clienti patrimonializzati?"<br><br>
+        "Che tipo di clienti vorresti attrarre?"
+      </div>
+    </div>
+  </div>
+
+  <!-- FASE 7 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">7</div>
+      <div class="fase-title">QUALIFICA ECONOMICA</div>
+      <div class="fase-obj">Verificare disponibilità investimento</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">
+        "Se vedessi un sistema concreto per raggiungere questi obiettivi e avere un flusso prevedibile di clienti patrimonializzati…<br>
+        valuteresti di investire tra <strong>€3.500 e €5.000</strong> sulla tua crescita professionale?"
+      </div>
+      <table>
+        <tr><th>Risposta</th><th>Cosa fai</th></tr>
+        <tr><td>Sì / Chiede dettagli</td><td>✅ Qualificato → vai avanti</td></tr>
+        <tr><td>No secco</td><td>❌ Non qualificato → non fissare la call</td></tr>
+      </table>
+      <div class="box-red">❌ NON giustificare il prezzo · NON spiegare cosa include · Fai solo la domanda</div>
+    </div>
+  </div>
+
+  <!-- FASE 8 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">8</div>
+      <div class="fase-title">DECISORE</div>
+      <div class="fase-obj">Verificare autonomia decisionale</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">
+        "Nel caso in cui il programma facesse davvero al caso tuo, saresti tu a decidere in autonomia oppure dovresti confrontarti con qualcuno?"
+      </div>
+      <p><em>Se c'è un partner:</em></p>
+      <div class="script">"Perfetto, allora ha senso coinvolgere anche <strong>[Nome]</strong> nella call — così valutate tutto insieme e non perdete tempo inutilmente."</div>
+    </div>
+  </div>
+
+  <!-- FASE 9 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">9</div>
+      <div class="fase-title">FISSAGGIO CALL</div>
+      <div class="fase-obj">Prenotare la call di chiusura</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">"Perfetto, sei idoneo per la call di approfondimento con il team di Financial Elite."</div>
+      <p><strong>Domande SEMPRE dicotomiche — mai aperte:</strong></p>
+      <div class="script">
+        "Preferisci <strong>mattina o pomeriggio</strong>?"<br>
+        "Lunedì o martedì?"<br>
+        "Alle 15 o alle 16?"
+      </div>
+      <div class="box">
+        <strong>Perché dicotomiche:</strong> Entrambe le opzioni portano allo stesso risultato (fissa la call). Mantieni la leadership della conversazione.
+      </div>
+    </div>
+  </div>
+
+  <!-- FASE 10 -->
+  <div class="fase">
+    <div class="fase-header">
+      <div class="fase-num">10</div>
+      <div class="fase-title">CEMENTIFICAZIONE</div>
+      <div class="fase-obj">Ridurre no-show</div>
+    </div>
+    <div class="fase-body">
+      <div class="script">
+        "Ti chiedo solo una cosa…<br>
+        C'è qualsiasi motivo per cui potresti non presentarti alla call?"<br><br>
+        <em>(aspetti la risposta)</em><br><br>
+        "Perfetto. Mi raccomando la puntualità — ci prenderemo un'ora dedicata completamente a te."
+      </div>
+      <p><strong>Istruzioni finali:</strong></p>
+      <div class="script">
+        "La call sarà su Zoom. Ti mando il link via mail — controllala e confermami di averla ricevuta.<br>
+        Nel frattempo ti invio un video da guardare prima della call."
+      </div>
+      <div class="box">
+        <strong>Principio psicologico:</strong> Chi si impegna verbalmente (commitment) tende a rispettare l'impegno per coerenza con se stesso → meno no-show.
+      </div>
+    </div>
+  </div>
+
+  <div class="page-break"></div>
+
+  <!-- SEZIONE 5: OBIEZIONI -->
+  <h2 class="section-title">5 · Gestione Obiezioni – Senior</h2>
+
+  <!-- OBIEZIONE 1 -->
+  <div class="obiezione">
+    <div class="obiezione-header">❝ I miei clienti migliori non sono sui social. Le persone serie non usano Instagram. ❞</div>
+    <div class="obiezione-body">
+      <div class="script">
+        "Hai ragione, non parliamo di influencer o post virali.<br>
+        È quello che pensavano molti dei nostri clienti, prima di costruire un sistema che ha portato <strong>+3-5 milioni di nuova raccolta gestita</strong>.<br><br>
+        Ti chiedo <strong>[Nome]</strong> — al di fuori del passaparola, hai un sistema per attrarre clienti patrimonializzati?"
+      </div>
+    </div>
+  </div>
+
+  <!-- OBIEZIONE 2 -->
+  <div class="obiezione">
+    <div class="obiezione-header">❝ Ho già provato con il marketing. Ho speso soldi e non ha funzionato. ❞</div>
+    <div class="obiezione-body">
+      <p><strong>Step 1 — Fai domande prima di rispondere:</strong></p>
+      <div class="script">"Capisco. Cosa hai provato esattamente? Con chi hai lavorato?"</div>
+      <p><strong>Step 2 — Rottura netta dopo aver ascoltato:</strong></p>
+      <div class="script">
+        "Quello che descrivi è quello che fanno la maggior parte delle agenzie — lavorano su visibilità, follower, campagne.<br>
+        Noi facciamo una cosa diversa: lavoriamo su <strong>posizionamento e autorevolezza percepita</strong>, in modo che i clienti patrimonializzati vengano da te spontaneamente.<br>
+        È un sistema diverso, con un obiettivo diverso."
+      </div>
+    </div>
+  </div>
+
+  <!-- OBIEZIONE 3 -->
+  <div class="obiezione">
+    <div class="obiezione-header">❝ Non ho tempo. Sono già pieno di clienti. ❞</div>
+    <div class="obiezione-body">
+      <p><strong>Reframe: non è un problema di quantità di tempo, ma di qualità.</strong></p>
+      <div class="script">
+        "Capisco. Ti chiedo una cosa: sei pieno di clienti, ma quanto di quel tempo lo dedichi a clienti con patrimoni importanti rispetto a clienti più piccoli?"<br><br>
+        <em>(aspetti la risposta)</em><br><br>
+        "Esatto. Il sistema che costruiamo non ti chiede più tempo — ti aiuta ad attrarre clienti migliori, così nel tempo lavori <strong>meno</strong>, con clienti migliori e con <strong>marginalità più alta</strong>."
+      </div>
+    </div>
+  </div>
+
+  <!-- SEZIONE 6: LINGUAGGIO -->
+  <h2 class="section-title">6 · Linguaggio Corretto</h2>
+
+  <table>
+    <tr><th>❌ NON dire</th><th>✅ DI' invece</th></tr>
+    <tr><td>Fare marketing</td><td>Costruire un sistema prevedibile di acquisizione clienti</td></tr>
+    <tr><td>Fare video / post</td><td>Costruire autorevolezza percepita</td></tr>
+    <tr><td>Avere più follower</td><td>Attrarre clienti patrimonializzati</td></tr>
+    <tr><td>Agenzia social</td><td>Società di consulenza marketing verticale</td></tr>
+    <tr><td>Clienti ricchi</td><td>Clienti patrimonializzati</td></tr>
+    <tr><td>Crescita scalabile</td><td>Crescita prevedibile e controllabile</td></tr>
+    <tr><td>Visibilità online</td><td>Posizionamento e autorevolezza</td></tr>
+  </table>
+
+  <!-- SEZIONE 7: TERMINI CHIAVE -->
+  <h2 class="section-title">7 · Termini da Usare Sempre</h2>
+
+  <div style="margin: 10px 0;">
+    <span class="tag">raccolta gestita</span>
+    <span class="tag">raccolta totale</span>
+    <span class="tag">nuova raccolta</span>
+    <span class="tag">AUM</span>
+    <span class="tag">marginalità</span>
+    <span class="tag">clienti patrimonializzati</span>
+    <span class="tag">prevedibilità</span>
+    <span class="tag">controllo</span>
+    <span class="tag">autorevolezza</span>
+    <span class="tag">posizionamento</span>
+    <span class="tag">personal brand</span>
+    <span class="tag">acquisizione clienti</span>
+    <span class="tag">flusso prevedibile</span>
+    <span class="tag">richieste spontanee</span>
+    <span class="tag">sistema prevedibile</span>
+  </div>
+
+  <!-- SEZIONE 8: LEVE PSICOLOGICHE -->
+  <h2 class="section-title">8 · Mindset – Cosa Compra il Consulente</h2>
+
+  <div class="two-col">
+    <div class="col-box">
+      <h4>✅ Compra</h4>
+      <ul>
+        <li>Controllo</li>
+        <li>Stabilità</li>
+        <li>Prevedibilità</li>
+        <li>Autorevolezza</li>
+        <li>Marginalità</li>
+        <li>Crescita sostenibile</li>
+      </ul>
+    </div>
+    <div class="col-box">
+      <h4>❌ NON compra</h4>
+      <ul>
+        <li>Reel e video</li>
+        <li>Follower</li>
+        <li>Visualizzazioni</li>
+        <li>"Marketing"</li>
+        <li>Campagne pubblicitarie</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="box-gold">
+    <strong>Obiettivo psicologico della CQ:</strong> Far pensare al consulente — <em>"Questi capiscono davvero il mio business e possono aiutarmi a crescere in modo più controllabile."</em>
+  </div>
+
+  <!-- SEZIONE 9: CHECKLIST -->
+  <h2 class="section-title">9 · Checklist Pre-Call</h2>
+
+  <ul class="checklist">
+    <li>Ho il nome del prospect e so se è senior o junior</li>
+    <li>So qual è la sua raccolta gestita (se disponibile)</li>
+    <li>Ho il form/guida da rimandare su WhatsApp se non l'ha visto</li>
+    <li>Sono in un posto silenzioso con buona connessione</li>
+    <li>Tono di voce alto, energia positiva</li>
+    <li>Non parlo come un marketer — parlo come un esperto del suo business</li>
+  </ul>
+
+  <!-- SEZIONE 10: REGOLE SETTER -->
+  <h2 class="section-title">10 · Regole del Setter</h2>
+
+  <div class="two-col">
+    <div class="col-box">
+      <h4>❌ NON fare</h4>
+      <ul>
+        <li>Sembrare aggressivo</li>
+        <li>Interrompere troppo</li>
+        <li>Fare monologhi</li>
+        <li>Parlare come un marketer</li>
+        <li>Spiegare troppo presto il servizio</li>
+        <li>Saltare fasi</li>
+        <li>Mescolare indagine e pain</li>
+      </ul>
+    </div>
+    <div class="col-box">
+      <h4>✅ FARE sempre</h4>
+      <ul>
+        <li>Fare domande</li>
+        <li>Approfondire le risposte</li>
+        <li>Usare il nome del prospect</li>
+        <li>Tono tranquillo e autorevole</li>
+        <li>Guidare la conversazione</li>
+        <li>Usare linguaggio del settore finance</li>
+        <li>Rispettare la sequenza delle fasi</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="text-align:center; margin-top: 40px; padding: 20px; color: #8899aa; font-size: 11px; border-top: 1px solid #e0e4ea;">
+    Financial Elite · Guida Operativa Setter · Uso interno
+  </div>
+
+</div>
+</body>
+</html>
