@@ -484,10 +484,10 @@ footer{padding:40px 20px;}
       <div class="fg">
         <label data-it="Proprietà preferita" data-en="Preferred property" data-fr="Propriété préférée">Proprietà preferita</label>
         <select id="bk-prop" onchange="updatePreview()">
-          <option value="">Nessuna preferenza</option>
-          <option value="Villa con Piscina">Villa con Piscina</option>
-          <option value="Appartamento Privato">Appartamento Privato</option>
-          <option value="Riad Tradizionale">Riad Tradizionale</option>
+          <option value="" data-it="Nessuna preferenza" data-en="No preference" data-fr="Aucune préférence">Nessuna preferenza</option>
+          <option value="Villa con Piscina" data-it="Villa con Piscina" data-en="Pool Villa" data-fr="Villa avec Piscine">Villa con Piscina</option>
+          <option value="Appartamento Privato" data-it="Appartamento Privato" data-en="Private Apartment" data-fr="Appartement Privé">Appartamento Privato</option>
+          <option value="Riad Tradizionale" data-it="Riad Tradizionale" data-en="Traditional Riad" data-fr="Riad Traditionnel">Riad Tradizionale</option>
         </select>
       </div>
       <div class="fg-row">
@@ -502,24 +502,24 @@ footer{padding:40px 20px;}
         <div class="fg">
           <label data-it="Budget indicativo" data-en="Indicative budget" data-fr="Budget indicatif">Budget indicativo</label>
           <select id="bk-budget" onchange="updatePreview()">
-            <option value="">Non specificato</option>
-            <option value="Fino a €100/notte">Fino a €100/notte</option>
-            <option value="€100–€200/notte">€100–€200/notte</option>
-            <option value="€200–€400/notte">€200–€400/notte</option>
-            <option value="Oltre €400/notte">Oltre €400/notte</option>
+            <option value="" data-it="Non specificato" data-en="Not specified" data-fr="Non spécifié">Non specificato</option>
+            <option value="Fino a €100/notte" data-it="Fino a €100/notte" data-en="Up to €100/night" data-fr="Jusqu'à €100/nuit">Fino a €100/notte</option>
+            <option value="€100–€200/notte" data-it="€100–€200/notte" data-en="€100–€200/night" data-fr="€100–€200/nuit">€100–€200/notte</option>
+            <option value="€200–€400/notte" data-it="€200–€400/notte" data-en="€200–€400/night" data-fr="€200–€400/nuit">€200–€400/notte</option>
+            <option value="Oltre €400/notte" data-it="Oltre €400/notte" data-en="Over €400/night" data-fr="Plus de €400/nuit">Oltre €400/notte</option>
           </select>
         </div>
       </div>
       <div class="fg">
         <label data-it="Esperienze di interesse" data-en="Experiences of interest" data-fr="Expériences d'intérêt">Esperienze di interesse</label>
         <select id="bk-exp" onchange="updatePreview()">
-          <option value="Nessuna per ora">Nessuna per ora</option>
-          <option value="Deserto Merzouga">Deserto Merzouga</option>
-          <option value="Mongolfiera all'alba">Mongolfiera all'alba</option>
-          <option value="Hammam autentico">Hammam autentico</option>
-          <option value="Cena privata al riad">Cena privata al riad</option>
-          <option value="Cooking class">Cooking class</option>
-          <option value="Pacchetto completo">Pacchetto completo</option>
+          <option value="Nessuna per ora" data-it="Nessuna per ora" data-en="None for now" data-fr="Aucune pour l'instant">Nessuna per ora</option>
+          <option value="Deserto Merzouga" data-it="Deserto Merzouga" data-en="Merzouga Desert" data-fr="Désert Merzouga">Deserto Merzouga</option>
+          <option value="Mongolfiera all'alba" data-it="Mongolfiera all'alba" data-en="Hot Air Balloon at Dawn" data-fr="Montgolfière à l'Aube">Mongolfiera all'alba</option>
+          <option value="Hammam autentico" data-it="Hammam autentico" data-en="Authentic Hammam" data-fr="Hammam Authentique">Hammam autentico</option>
+          <option value="Cena privata al riad" data-it="Cena privata al riad" data-en="Private Riad Dinner" data-fr="Dîner Privé au Riad">Cena privata al riad</option>
+          <option value="Cooking class" data-it="Cooking class" data-en="Cooking Class" data-fr="Cours de Cuisine">Cooking class</option>
+          <option value="Pacchetto completo" data-it="Pacchetto completo" data-en="Full Package" data-fr="Forfait Complet">Pacchetto completo</option>
         </select>
       </div>
       <div class="preview-box" id="preview">
@@ -701,18 +701,22 @@ window.addEventListener('scroll',()=>{document.getElementById('nav').classList.t
 
 // PREVIEW MESSAGGIO
 function updatePreview(){
-  const type=document.getElementById('bk-type').value;
-  const prop=document.getElementById('bk-prop').value;
+  const typeEl=document.getElementById('bk-type');
+  const type=typeEl.options[typeEl.selectedIndex].text;
+  const propEl=document.getElementById('bk-prop');
+  const prop=propEl.options[propEl.selectedIndex].text;
   const ci=document.getElementById('bk-in').value;
   const co=document.getElementById('bk-out').value;
   const g=document.getElementById('bk-guests').value;
-  const budget=document.getElementById('bk-budget').value;
-  const ex=document.getElementById('bk-exp').value;
-  if(!type&&!ci&&!co)return;
+  const budgetEl=document.getElementById('bk-budget');
+  const budget=budgetEl.options[budgetEl.selectedIndex].text;
+  const expEl=document.getElementById('bk-exp');
+  const ex=expEl.options[expEl.selectedIndex].text;
+  if(!typeEl.value&&!ci&&!co)return;
   const msgs={
-    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏷 Tipo: ${type||'—'}\n🏠 Proprietà: ${prop||'Nessuna preferenza'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Ospiti: ${g}\n💰 Budget: ${budget||'Non specificato'}\n✨ Esperienze: ${ex}\n\nPotete inviarmi disponibilità e preventivo? Grazie!`,
-    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Property: ${prop||'No preference'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Guests: ${g}\n💰 Budget: ${budget||'Not specified'}\n✨ Experiences: ${ex}\n\nCan you send me availability and a quote? Thanks!`,
-    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Propriété: ${prop||'Aucune préférence'}\n📅 Arrivée: ${ci||'—'}\n📅 Départ: ${co||'—'}\n👥 Personnes: ${g}\n💰 Budget: ${budget||'Non spécifié'}\n✨ Expériences: ${ex}\n\nPouvez-vous m'envoyer disponibilité et devis? Merci!`
+    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏷 Tipo: ${typeEl.value?type:'—'}\n🏠 Proprietà: ${prop}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Ospiti: ${g}\n💰 Budget: ${budget}\n✨ Esperienze: ${ex}\n\nPotete inviarmi disponibilità e preventivo? Grazie!`,
+    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏷 Type: ${typeEl.value?type:'—'}\n🏠 Property: ${prop}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Guests: ${g}\n💰 Budget: ${budget}\n✨ Experiences: ${ex}\n\nCan you send me availability and a quote? Thanks!`,
+    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏷 Type: ${typeEl.value?type:'—'}\n🏠 Propriété: ${prop}\n📅 Arrivée: ${ci||'—'}\n📅 Départ: ${co||'—'}\n👥 Personnes: ${g}\n💰 Budget: ${budget}\n✨ Expériences: ${ex}\n\nPouvez-vous m'envoyer disponibilité et devis? Merci!`
   };
   const preview=document.getElementById('preview');
   const txt=document.getElementById('preview-text');
@@ -722,17 +726,21 @@ function updatePreview(){
 
 // WA SEND
 function sendWA(){
-  const type=document.getElementById('bk-type').value;
-  const prop=document.getElementById('bk-prop').value;
+  const typeEl=document.getElementById('bk-type');
+  const type=typeEl.options[typeEl.selectedIndex].text;
+  const propEl=document.getElementById('bk-prop');
+  const prop=propEl.options[propEl.selectedIndex].text;
   const ci=document.getElementById('bk-in').value;
   const co=document.getElementById('bk-out').value;
   const g=document.getElementById('bk-guests').value;
-  const budget=document.getElementById('bk-budget').value;
-  const ex=document.getElementById('bk-exp').value;
+  const budgetEl=document.getElementById('bk-budget');
+  const budget=budgetEl.options[budgetEl.selectedIndex].text;
+  const expEl=document.getElementById('bk-exp');
+  const ex=expEl.options[expEl.selectedIndex].text;
   const msgs={
-    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏷 Tipo: ${type||'—'}\n🏠 Proprietà: ${prop||'Nessuna preferenza'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Ospiti: ${g}\n💰 Budget: ${budget||'Non specificato'}\n✨ Esperienze: ${ex}\n\nPotete inviarmi disponibilità e preventivo? Grazie!`,
-    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Property: ${prop||'No preference'}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Guests: ${g}\n💰 Budget: ${budget||'Not specified'}\n✨ Experiences: ${ex}\n\nCan you send me availability and a quote? Thanks!`,
-    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏷 Type: ${type||'—'}\n🏠 Propriété: ${prop||'Aucune préférence'}\n📅 Arrivée: ${ci||'—'}\n📅 Départ: ${co||'—'}\n👥 Personnes: ${g}\n💰 Budget: ${budget||'Non spécifié'}\n✨ Expériences: ${ex}\n\nPouvez-vous m'envoyer disponibilité et devis? Merci!`
+    it:`Ciao! Sono interessato a soggiornare con AtlasStay a Marrakech.\n\n🏷 Tipo: ${typeEl.value?type:'—'}\n🏠 Proprietà: ${prop}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Ospiti: ${g}\n💰 Budget: ${budget}\n✨ Esperienze: ${ex}\n\nPotete inviarmi disponibilità e preventivo? Grazie!`,
+    en:`Hello! I'm interested in staying with AtlasStay in Marrakech.\n\n🏷 Type: ${typeEl.value?type:'—'}\n🏠 Property: ${prop}\n📅 Check-in: ${ci||'—'}\n📅 Check-out: ${co||'—'}\n👥 Guests: ${g}\n💰 Budget: ${budget}\n✨ Experiences: ${ex}\n\nCan you send me availability and a quote? Thanks!`,
+    fr:`Bonjour! Je suis intéressé par un séjour avec AtlasStay à Marrakech.\n\n🏷 Type: ${typeEl.value?type:'—'}\n🏠 Propriété: ${prop}\n📅 Arrivée: ${ci||'—'}\n📅 Départ: ${co||'—'}\n👥 Personnes: ${g}\n💰 Budget: ${budget}\n✨ Expériences: ${ex}\n\nPouvez-vous m'envoyer disponibilité et devis? Merci!`
   };
   const note=document.getElementById('success-note');
   note.style.display='block';
