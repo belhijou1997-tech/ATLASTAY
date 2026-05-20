@@ -4,9 +4,15 @@
 
 ## IDENTITÀ
 
-**Nome listing:** Dar Salma – appartamento 2 camere con piscina  
-**Piscina:** operativa luglio–ottobre  
-**Città:** Marrakech  
+**Nome listing Airbnb:** Dar Salma 2BR w/ Pool • 10min Majorelle  
+**Tipologia:** Intero alloggio in affitto  
+**Capacità:** 4 ospiti · 2 camere da letto · 2 letti · 1 bagno  
+**Posizione:** Marrakech – 10 minuti dal Giardino Majorelle  
+**Piscina:** presente (operativa luglio–ottobre)  
+**Check-in:** Self check-in  
+**Host pubblico:** Badr (5 mesi da host)  
+**Stato listing:** Novità · 2 recensioni  
+**Foto:** 20  
 **Posizionamento:** Mid-range premium accessibile
 
 **Target:**
@@ -82,7 +88,7 @@ Considerato investimento iniziale, non costo ricorrente.
 | Annuncio → prenotazione | 1,01% |
 | Conversione globale | 0,23% |
 
-### Snapshot 2 (aggiornato)
+### Snapshot 2
 | Metrica | Valore |
 |---------|--------|
 | Impressioni prima pagina | 1.902 |
@@ -93,7 +99,40 @@ Considerato investimento iniziale, non costo ricorrente.
 | Annuncio → prenotazione | 1,45% |
 | Conversione globale | 0,37% |
 
-**Trend:** crescita su tutti i KPI → algoritmo favorevole, mercato che valida.
+### Snapshot 3 – aggiornamento 19 maggio 2026
+| Metrica | Valore |
+|---------|--------|
+| **Tasso di occupazione** | **58,8%** |
+| Tasso di cancellazione | 0,0% |
+| Durata media soggiorno | 3,7 giorni |
+| Tariffa giornaliera media | 31€ |
+| Notti prenotate | 10 |
+| Valore totale prenotazioni | 310€ |
+| Conversione prenotazioni | 0,48% |
+| Preavviso di prenotazione | 4,0 giorni |
+| Ospiti fidelizzati | 0% |
+| Aggiunte alle wishlist | **34** |
+| Valutazioni 5 stelle | 1 (50%) |
+| Valutazioni < 5 stelle | 1 (50%) |
+
+**Trend:** conversione cresciuta da 0,23% → 0,37% → 0,48%. Wishlist: 27 → 34. Algoritmo stabile e favorevole.
+
+---
+
+## PRICING – CALENDARIO MAGGIO 2026
+
+| Periodo | Prezzo notte |
+|---------|-------------|
+| 1–3 maggio | MAD 360 |
+| 4–6 maggio | MAD 280 |
+| 7–13 maggio | MAD 280 (Clara + ospite successivo) |
+| 14 maggio | MAD 279 |
+| 15 maggio | MAD 273 |
+| 16–17 maggio | MAD 372 (ospite K) |
+| 21–24 maggio | MAD 335 |
+| 25–31 maggio | MAD 372 |
+
+**Nota:** le notti 1–20 maggio risultano occupate o passate. Dal 21 maggio il calendario è aperto.
 
 ---
 
@@ -101,10 +140,11 @@ Considerato investimento iniziale, non costo ricorrente.
 
 | Voce | Valore |
 |------|--------|
-| Incasso | 5.654 MAD |
+| Incasso (rilevato) | ~5.654 MAD |
+| Valore prenotazioni (19 mag) | 310€ |
 | Pulizie | ~400 MAD |
 | Luce/acqua | ~100–200 MAD |
-| **Margine operativo** | **~5.050 MAD** |
+| **Margine operativo stimato** | **~5.050 MAD** |
 
 L'appartamento non sta solo coprendo i costi: sta producendo cashflow reale.
 
@@ -112,20 +152,22 @@ L'appartamento non sta solo coprendo i costi: sta producendo cashflow reale.
 
 ## OCCUPAZIONE
 
-**Stato maggio:** prima metà molto piena.  
-Notti sparse nella seconda metà + blocco dal 20 maggio.  
-Le disponibilità non sono considerate perse: il listing è giovane, il ranking cresce.
+**Stato maggio:** prima metà completamente occupata.  
+Dal 21 maggio il calendario è libero e disponibile.  
+Le disponibilità non sono considerate perse: il listing è giovane, il ranking cresce, giugno è tutto aperto.
 
 ---
 
 ## SEGNALI POSITIVI
 
-- Algoritmo favorevole
-- Crescita organica delle conversioni
+- Tasso occupazione 58,8% per un listing nuovo è solido
+- 0% cancellazioni — ospiti seri, fiducia alta
+- Conversione in crescita costante (0,23% → 0,48%)
+- 34 wishlist saves — domanda latente reale
 - Costi operativi bassissimi
 - Buona marginalità
-- 27 wishlist saves (segnale di fiducia reale)
 - Posizionamento ed estetica coerenti
+- Self check-in operativo con Badr
 
 ---
 
