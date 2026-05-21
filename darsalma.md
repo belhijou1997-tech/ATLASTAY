@@ -210,16 +210,32 @@ Soggiorni a lungo termine permessi (≥28 notti) — rilevante per remote worker
 **Policy Booking.com:** Non-rimborsabile (rate plan attivo) + Standard Rate  
 **Weekly Rate:** visibile ~1625 (da verificare unità)
 
-### Confronto per mese (prezzi netti host stimati) — AGGIORNATO 21 mag 2026
-| Periodo | Airbnb (MAD→€) | Booking (lordo) | Booking netto (-17%) | Gap host |
-|---------|---------------|-----------------|---------------------|---------|
-| Mag 21–24 | MAD 335 = ~€31 → host ~€30 | €43 | ~€36 | Booking +€6 |
-| Mag 25–31 | MAD 372 = ~€34 → host ~€33 | €45 | ~€37 | Booking +€4 |
-| Giugno lun–gio | **MAD 344 = ~€32 → host ~€31** | **€48** | **~€40** | Booking +€9 ✅ |
-| Giugno ven–sab | **MAD 370 = ~€34 → host ~€33** | **€55** | **~€46** | Booking +€13 ✅ |
-| Luglio | MAD 570 = ~€53 → host ~€51 | €65 | ~€54 | Booking +€3 |
+## PRICING – CONFRONTO AIRBNB vs BOOKING.COM
 
-✅ **Prezzi giugno allineati** — gap ridotto da +62% a ~+25%. Gap residuo è fisiologico (Booking ha commissione maggiore).
+### Strategia per fase — 2 recensioni (pricing aggressivo attivo)
+
+| Recensioni | Airbnb weekday | Airbnb weekend | Booking weekday | Booking weekend |
+|------------|---------------|----------------|-----------------|-----------------|
+| **Ora (2)** | **MAD 280** | **MAD 370** | **€38** | **€45** |
+| 5 rec | MAD 320 | MAD 500 | €44 | €58 |
+| 10 rec | MAD 370 | MAD 600 | €50 | €68 |
+| 20+ rec | MAD 420 | MAD 700 | €58 | €80 |
+
+### Calendario prezzi aggiornato — Giugno 2026
+| Periodo | Airbnb | Booking (lordo) | Booking netto (-17%) | Gap host |
+|---------|--------|-----------------|----------------------|---------|
+| Giu lun–gio | **MAD 280 = ~€26 → host ~€25** | **€38** | **~€31** | Booking +€6 ✅ |
+| Giu ven–sab | **MAD 370 = ~€34 → host ~€33** | **€45** | **~€37** | Booking +€4 ✅ |
+| Luglio lun–gio | MAD 570 = ~€53 → host ~€51 | €65 | ~€54 | Booking +€3 |
+| Luglio ven–sab | **MAD 650** | €75 | ~€62 | Booking +€11 |
+
+### Rate plan Booking.com (giugno aggressivo)
+| Tariffa | Prezzo |
+|---------|--------|
+| Standard weekday | **€38** |
+| Standard weekend | **€45** |
+| Non-rimborsabile (-10%) wd | €34 |
+| Non-rimborsabile (-10%) we | €40 |
 
 ---
 
