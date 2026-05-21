@@ -210,18 +210,16 @@ Soggiorni a lungo termine permessi (≥28 notti) — rilevante per remote worker
 **Policy Booking.com:** Non-rimborsabile (rate plan attivo) + Standard Rate  
 **Weekly Rate:** visibile ~1625 (da verificare unità)
 
-### Confronto per mese (prezzi netti host stimati)
+### Confronto per mese (prezzi netti host stimati) — AGGIORNATO 21 mag 2026
 | Periodo | Airbnb (MAD→€) | Booking (lordo) | Booking netto (-17%) | Gap host |
 |---------|---------------|-----------------|---------------------|---------|
 | Mag 21–24 | MAD 335 = ~€31 → host ~€30 | €43 | ~€36 | Booking +€6 |
 | Mag 25–31 | MAD 372 = ~€34 → host ~€33 | €45 | ~€37 | Booking +€4 |
-| Giugno wd | MAD 428 = ~€40 → host ~€39 | €65 | ~€54 | **Booking +€15** |
-| Giugno we | MAD 460 = ~€43 → host ~€42 | €70 | ~€58 | **Booking +€16** |
+| Giugno lun–gio | **MAD 344 = ~€32 → host ~€31** | **€48** | **~€40** | Booking +€9 ✅ |
+| Giugno ven–sab | **MAD 370 = ~€34 → host ~€33** | **€55** | **~€46** | Booking +€13 ✅ |
 | Luglio | MAD 570 = ~€53 → host ~€51 | €65 | ~€54 | Booking +€3 |
 
-**⚠️ Problema rilevato:** Booking.com giugno è €65 vs Airbnb €40 (~+62%).  
-Il guest che confronta le due piattaforme sceglie Airbnb. Booking non converte.  
-Luglio invece è quasi in parità netta → ok.
+✅ **Prezzi giugno allineati** — gap ridotto da +62% a ~+25%. Gap residuo è fisiologico (Booking ha commissione maggiore).
 
 ---
 
@@ -300,7 +298,8 @@ Tutte le categorie: 10/10
 ### ghita, ma — 10/10 — 11 maggio 2026
 Tutte le categorie: 10/10  
 > "Un soggiorno davvero piacevole, mi piacerebbe ripeterlo più e più volte. Un appartamento splendido, impeccabilmente pulito. Lo consiglio vivamente e, se ne avessi la possibilità, lo rifarei senza esitazione." *(tradotto dal francese)*  
-⚠️ **Risposta mancante — da pubblicare**
+✅ **Risposta pubblicata (francese):**
+> Merci beaucoup, ghita 🙏 C'est exactement ce qu'on cherche à offrir — un séjour simple, propre et sincère à Marrakech. Votre retour nous touche vraiment. On espère vous revoir très bientôt à Dar Salma ! — Badr & l'équipe Dar Salma
 
 ---
 
@@ -323,12 +322,11 @@ Tutte le categorie: 10/10
 | 25–31 mag | MAD 372 | Disponibile |
 
 ### Giugno 2026 — tutto disponibile
-| Periodo | Prezzo notte |
-|---------|-------------|
-| 1–4 giu (lun–gio) | MAD 428 |
-| 5–14 giu (ven–dom) | MAD 460 |
-| 15–20 giu | MAD 500 |
-| 20–28 giu | MAD 475 |
+| Periodo | Prezzo notte | Note |
+|---------|-------------|------|
+| 1–7 giu (lun–gio) | **MAD 344** | ✅ aggiornato 21 mag |
+| ven–sab giugno | **MAD 370** | ✅ aggiornato 21 mag |
+| 8–30 giu (resto) | da verificare | ⚠️ confermare nel calendar Airbnb |
 
 ### Luglio 2026 — tutto disponibile
 | Periodo | Prezzo notte |
@@ -596,6 +594,34 @@ propre et sincère à Marrakech. Votre retour nous touche vraiment.
 On espère vous revoir très bientôt à Dar Salma !
 — Badr & l'équipe Dar Salma
 ```
+
+---
+
+## BOOKING.COM — OTTIMIZZAZIONI COMPLETATE (21 mag 2026)
+
+| Azione | Stato |
+|--------|-------|
+| Prezzi giugno abbassati (€65→€48 wd / €70→€55 we) | ✅ |
+| Opportunità Booking completate (visibilità, strumenti, prenotazioni) | ✅ |
+| Risposta recensione ghita (francese) | ✅ |
+| City tax €2.5/persona/notte — raccolta in contanti da Badr al check-in | ✅ configurata |
+| Pulizie: assorbite nel prezzo notte (non supplemento separato) | ✅ corretto |
+
+---
+
+## AIRBNB — OTTIMIZZAZIONI COMPLETATE (21 mag 2026)
+
+| Azione | Stato |
+|--------|-------|
+| Extra guest fee MAD 150 → MAD 0 | ✅ |
+| Short stay cleaning fee MAD 80 aggiunta | ✅ |
+| Prezzi giugno MAD 344/370 (1–7 giu) | ✅ |
+| Prezzi giugno 8–30 a MAD 344/370 | ⚠️ da verificare |
+| Weekend rate MAD 800 → MAD 600 | ⚠️ da fare |
+| Sconto last-minute 7% → 10% | ⚠️ da fare |
+| Recensione Khalid scritta | ✅ |
+| Risposta recensione ghita Booking | ✅ |
+| Messaggi WhatsApp per Badr (3 template) | ✅ pronti |
 
 ---
 
