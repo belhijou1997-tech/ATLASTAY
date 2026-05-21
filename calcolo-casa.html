@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Calcolatore acquisto casa in Italia — Vendita rateale con riservato dominio. Calcola rata mensile, interessi totali e piano di ammortamento.">
+<title>Calcolatore Casa Italia — Vendita Rateale</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --nero:#0B0B0B;--nero-mid:#141414;--nero-soft:#1e1e1e;
+  --oro:#C9A96E;--oro-light:#dfc08a;--oro-dim:rgba(201,169,110,0.15);
+  --bianco:#F5F0E8;--grigio:#888;--verde:#25D366;--rosso:#e05252;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{background:var(--nero);color:var(--bianco);font-family:'Inter',sans-serif;font-weight:300;overflow-x:hidden;line-height:1.6;}
+
+/* NAV */
+nav{background:rgba(11,11,11,0.98);border-bottom:1px solid var(--oro-dim);padding:18px 48px;display:flex;justify-content:space-between;align-items:center;}
+.logo{font-family:'Playfair Display',serif;font-size:22px;font-weight:600;letter-spacing:4px;color:var(--oro);text-decoration:none;}
+.logo span{color:var(--bianco);}
+.nav-back{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--grigio);text-decoration:none;transition:color 0.3s;display:flex;align-items:center;gap:8px;}
+.nav-back:hover{color:var(--oro);}
+
+/* HERO */
+.hero{background:linear-gradient(135deg,#080808 0%,#141008 50%,#0a0a0a 100%);padding:80px 48px 60px;text-align:center;position:relative;overflow:hidden;}
+.hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 60%,rgba(201,169,110,0.08) 0%,transparent 60%);}
+.hero-eyebrow{display:inline-flex;align-items:center;gap:12px;font-size:9px;letter-spacing:6px;text-transform:uppercase;color:var(--oro);margin-bottom:20px;opacity:0.8;position:relative;}
+.hero-eyebrow::before,.hero-eyebrow::after{content:'';width:24px;height:1px;background:var(--oro);opacity:0.4;}
+.hero h1{font-family:'Playfair Display',serif;font-size:clamp(32px,5vw,62px);font-weight:600;line-height:1.1;margin-bottom:16px;position:relative;}
+.hero h1 em{font-style:italic;color:var(--oro);}
+.hero-sub{font-size:14px;opacity:0.5;max-width:520px;margin:0 auto;position:relative;}
+
+/* LAYOUT */
+.main-wrap{max-width:1100px;margin:0 auto;padding:60px 48px;}
+.calc-grid{display:grid;grid-template-columns:420px 1fr;gap:32px;align-items:start;}
+
+/* CARD */
+.card{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.14);padding:40px;}
+.card-label{font-size:9px;letter-spacing:5px;text-transform:uppercase;color:var(--oro);margin-bottom:14px;opacity:0.7;}
+.card-title{font-family:'Playfair Display',serif;font-size:22px;font-weight:600;margin-bottom:28px;line-height:1.2;}
+.card-title em{font-style:italic;color:var(--oro);}
+
+/* FORM */
+.fg{margin-bottom:20px;}
+.fg label{display:block;font-size:9px;letter-spacing:3px;text-transform:uppercase;opacity:0.45;margin-bottom:9px;}
+.fg-hint{font-size:10px;opacity:0.28;margin-top:5px;font-style:italic;}
+.input-wrap{position:relative;}
+.input-prefix{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:13px;opacity:0.45;pointer-events:none;}
+.input-suffix{position:absolute;right:14px;top:50%;transform:translateY(-50%);font-size:11px;opacity:0.35;pointer-events:none;}
+.fg input[type="number"]{width:100%;background:#111;border:1px solid rgba(201,169,110,0.18);color:var(--bianco);padding:13px 40px 13px 34px;font-family:'Inter',sans-serif;font-size:14px;font-weight:400;outline:none;transition:border-color 0.3s;-webkit-appearance:none;appearance:none;}
+.fg input[type="range"]{width:100%;margin-top:10px;accent-color:var(--oro);cursor:pointer;}
+.fg input:focus{border-color:var(--oro);}
+.fg-row{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+.range-labels{display:flex;justify-content:space-between;font-size:9px;opacity:0.3;letter-spacing:1px;margin-top:4px;}
+
+/* PRESET BUTTONS */
+.presets{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;}
+.preset-btn{background:transparent;border:1px solid rgba(201,169,110,0.22);color:var(--oro);font-family:'Inter',sans-serif;font-size:10px;letter-spacing:1px;padding:6px 14px;cursor:pointer;transition:all 0.3s;}
+.preset-btn:hover,.preset-btn.active{background:rgba(201,169,110,0.1);border-color:var(--oro);}
+
+/* RESULTS */
+.results-main{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin-bottom:2px;}
+.result-box{background:var(--nero-mid);border:1px solid rgba(201,169,110,0.1);padding:28px 24px;text-align:center;transition:border-color 0.3s;}
+.result-box:hover{border-color:rgba(201,169,110,0.3);}
+.result-box.highlight{background:rgba(201,169,110,0.05);border-color:rgba(201,169,110,0.35);}
+.result-label{font-size:9px;letter-spacing:3px;text-transform:uppercase;opacity:0.4;margin-bottom:8px;}
+.result-value{font-family:'Playfair Display',serif;font-size:28px;font-weight:600;color:var(--oro);line-height:1;}
+.result-value.big{font-size:36px;}
+.result-sub{font-size:10px;opacity:0.35;margin-top:6px;letter-spacing:1px;}
+
+.result-full{background:var(--nero-mid);border:1px solid rgba(201,169,110,0.1);padding:24px;margin-top:2px;}
+.result-row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid rgba(201,169,110,0.06);}
+.result-row:last-child{border-bottom:none;}
+.result-row-label{font-size:11px;opacity:0.45;letter-spacing:1px;}
+.result-row-value{font-family:'Playfair Display',serif;font-size:16px;color:var(--bianco);}
+.result-row-value.accent{color:var(--oro);}
+.result-row-value.negative{color:var(--rosso);}
+
+/* PROGRESS BAR */
+.bar-wrap{margin-top:20px;margin-bottom:4px;}
+.bar-label-row{display:flex;justify-content:space-between;font-size:9px;opacity:0.4;letter-spacing:1px;margin-bottom:7px;}
+.bar-track{height:6px;background:rgba(255,255,255,0.05);border-radius:0;overflow:hidden;}
+.bar-fill{height:100%;background:linear-gradient(to right,var(--oro),var(--oro-light));transition:width 0.6s ease;}
+.bar-fill.red{background:linear-gradient(to right,var(--rosso),#f08080);}
+
+/* AMORTIZATION */
+.amort-section{margin-top:40px;}
+.amort-toggle{width:100%;background:transparent;border:1px solid rgba(201,169,110,0.22);color:var(--oro);font-family:'Inter',sans-serif;font-size:11px;letter-spacing:2px;text-transform:uppercase;padding:14px;cursor:pointer;transition:all 0.3s;display:flex;justify-content:space-between;align-items:center;}
+.amort-toggle:hover{background:rgba(201,169,110,0.05);border-color:var(--oro);}
+.amort-icon{transition:transform 0.3s;font-size:16px;}
+.amort-open .amort-icon{transform:rotate(180deg);}
+.amort-body{display:none;border:1px solid rgba(201,169,110,0.1);border-top:none;}
+.amort-open .amort-body{display:block;}
+
+.amort-table{width:100%;border-collapse:collapse;font-size:11px;}
+.amort-table th{background:rgba(201,169,110,0.08);color:var(--oro);font-size:9px;letter-spacing:2px;text-transform:uppercase;font-weight:400;padding:12px 16px;text-align:right;border-bottom:1px solid rgba(201,169,110,0.1);}
+.amort-table th:first-child{text-align:left;}
+.amort-table td{padding:10px 16px;text-align:right;border-bottom:1px solid rgba(255,255,255,0.03);opacity:0.65;font-family:'Playfair Display',serif;}
+.amort-table td:first-child{text-align:left;font-family:'Inter',sans-serif;font-size:10px;letter-spacing:1px;opacity:0.35;}
+.amort-table tr:hover td{background:rgba(201,169,110,0.04);opacity:1;}
+.amort-table tfoot td{background:rgba(201,169,110,0.06);color:var(--oro);font-size:12px;font-weight:600;opacity:1;border-top:1px solid rgba(201,169,110,0.2);}
+
+/* FORMULA BOX */
+.formula-box{background:rgba(201,169,110,0.04);border:1px solid var(--oro-dim);padding:22px;margin-top:24px;}
+.formula-title{font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--oro);opacity:0.7;margin-bottom:12px;}
+.formula-text{font-family:'Playfair Display',serif;font-style:italic;font-size:14px;color:var(--oro);opacity:0.8;line-height:1.7;}
+.formula-note{font-size:10px;opacity:0.35;line-height:1.7;margin-top:10px;}
+
+/* SCENARIO COMPARISON */
+.scenarios{margin-top:40px;}
+.scenario-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;margin-top:16px;}
+.scenario-card{background:var(--nero-soft);border:1px solid rgba(201,169,110,0.08);padding:24px;text-align:center;transition:all 0.3s;}
+.scenario-card.active-scenario{border-color:var(--oro);background:rgba(201,169,110,0.04);}
+.scenario-card:hover{border-color:rgba(201,169,110,0.28);}
+.sc-years{font-family:'Playfair Display',serif;font-size:28px;color:var(--oro);margin-bottom:4px;}
+.sc-label{font-size:8px;letter-spacing:3px;text-transform:uppercase;opacity:0.35;margin-bottom:14px;}
+.sc-rata{font-family:'Playfair Display',serif;font-size:20px;margin-bottom:6px;}
+.sc-total{font-size:10px;opacity:0.4;}
+.sc-interest{font-size:10px;color:var(--rosso);opacity:0.7;margin-top:4px;}
+
+/* NOTE */
+.nota-box{background:rgba(37,211,102,0.04);border:1px solid rgba(37,211,102,0.15);padding:20px;margin-top:32px;}
+.nota-title{font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--verde);opacity:0.8;margin-bottom:8px;}
+.nota-list{list-style:none;display:flex;flex-direction:column;gap:6px;}
+.nota-list li{font-size:11px;opacity:0.5;line-height:1.7;}
+.nota-list li::before{content:'✓ ';color:var(--verde);opacity:1;}
+
+/* FOOTER */
+footer{background:#070707;border-top:1px solid var(--oro-dim);padding:32px 48px;text-align:center;}
+.footer-copy{font-size:10px;opacity:0.2;letter-spacing:1px;}
+
+/* ANIMATIONS */
+@keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.fade-in{animation:fadeIn 0.5s ease both;}
+
+/* MOBILE */
+@media(max-width:900px){
+  .calc-grid{grid-template-columns:1fr;}
+  nav{padding:14px 20px;}
+  .hero{padding:60px 20px 40px;}
+  .main-wrap{padding:40px 20px;}
+  .card{padding:28px 20px;}
+  .results-main{grid-template-columns:1fr;}
+  .scenario-grid{grid-template-columns:1fr;}
+  .fg-row{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a href="index.html" class="logo">ATLAS<span>STAY</span></a>
+  <a href="index.html" class="nav-back">← Torna al sito</a>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-eyebrow">Strumento di calcolo</div>
+  <h1>Acquisto Casa Italia.<br><em>Vendita Rateale.</em></h1>
+  <p class="hero-sub">Calcola rata mensile, interessi totali e piano di ammortamento per una vendita rateale con riservato dominio.</p>
+</div>
+
+<!-- MAIN -->
+<div class="main-wrap">
+  <div class="calc-grid">
+
+    <!-- LEFT: INPUT -->
+    <div>
+      <div class="card">
+        <p class="card-label">Parametri</p>
+        <h2 class="card-title">Inserisci i dati<br><em>della trattativa</em></h2>
+
+        <p style="font-size:9px;letter-spacing:3px;text-transform:uppercase;opacity:0.35;margin-bottom:10px;">Preset rapidi</p>
+        <div class="presets">
+          <button class="preset-btn active" onclick="applyPreset(110000,15,3,0)" id="preset-0">Giuseppe — €110k / 15a / 3%</button>
+          <button class="preset-btn" onclick="applyPreset(150000,20,3.5,0)" id="preset-1">€150k / 20a / 3.5%</button>
+          <button class="preset-btn" onclick="applyPreset(200000,25,4,0)" id="preset-2">€200k / 25a / 4%</button>
+        </div>
+
+        <div class="fg">
+          <label>Prezzo immobile (€)</label>
+          <div class="input-wrap">
+            <span class="input-prefix">€</span>
+            <input type="number" id="prezzo" value="110000" min="10000" max="2000000" step="1000" oninput="syncRange('prezzo','range-prezzo');calc()">
+          </div>
+          <input type="range" id="range-prezzo" min="10000" max="500000" step="5000" value="110000" oninput="syncInput('range-prezzo','prezzo');calc()">
+          <div class="range-labels"><span>€10k</span><span>€500k</span></div>
+        </div>
+
+        <div class="fg">
+          <label>Acconto iniziale (€)</label>
+          <div class="input-wrap">
+            <span class="input-prefix">€</span>
+            <input type="number" id="acconto" value="0" min="0" max="1000000" step="1000" oninput="syncRange('acconto','range-acconto');calc()">
+          </div>
+          <input type="range" id="range-acconto" min="0" max="100000" step="1000" value="0" oninput="syncInput('range-acconto','acconto');calc()">
+          <div class="range-labels"><span>€0</span><span>€100k</span></div>
+          <p class="fg-hint">Lascia 0 se non è previsto un acconto</p>
+        </div>
+
+        <div class="fg-row">
+          <div class="fg">
+            <label>Durata (anni)</label>
+            <div class="input-wrap">
+              <input type="number" id="anni" value="15" min="1" max="40" step="1" oninput="syncRange('anni','range-anni');calc()" style="padding-left:16px;">
+              <span class="input-suffix">anni</span>
+            </div>
+            <input type="range" id="range-anni" min="1" max="40" step="1" value="15" oninput="syncInput('range-anni','anni');calc()">
+            <div class="range-labels"><span>1a</span><span>40a</span></div>
+          </div>
+          <div class="fg">
+            <label>Tasso annuo (%)</label>
+            <div class="input-wrap">
+              <input type="number" id="tasso" value="3" min="0" max="20" step="0.1" oninput="syncRange('tasso','range-tasso');calc()" style="padding-left:16px;">
+              <span class="input-suffix">%</span>
+            </div>
+            <input type="range" id="range-tasso" min="0" max="15" step="0.1" value="3" oninput="syncInput('range-tasso','tasso');calc()">
+            <div class="range-labels"><span>0%</span><span>15%</span></div>
+          </div>
+        </div>
+
+        <div class="formula-box">
+          <p class="formula-title">Formula applicata</p>
+          <p class="formula-text">Vendita rateale con riservato dominio</p>
+          <p class="formula-note">
+            La proprietà rimane al venditore fino all'ultimo pagamento.<br>
+            Rata = P × r(1+r)ⁿ / [(1+r)ⁿ − 1]<br>
+            dove r = tasso mensile, n = numero rate
+          </p>
+        </div>
+
+        <div class="nota-box" style="margin-top:20px;">
+          <p class="nota-title">Note contrattuali</p>
+          <ul class="nota-list">
+            <li>Le tasse sono a carico del venditore</li>
+            <li>Le spese contrattuali sono a carico dell'acquirente</li>
+            <li>Il subaffitto è generalmente consentito</li>
+            <li>Proprietà trasferita al termine della rateazione</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT: RESULTS -->
+    <div>
+      <div style="margin-bottom:2px;">
+        <div class="results-main">
+          <div class="result-box highlight fade-in">
+            <p class="result-label">Rata Mensile</p>
+            <p class="result-value big" id="res-rata">—</p>
+            <p class="result-sub" id="res-rata-sub">al mese</p>
+          </div>
+          <div class="result-box fade-in">
+            <p class="result-label">Totale da Pagare</p>
+            <p class="result-value" id="res-totale">—</p>
+            <p class="result-sub" id="res-totale-sub">—</p>
+          </div>
+        </div>
+        <div class="results-main" style="margin-top:2px;">
+          <div class="result-box fade-in">
+            <p class="result-label">Interessi Totali</p>
+            <p class="result-value" id="res-interessi" style="color:var(--rosso)">—</p>
+            <p class="result-sub" id="res-interessi-pct">—</p>
+          </div>
+          <div class="result-box fade-in">
+            <p class="result-label">Numero Rate</p>
+            <p class="result-value" id="res-nrate">—</p>
+            <p class="result-sub">pagamenti mensili</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="result-full fade-in">
+        <div class="result-row">
+          <span class="result-row-label">Prezzo immobile</span>
+          <span class="result-row-value" id="det-prezzo">—</span>
+        </div>
+        <div class="result-row">
+          <span class="result-row-label">Acconto versato</span>
+          <span class="result-row-value" id="det-acconto">—</span>
+        </div>
+        <div class="result-row">
+          <span class="result-row-label">Capitale finanziato</span>
+          <span class="result-row-value accent" id="det-capitale">—</span>
+        </div>
+        <div class="result-row">
+          <span class="result-row-label">Totale interessi</span>
+          <span class="result-row-value negative" id="det-interessi">—</span>
+        </div>
+        <div class="result-row">
+          <span class="result-row-label">Costo totale reale</span>
+          <span class="result-row-value accent" id="det-costo-totale">—</span>
+        </div>
+      </div>
+
+      <!-- BARS -->
+      <div style="background:var(--nero-mid);border:1px solid rgba(201,169,110,0.1);border-top:none;padding:24px;">
+        <div class="bar-wrap">
+          <div class="bar-label-row">
+            <span>Capitale</span>
+            <span id="bar-cap-pct">—</span>
+          </div>
+          <div class="bar-track"><div class="bar-fill" id="bar-capitale" style="width:0%"></div></div>
+        </div>
+        <div class="bar-wrap" style="margin-top:14px;">
+          <div class="bar-label-row">
+            <span>Interessi</span>
+            <span id="bar-int-pct">—</span>
+          </div>
+          <div class="bar-track"><div class="bar-fill red" id="bar-interessi" style="width:0%"></div></div>
+        </div>
+      </div>
+
+      <!-- SCENARIO COMPARISON -->
+      <div class="scenarios">
+        <p style="font-size:9px;letter-spacing:4px;text-transform:uppercase;color:var(--oro);opacity:0.6;margin-bottom:6px;">Confronto durate</p>
+        <div class="scenario-grid" id="scenario-grid"></div>
+      </div>
+
+      <!-- AMORTIZATION -->
+      <div class="amort-section">
+        <button class="amort-toggle" id="amort-toggle" onclick="toggleAmort()">
+          <span>Piano di ammortamento annuale</span>
+          <span class="amort-icon">▼</span>
+        </button>
+        <div class="amort-body" id="amort-body">
+          <div style="overflow-x:auto;">
+            <table class="amort-table" id="amort-table">
+              <thead>
+                <tr>
+                  <th>Anno</th>
+                  <th>Rata annua</th>
+                  <th>Interessi</th>
+                  <th>Capitale</th>
+                  <th>Debito residuo</th>
+                </tr>
+              </thead>
+              <tbody id="amort-tbody"></tbody>
+              <tfoot id="amort-tfoot"></tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <p class="footer-copy">ATLASTAY — Strumento di calcolo acquisto casa Italia · Solo a scopo indicativo · Consultare sempre un notaio o commercialista</p>
+</footer>
+
+<script>
+function fmt(n){return new Intl.NumberFormat('it-IT',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(n);}
+function fmtDec(n){return new Intl.NumberFormat('it-IT',{style:'currency',currency:'EUR',minimumFractionDigits:2,maximumFractionDigits:2}).format(n);}
+function pct(n){return (n*100).toFixed(1)+'%';}
+
+function syncRange(inputId,rangeId){
+  var v=parseFloat(document.getElementById(inputId).value)||0;
+  document.getElementById(rangeId).value=v;
+}
+function syncInput(rangeId,inputId){
+  document.getElementById(inputId).value=document.getElementById(rangeId).value;
+}
+
+function calcMensile(P,annualRate,months){
+  if(annualRate===0) return P/months;
+  var r=annualRate/100/12;
+  return P*r*Math.pow(1+r,months)/(Math.pow(1+r,months)-1);
+}
+
+function buildAmortTable(P,annualRate,months){
+  var r=annualRate/100/12;
+  var rata=calcMensile(P,annualRate,months);
+  var rows=[];
+  var saldo=P;
+  for(var m=1;m<=months;m++){
+    var interesse=saldo*r;
+    var capitale=rata-interesse;
+    saldo=Math.max(0,saldo-capitale);
+    rows.push({m:m,rata:rata,interesse:interesse,capitale:capitale,saldo:saldo});
+  }
+  return rows;
+}
+
+function buildAnnualRows(P,annualRate,months){
+  var daily=buildAmortTable(P,annualRate,months);
+  var anni=[];
+  var years=Math.ceil(months/12);
+  for(var y=1;y<=years;y++){
+    var from=(y-1)*12;
+    var to=Math.min(y*12,months);
+    var rataAnn=0,intAnn=0,capAnn=0;
+    for(var i=from;i<to;i++){rataAnn+=daily[i].rata;intAnn+=daily[i].interesse;capAnn+=daily[i].capitale;}
+    anni.push({anno:y,rata:rataAnn,interesse:intAnn,capitale:capAnn,saldo:daily[to-1].saldo});
+  }
+  return anni;
+}
+
+function calc(){
+  var prezzo=parseFloat(document.getElementById('prezzo').value)||0;
+  var acconto=parseFloat(document.getElementById('acconto').value)||0;
+  var anni=parseInt(document.getElementById('anni').value)||1;
+  var tasso=parseFloat(document.getElementById('tasso').value)||0;
+  var capitale=Math.max(0,prezzo-acconto);
+  var mesi=anni*12;
+
+  if(capitale<=0||mesi<=0){return;}
+
+  var rata=calcMensile(capitale,tasso,mesi);
+  var totalePagato=rata*mesi+acconto;
+  var totaleInteressi=rata*mesi-capitale;
+  var costoTotale=totalePagato;
+  var pctInteressi=totaleInteressi/costoTotale;
+  var pctCapitale=capitale/costoTotale;
+
+  document.getElementById('res-rata').textContent=fmtDec(rata);
+  document.getElementById('res-rata-sub').textContent='al mese × '+mesi+' rate';
+  document.getElementById('res-totale').textContent=fmt(totalePagato);
+  document.getElementById('res-totale-sub').textContent='incluso acconto '+fmt(acconto);
+  document.getElementById('res-interessi').textContent=fmt(totaleInteressi);
+  document.getElementById('res-interessi-pct').textContent=pct(pctInteressi)+' del totale pagato';
+  document.getElementById('res-nrate').textContent=mesi;
+
+  document.getElementById('det-prezzo').textContent=fmt(prezzo);
+  document.getElementById('det-acconto').textContent=acconto>0?fmt(acconto):'—';
+  document.getElementById('det-capitale').textContent=fmt(capitale);
+  document.getElementById('det-interessi').textContent=fmt(totaleInteressi);
+  document.getElementById('det-costo-totale').textContent=fmt(costoTotale);
+
+  document.getElementById('bar-capitale').style.width=pct(pctCapitale);
+  document.getElementById('bar-interessi').style.width=pct(pctInteressi);
+  document.getElementById('bar-cap-pct').textContent=pct(pctCapitale);
+  document.getElementById('bar-int-pct').textContent=pct(pctInteressi);
+
+  // Scenarios
+  var currentAnni=anni;
+  var scenarioYears=[10,15,20,25,30].filter(function(y){return y<=40;});
+  var sg=document.getElementById('scenario-grid');
+  sg.innerHTML='';
+  scenarioYears.forEach(function(y){
+    var m2=y*12;
+    var r2=calcMensile(capitale,tasso,m2);
+    var tot2=r2*m2+acconto;
+    var int2=r2*m2-capitale;
+    var isActive=(y===currentAnni);
+    var div=document.createElement('div');
+    div.className='scenario-card'+(isActive?' active-scenario':'');
+    div.innerHTML='<div class="sc-years">'+y+'</div><div class="sc-label">anni</div><div class="sc-rata">'+fmtDec(r2)+'<span style="font-size:10px;opacity:0.4">/mese</span></div><div class="sc-total">Totale: '+fmt(tot2)+'</div><div class="sc-interest">Interessi: '+fmt(int2)+'</div>';
+    div.onclick=(function(y2){return function(){document.getElementById('anni').value=y2;document.getElementById('range-anni').value=y2;calc();};})(y);
+    sg.appendChild(div);
+  });
+
+  // Amortization table
+  var annualRows=buildAnnualRows(capitale,tasso,mesi);
+  var tbody=document.getElementById('amort-tbody');
+  tbody.innerHTML='';
+  annualRows.forEach(function(row){
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td>Anno '+row.anno+'</td><td>'+fmt(row.rata)+'</td><td>'+fmt(row.interesse)+'</td><td>'+fmt(row.capitale)+'</td><td>'+fmt(row.saldo)+'</td>';
+    tbody.appendChild(tr);
+  });
+  var tfoot=document.getElementById('amort-tfoot');
+  tfoot.innerHTML='<tr><td>Totale</td><td>'+fmt(rata*mesi)+'</td><td>'+fmt(totaleInteressi)+'</td><td>'+fmt(capitale)+'</td><td>—</td></tr>';
+}
+
+function toggleAmort(){
+  var toggle=document.getElementById('amort-toggle');
+  toggle.parentElement.classList.toggle('amort-open');
+}
+
+function applyPreset(p,a,t,acc){
+  document.getElementById('prezzo').value=p;
+  document.getElementById('range-prezzo').value=p;
+  document.getElementById('anni').value=a;
+  document.getElementById('range-anni').value=a;
+  document.getElementById('tasso').value=t;
+  document.getElementById('range-tasso').value=t;
+  document.getElementById('acconto').value=acc;
+  document.getElementById('range-acconto').value=acc;
+  // update active preset
+  ['preset-0','preset-1','preset-2'].forEach(function(id){document.getElementById(id).classList.remove('active');});
+  calc();
+}
+
+// Init
+calc();
+</script>
+</body>
+</html>
