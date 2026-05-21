@@ -240,9 +240,9 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ---
 
-## RECENSIONI
+## RECENSIONI – AIRBNB
 
-**Totale:** 2 recensioni · Categorie con 2 valutazioni ciascuna: Qualità del sonno, Comfort, Pulizia, Ospitalità
+**Totale:** 2 recensioni · 50% a 5 stelle
 
 ### Hanane — ★★★★★ (5 stelle)
 *4 anni su Airbnb · 6 giorni fa · Ha soggiornato qualche notte*
@@ -252,11 +252,29 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 *6 anni su Airbnb · 1 settimana fa · Ha soggiornato qualche notte*
 > "Ottimo soggiorno, l'alloggio è pulito e molto ben arredato, la biancheria da letto è molto confortevole. Sono stato accolto bene..." [testo troncato]
 
-**Analisi recensioni:**
-- Hanane: 5 stelle — parole chiave: cordialità, premura, pulizia, accoglienza
-- Clara: 4 stelle — parole chiave: pulito, ben arredato, biancheria comoda, accoglienza buona
-- Clara ha tolto 1 stella per qualcosa non specificato nel testo visibile → priorità: leggere il testo completo di Clara per capire il gap
-- Il 50% di 5 stelle è recuperabile: il next guest deve lasciare 5 stelle → gestione uscita critica
+**Analisi:** Clara ha tolto 1 stella per motivo non visibile → leggere testo completo.
+
+---
+
+## RECENSIONI – BOOKING.COM
+
+**Punteggio:** 10/10 · 3 giudizi  
+**Categorie:** Posizione 10 · Pulizia 10 · Rapporto qualità/prezzo 10 · Staff 10 · Servizi 10 · Comfort 10
+
+### Buochra, nl — 10/10 — 8 maggio 2026
+Tutte le categorie: 10/10
+
+### Elmkazba, ma — 10/10 — 30 aprile 2026
+Tutte le categorie: 10/10  
+> "Era la mia prima volta a Marrakech, ma non sarà l'ultima grazie a questo appartamento e all'ottimo servizio." *(tradotto dall'inglese)*  
+✅ Risposta host già pubblicata
+
+### ghita, ma — 10/10 — 11 maggio 2026
+Tutte le categorie: 10/10  
+> "Un soggiorno davvero piacevole, mi piacerebbe ripeterlo più e più volte. Un appartamento splendido, impeccabilmente pulito. Lo consiglio vivamente e, se ne avessi la possibilità, lo rifarei senza esitazione." *(tradotto dal francese)*  
+⚠️ **Risposta mancante — da pubblicare**
+
+---
 
 ---
 
