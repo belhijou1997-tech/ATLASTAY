@@ -381,16 +381,23 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## STORICO PRENOTAZIONI
 
-| # | Ospite | Prenotato il | Check-in | Notti | Totale host | €/notte |
-|---|--------|-------------|----------|-------|-------------|---------|
-| 1 | NADIA HACHHACH | ~30 apr 2026 | 3 mag 2026 | 1 | n.d. | — |
-| 2 | Buochra Elmoden | 1 mag 2026 | 4 mag 2026 | 3 | €143,01 | ~€47,67 |
-| 3 | Mickaël Pouillon | 14 mag 2026 | 13 ott 2026 | 7 | €318,99 | ~€45,57 |
+| # | Ospite | Piattaforma | Check-in | Notti | Note |
+|---|--------|-------------|----------|-------|------|
+| 1 | Nadia Hachhach | Airbnb | 3 mag 2026 | 1 | — |
+| 2 | Buochra Elmoden | Airbnb | 4 mag 2026 | 3 | €143,01 host |
+| 3 | Clara | Airbnb | 7 mag 2026 | 3 | Recensione 4★ |
+| 4 | Hanane | Airbnb | 10 mag 2026 | 3 | Recensione 5★ |
+| 5 | Khalid | Airbnb | 17 mag 2026 | 4 | Recensione scritta ✅ |
+| 6 | Jalal (gruppo 3 persone) | Airbnb | 21 mag 2026 | 1 | Check-in ore 18:00 |
+| 7 | Mustapha Chetmou | Booking.com | 27 mag 2026 | 3 | €88,35 + €15 city tax cash |
+| 8 | Hassbia | Airbnb | 30 mag 2026 | 4 | ⚠️ data da confermare (era invitato dal 29, conflitto con Mustapha → spostare al 30) |
+| 9 | Mathilda + famiglia | Airbnb | 1 giu 2026 | 21 | In attesa conferma · MAD 5.141 host |
+| 10 | Mickaël Pouillon | Airbnb | 13 ott 2026 | 7 | €318,99 · prenotato con 5 mesi anticipo |
 
-**Note:**
-- Mickaël Pouillon (nome francese) → conferma il mercato Francia. Ha prenotato con **5 mesi di anticipo** per ottobre — conferma il segmento ">90 giorni" e la domanda fuori stagione piscina.
-- Buochra + Nadia → nomi nordafricani/marocchini → segmento nazionale/diaspora (24% del mercato).
-- ADR reale ospiti: ~€46–48/notte. Coerente con base MAD 400 + potenziale cleaning fee inclusa nel totale.
+### Note operative maggio
+- **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
+- **Calendari NON sincronizzati** tra Airbnb e Booking.com → bloccare manualmente ogni volta che arriva una prenotazione Booking.com
+- **Priorità immediata**: impostare iCal sync tra le due piattaforme per evitare doppia prenotazione futura
 
 ---
 
