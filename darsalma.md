@@ -165,6 +165,38 @@ Il periodo precedente (23 mar–20 apr) era quasi vuoto → **tutta la crescita 
 
 ---
 
+## SERVIZI E AMENITIES
+
+### Cucina e pasti
+Cucina completa (frigo + forno + piano cottura) · Cucinotto · Forno · Lavastoviglie · Congelatore · Frullatore · Macchina del pane · Bollitore · Teglia da forno · Piatti e posate · Calici da vino · Servizi base cucina (pentole, padelle, olio, sale, pepe) · Tavolo da pranzo
+
+### Bagno e cura personale
+Acqua calda · Doccia · Bidè · Asciugacapelli · Shampoo (**arganina** – tocco locale) · Balsamo · Gel doccia · Sapone per il corpo
+
+### Camera e comfort
+Biancheria da letto (cotone) · Cuscini e coperte aggiuntivi · Tende oscuranti · Spazio abbigliamento (armadio a muro) · Grucce · Stendibiancheria
+
+### Tecnologia
+WiFi · TV · Aria condizionata · Riscaldamento
+
+### Struttura e accessi
+Ascensore · Parcheggio gratuito in loco · Soggiorno privato
+
+### Sicurezza
+Allarme antincendio · Rilevatore di monossido di carbonio · Kit di primo soccorso
+
+### Servizi extra
+Piscina (luglio–ottobre) · Lavatrice · Lavanderia a gettoni nelle vicinanze · Servizio pulizie durante soggiorno (a costo aggiuntivo) · Compattatore di rifiuti
+
+### Politica soggiorni
+Soggiorni a lungo termine permessi (≥28 notti) — rilevante per remote workers e digital nomad
+
+---
+
+**Nota strategica:** la dotazione è superiore alla media per il range di prezzo. Shampoo all'arganina, lavatrice, parcheggio gratuito, cucina completa con lavastoviglie e macchina del pane sono differenziatori reali che molti competitor non offrono a MAD 400/notte.
+
+---
+
 ## STRUTTURA PREZZI (impostata nell'editor)
 
 | Voce | Valore |
