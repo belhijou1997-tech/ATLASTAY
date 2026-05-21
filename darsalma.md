@@ -473,6 +473,126 @@ Il mercato ha dato il **permesso di continuare** — non è una vittoria, è un 
 
 ---
 
+## DESCRIZIONE LISTING – VERSIONE OTTIMIZZATA
+
+*Basata su: 63% coppie · 81% mobile · 76% internazionali · differenziatori reali · tono brand ATLASTAY*
+
+---
+
+### TITOLO
+**Attuale (da mantenere — funziona):**
+> Dar Salma 2BR w/ Pool • 10min Majorelle
+
+**Variante estate (luglio–settembre):**
+> Dar Salma • Pool + Rooftop Views · 10min Majorelle
+
+---
+
+### DESCRIZIONE ALLOGGIO
+*(Primissime righe — le più importanti su mobile)*
+
+**Versione attuale:**
+> Modern 2BR apartment in a quiet area, 10 min from Majorelle. AC, pool, fast WiFi and full kitchen. Clean, smooth check-in and local tips included.
+
+**Versione ottimizzata:**
+> A real Marrakech stay — without the noise.
+>
+> Dar Salma is a carefully decorated Moroccan apartment in a quiet residential neighborhood: 2 bedrooms, pool access in summer, full kitchen, fast WiFi, free parking. 10 minutes from Majorelle on foot.
+>
+> Badr will welcome you personally. We take care of the details — you focus on the city.
+
+*Perché funziona meglio:*
+- Apre con posizionamento emotivo, non lista di spec
+- "Real Marrakech stay" intercetta il target coppie europee (autenticità)
+- Elimina "modern" che non corrisponde all'estetica reale (tradizionale marocchino)
+- Nomina Badr → crea fiducia e viso umano
+- Più corta e leggibile su mobile
+
+---
+
+### IL TUO ALLOGGIO
+*(Bullet points — ottimizzati per scansione mobile)*
+
+**Versione ottimizzata:**
+```
+→ 2 bedrooms, sleeps 4 comfortably
+→ AC in every room
+→ Pool access — rooftop, city views (July–October)
+→ Full kitchen: fridge, oven, dishwasher, blender, all utensils
+→ Fast WiFi — remote work friendly
+→ Washing machine
+→ Free parking on-site
+→ Elevator · quiet 1st floor
+→ Local argan shampoo & toiletries
+→ Long stays welcome (28+ nights)
+```
+
+*Cosa è stato aggiunto rispetto all'attuale:*
+- Lavatrice (differenziatore per soggiorni medi-lunghi)
+- Parcheggio gratuito (raro a Marrakech, decisivo per nazionali e auto)
+- Lavastoviglie + dettaglio cucina completa
+- Argan shampoo (storytelling locale)
+- Soggiorni lunghi permessi (remote workers)
+- Ascensore + piano
+
+---
+
+### ACCESSO PER GLI OSPITI
+*(Già buono — ottimizzazione minima)*
+
+**Versione ottimizzata:**
+```
+Quiet residential area, well connected:
+→ 10 min – Majorelle Garden (on foot or taxi)
+→ 13 min – Gueliz (restaurants, cafés, rooftop bars)
+→ 20 min – Medina & Jemaa el-Fna
+→ 25 min – Marrakech Airport
+
+Easy taxi access from the door.
+Airport transfer available on request — ask us.
+```
+
+---
+
+### INTERAZIONE CON GLI OSPITI
+*(Sezione attualmente debole — da riscrivere)*
+
+**Versione ottimizzata:**
+```
+What makes Dar Salma different:
+
+→ Moroccan decor, thoughtfully curated — not a generic rental
+→ Argan oil toiletries: a small touch that tells the story of this country
+→ Badr is your local contact — available, responsive, knows Marrakech inside out
+→ We share our real tips: the spots locals actually go to, not the tourist traps
+→ Everything works: AC, WiFi, kitchen, hot water — tested and maintained
+```
+
+---
+
+### ALTRI DETTAGLI DA ANNOTARE
+*(Già buono — mantenere)*
+
+```
+Respectful guests only.
+No smoking, no parties. Quiet hours after 22:00.
+🇲🇦 Moroccan law requires local couples to show a marriage certificate at check-in.
+```
+
+---
+
+### NOTA LINGUA
+**Aggiungere versione francese** della descrizione principale (Francia = 21% del mercato, secondo paese dopo Marocco).
+
+Versione francese suggerita (apertura):
+> Un vrai séjour à Marrakech — sans le bruit.
+>
+> Dar Salma est un appartement marocain soigneusement décoré dans un quartier résidentiel calme : 2 chambres, piscine en été, cuisine équipée, WiFi rapide, parking gratuit. À 10 minutes à pied du Jardin Majorelle.
+>
+> Badr vous accueillera personnellement. Nous nous occupons des détails — vous profitez de la ville.
+
+---
+
 ## CONCLUSIONE STRATEGICA
 
 Dar Salma è:
