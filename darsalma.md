@@ -481,6 +481,75 @@ Le disponibilità non sono considerate perse: il listing è giovane, il ranking 
 
 ---
 
+## SISTEMA RECENSIONI 5 STELLE
+
+### Framework: Prima — Durante — Dopo
+
+---
+
+### PRIMA *(24–48h prima del check-in)*
+```
+Hi [Nome] 👋
+
+We're looking forward to welcoming you to Dar Salma!
+
+Here's everything you need:
+📍 Address: [indirizzo completo]
+🔑 Check-in: Badr will meet you at [ora]. His number: [numero Badr]
+📶 WiFi: [nome rete] / Password: [password]
+🕐 Check-in from 14:00 – Check-out by 11:00
+
+Our tip for tonight: [ristorante/caffè locale] — locals go there, tourists don't know it yet.
+
+Any questions? Write us here or WhatsApp Badr directly.
+See you soon!
+```
+
+---
+
+### DURANTE *(giorno dopo il check-in)*
+```
+Hi [Nome], hope you slept well!
+Is everything comfortable? Any questions about the apartment or the city?
+We're here 😊
+```
+**Obiettivo:** intercettare problemi prima che diventino recensioni negative.
+
+---
+
+### DOPO *(stesso giorno del check-out)*
+```
+Hi [Nome], thank you for staying at Dar Salma!
+
+We hope Marrakech was everything you expected 🌿
+
+We're a new listing and honest reviews mean everything to us.
+If you enjoyed your stay, we'd really appreciate a few words — it takes 2 minutes and helps us a lot.
+
+Hope to see you back at Dar Salma soon 🙏
+— Badr & the Dar Salma team
+```
+
+---
+
+### SOP BADR – CHECK-IN (3 regole)
+1. Arriva **prima** dell'ospite, non insieme
+2. Mostra tutto: WiFi, AC, cucina, piscina (se attiva), uscita emergenza
+3. Prima di andarsene: *"Is everything ok? Do you need anything?"* — aspetta la risposta
+
+---
+
+### RISPOSTA BOOKING – ghita (da pubblicare)
+```
+Merci beaucoup, ghita 🙏
+C'est exactement ce qu'on cherche à offrir — un séjour simple,
+propre et sincère à Marrakech. Votre retour nous touche vraiment.
+On espère vous revoir très bientôt à Dar Salma !
+— Badr & l'équipe Dar Salma
+```
+
+---
+
 ## ROADMAP 90 GIORNI
 
 1. Chiudere maggio forte
