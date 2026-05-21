@@ -151,6 +151,18 @@ Considerato investimento iniziale, non costo ricorrente.
 
 **Trend:** conversione cresciuta da 0,23% → 0,37% → 0,48%. Wishlist: 27 → 34. Algoritmo stabile e favorevole.
 
+### Snapshot 3b – Tasso di occupazione dettagliato (20 apr → 20 mag, agg. 20 mag)
+| Metrica | Valore |
+|---------|--------|
+| **Tasso medio di occupazione** | **61,1%** |
+| Notti prenotate (media) | 11 |
+| Notti bloccate (media) | 8 |
+| Notti non prenotate (media) | 7 |
+| Check-in (media) | 3 |
+
+**Grafico occupazione:** partenza da ~0% (23 mar–20 apr), picco a **100%** nella settimana del 4–10 mag, poi discesa verso 50–60% nelle ultime settimane.  
+Il periodo precedente (23 mar–20 apr) era quasi vuoto → **tutta la crescita è avvenuta in un mese**.
+
 ---
 
 ## STRUTTURA PREZZI (impostata nell'editor)
