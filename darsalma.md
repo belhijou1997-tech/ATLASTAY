@@ -278,7 +278,7 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 *6 anni su Airbnb · 1 settimana fa · Ha soggiornato qualche notte*
 > "Ottimo soggiorno, l'alloggio è pulito e molto ben arredato, la biancheria da letto è molto confortevole. Sono stato accolto bene..." [testo troncato]
 
-**Analisi:** Clara ha tolto 1 stella per motivo non visibile → leggere testo completo.
+**Analisi:** Problema Clara identificato e risolto. La recensione rimane 4 stelle (non modificabile), ma la causa è stata corretta.
 
 ---
 
@@ -606,6 +606,8 @@ On espère vous revoir très bientôt à Dar Salma !
 | Risposta recensione ghita (francese) | ✅ |
 | City tax €2.5/persona/notte — raccolta in contanti da Badr al check-in | ✅ configurata |
 | Pulizie: assorbite nel prezzo notte (non supplemento separato) | ✅ corretto |
+| Struttura → Foto: notifiche risolte | ✅ |
+| Struttura → Servizi e dotazioni: info piscina aggiunta | ✅ |
 
 ---
 
@@ -616,9 +618,9 @@ On espère vous revoir très bientôt à Dar Salma !
 | Extra guest fee MAD 150 → MAD 0 | ✅ |
 | Short stay cleaning fee MAD 80 aggiunta | ✅ |
 | Prezzi giugno MAD 344/370 (1–7 giu) | ✅ |
-| Prezzi giugno 8–30 a MAD 344/370 | ⚠️ da verificare |
-| Weekend rate MAD 800 → MAD 600 | ⚠️ da fare |
-| Sconto last-minute 7% → 10% | ⚠️ da fare |
+| Prezzi giugno 8–30 a MAD 344/370 | ✅ |
+| Weekend rate MAD 800 → MAD 600 | ✅ |
+| Sconto last-minute 7% → 10% | ✅ |
 | Recensione Khalid scritta | ✅ |
 | Risposta recensione ghita Booking | ✅ |
 | Messaggi WhatsApp per Badr (3 template) | ✅ pronti |
