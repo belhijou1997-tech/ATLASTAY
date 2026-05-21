@@ -106,7 +106,34 @@ Considerato investimento iniziale, non costo ricorrente.
 | Annuncio → prenotazione | 1,45% |
 | Conversione globale | 0,37% |
 
-### Snapshot 3 – aggiornamento 19 maggio 2026
+### Snapshot 4 – aggiornamento 20 maggio 2026 (periodo 20 apr → 20 mag)
+| Metrica | Valore |
+|---------|--------|
+| **Conversione globale** | **0,52%** |
+| Impressioni prima pagina | 45,2% |
+| **Conversione ricerca → alloggio** | **39,34%** |
+| Conversione annuncio → prenotazione | 1,32% |
+| Visualizzazioni pagina (media) | **832** |
+| Impressioni prima pagina (media) | **2.115** |
+| Aggiunte wishlist (media periodo) | **34** |
+
+**Trend conversione globale:** 0,23% → 0,37% → 0,48% → **0,52%** — crescita costante.
+
+**Segnale forte:** conversione ricerca→alloggio al **39,34%** (era 25,39%). Quasi 4 persone su 10 che vedono il listing in ricerca cliccano sul listing. Il titolo e la foto di copertina funzionano.
+
+**Andamento wishlist settimanale (20 apr – 20 mag):**
+- 20–26 apr: ~8
+- 27 apr – 3 mag: ~5
+- **4–10 mag: ~12** ← picco
+- 11–17 mag: ~4
+- 18–24 mag: ~3 (in calo)
+
+**Andamento visualizzazioni settimanale:**
+- 20–26 apr: ~0
+- 27 apr – 3 mag: ~120
+- 4–10 mag: ~239
+- **11–17 mag: ~478** ← picco
+- 18–24 mag: ~360 (ancora alto)
 | Metrica | Valore |
 |---------|--------|
 | **Tasso di occupazione** | **58,8%** |
