@@ -539,7 +539,56 @@ Hope to see you back at Dar Salma soon 🙏
 
 ---
 
-### RISPOSTA BOOKING – ghita (da pubblicare)
+### MESSAGGI BADR – WHATSAPP (pronti da usare)
+
+**MESSAGGIO 1 — 24h prima del check-in**
+```
+Hi [Nome] 👋
+
+Tomorrow is the day! Here's everything for your arrival at Dar Salma:
+
+📍 Address: [indirizzo completo]
+🕐 Check-in: from 15:00
+🔑 I'll be there to welcome you personally — just text me when you're 20 min away
+📶 WiFi: orange f1f9 / Password: [password]
+🛏️ Check-out: by 11:00
+
+My number: [numero Badr]
+
+See you tomorrow! Any questions, I'm here 😊
+— Badr
+```
+
+**MESSAGGIO 2 — Giorno dopo il check-in**
+```
+Hi [Nome], good morning! 🌿
+
+Hope your first night was comfortable.
+Is everything ok in the apartment? Do you need anything?
+
+If you're looking for a good breakfast spot nearby, I recommend [nome posto locale] — 5 min walk, locals love it.
+
+I'm available on WhatsApp anytime 😊
+— Badr
+```
+
+**MESSAGGIO 3 — Giorno del check-out**
+```
+Hi [Nome] 👋
+
+Thank you so much for staying at Dar Salma, it was a pleasure!
+
+Check-out is by 11:00 — just leave the keys [dove lasciare le chiavi] and you're all set.
+
+If you have a moment, an honest review on Airbnb means a lot to us — we're a new listing and every review helps 🙏
+
+Hope to see you back in Marrakech soon!
+— Badr & the Dar Salma team
+```
+
+**Nota:** per ospiti francesi (controlla nazionalità), sostituire "Hi" con "Bonjour" e chiudere con "À bientôt!"
+
+---
 ```
 Merci beaucoup, ghita 🙏
 C'est exactement ce qu'on cherche à offrir — un séjour simple,
