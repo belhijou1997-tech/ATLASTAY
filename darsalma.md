@@ -613,33 +613,34 @@ On espère vous revoir très bientôt à Dar Salma !
 
 ---
 
-## BOOKING.COM — OTTIMIZZAZIONI COMPLETATE (21 mag 2026)
+## LOG OTTIMIZZAZIONI — STATO FINALE (21 mag 2026)
 
-| Azione | Stato |
-|--------|-------|
-| Prezzi giugno abbassati (€65→€48 wd / €70→€55 we) | ✅ |
-| Opportunità Booking completate (visibilità, strumenti, prenotazioni) | ✅ |
-| Risposta recensione ghita (francese) | ✅ |
-| City tax €2.5/persona/notte — raccolta in contanti da Badr al check-in | ✅ configurata |
-| Pulizie: assorbite nel prezzo notte (non supplemento separato) | ✅ corretto |
-| Struttura → Foto: notifiche risolte | ✅ |
-| Struttura → Servizi e dotazioni: info piscina aggiunta | ✅ |
-
----
-
-## AIRBNB — OTTIMIZZAZIONI COMPLETATE (21 mag 2026)
-
+### AIRBNB
 | Azione | Stato |
 |--------|-------|
 | Extra guest fee MAD 150 → MAD 0 | ✅ |
-| Short stay cleaning fee MAD 80 aggiunta | ✅ |
-| Prezzi giugno MAD 344/370 (1–7 giu) | ✅ |
-| Prezzi giugno 8–30 a MAD 344/370 | ✅ |
+| Short stay cleaning fee MAD 80 | ✅ |
 | Weekend rate MAD 800 → MAD 600 | ✅ |
 | Sconto last-minute 7% → 10% | ✅ |
+| Prezzi giugno: MAD 280 lun–gio / MAD 600 ven–sab (aggressivo) | ✅ |
+| Prezzi luglio: MAD 570–618 (peak season) | ✅ |
+| Prezzi maggio 21–31: last-minute aggressivo | ✅ |
+| Extra guest fee rimosso | ✅ |
 | Recensione Khalid scritta | ✅ |
-| Risposta recensione ghita Booking | ✅ |
-| Messaggi WhatsApp per Badr (3 template) | ✅ pronti |
+| Messaggi WhatsApp per Badr (3 template) | ✅ |
+
+### BOOKING.COM
+| Azione | Stato |
+|--------|-------|
+| Opportunità completate (visibilità, strumenti) | ✅ |
+| Struttura → Foto: notifiche risolte | ✅ |
+| Struttura → Servizi e dotazioni: piscina aggiunta | ✅ |
+| Risposta recensione ghita (francese) | ✅ |
+| City tax €2.5/persona/notte → Badr raccoglie in contanti | ✅ |
+| Pulizie assorbite nel prezzo notte | ✅ |
+| Prezzi maggio 21–31: €30 wd / €35 we (last-minute) | ✅ |
+| Prezzi giugno: €38 tutto il mese (aggressivo) | ✅ |
+| Prezzi luglio: €65–70 (peak, mantenuti) | ✅ |
 
 ---
 
@@ -811,3 +812,132 @@ Dar Salma è:
 **Visione lunga:**  
 Da "1 appartamento che produce"  
 → "sistema hospitality scalabile che funziona senza presenza continua dell'host"
+
+---
+
+## MODELLO REPLICABILE — ATLASTAY PLAYBOOK
+
+*Tutto quello che abbiamo imparato con Dar Salma. Si applica al prossimo appartamento dal giorno 1.*
+
+---
+
+### SETUP LISTING (settimana 1)
+
+**Titolo:** `[Nome] [camere]BR w/ [differenziatore] • [distanza landmark]`
+Esempio: Dar Salma 2BR w/ Pool • 10min Majorelle
+
+**Foto copertina:** la più emozionale, non la più "completa". Se c'è piscina → piscina in estate.
+
+**Descrizione:** apri con posizionamento emotivo, non con lista di spec. Nomina il gestore locale per creare fiducia. Max 3 paragrafi leggibili su mobile.
+
+**Lingua:** sempre inglese + francese (Francia = 21% del mercato Marrakech).
+
+---
+
+### PRICING — FASI PER RECENSIONI
+
+| Fase | Recensioni | Airbnb wd | Airbnb we | Booking wd | Booking we |
+|------|-----------|-----------|-----------|------------|------------|
+| Lancio | 0–2 | MAD 280 | MAD 370 | €38 | €45 |
+| Crescita | 3–9 | MAD 320 | MAD 500 | €44 | €58 |
+| Consolidamento | 10–19 | MAD 370 | MAD 600 | €50 | €68 |
+| Premium | 20+ | MAD 420 | MAD 700 | €58 | €80 |
+
+*Adatta in base alla posizione, dimensione e differenziatori. Dar Salma è mid-range con piscina.*
+
+**Regola del pricing stagionale:**
+- Pool season (lug–ott): +30–40% sul base rate
+- Low season (nov–feb): -20% sul base rate
+- Alta domanda (Ramadan, festività europee): +15–20%
+
+---
+
+### CONFIGURAZIONE AIRBNB (checklist al lancio)
+
+- [ ] Extra guest fee → **MAD 0** (non mettere mai un extra guest fee nascosto)
+- [ ] Cleaning fee corta durata → **MAD 80** (soggiorni 1–2 notti)
+- [ ] Cleaning fee standard → **MAD 150** (3+ notti)
+- [ ] Weekend rate → impostare sempre (almeno +20% sul base)
+- [ ] Sconto last-minute → **10%** (attiva dal giorno 1)
+- [ ] Sconto settimanale → **10%** (non 15% — troppo aggressivo)
+- [ ] Disponibilità → 1–365 notti (accetta anche soggiorni brevi)
+- [ ] Preavviso → stesso giorno (massimizza last-minute)
+- [ ] Self check-in → sempre attivo
+
+---
+
+### CONFIGURAZIONE BOOKING.COM (checklist al lancio)
+
+- [ ] Rate plan: Standard + Non-rimborsabile (-10%) attivi
+- [ ] City tax €2.5/persona/notte → **NON inclusa** (Badr raccoglie in contanti)
+- [ ] IVA 20% → inclusa nel prezzo
+- [ ] Pulizie → **assorbite nel prezzo notte** (non supplemento separato)
+- [ ] Foto e dotazioni → compilare al 100% (vale fino a +18% visibilità)
+- [ ] Opportunità Booking → attivare quelle rilevanti al lancio
+- [ ] Rispondere a ogni recensione entro 48h
+
+---
+
+### PRICING PARITY — REGOLA PRATICA
+
+Booking.com lordo ÷ 0.83 = netto host  
+Airbnb × 0.97 = netto host  
+
+Per far sì che le due piattaforme siano equivalenti per l'host:
+> **Booking lordo = Airbnb × 1.15**  
+> Esempio: Airbnb MAD 280 (~€26) → Booking €30–32
+
+Se Booking è troppo più alto del corrispettivo Airbnb, i guest scelgono sempre Airbnb e Booking non converte.
+
+---
+
+### SISTEMA RECENSIONI (Badr esegue, host controlla)
+
+**3 touchpoint obbligatori per ogni prenotazione:**
+1. **24h prima del check-in** → messaggio con indirizzo, orari, WiFi, contatto Badr
+2. **Giorno dopo il check-in** → check benessere, intercetta problemi
+3. **Giorno del check-out** → ringraziamento + richiesta recensione
+
+**Regola:** non chiedere mai la recensione nel messaggio di benvenuto. Solo all'uscita.
+
+**Per ospiti francesi:** sempre Bonjour/À bientôt — il 21% del mercato è francese.
+
+---
+
+### TEAM LOCALE — STRUTTURA MINIMA
+
+| Ruolo | Responsabilità |
+|-------|---------------|
+| Gestore locale (es. Badr) | Check-in, accoglienza, emergenze, messaggi WhatsApp |
+| Pulizie | Sempre la stessa persona, tariffa fissa MAD 100/turno |
+| Host (tu) | Pricing, calendari, recensioni, strategia |
+
+**Regola check-in Badr:**
+1. Arriva PRIMA dell'ospite
+2. Mostra tutto (WiFi, AC, cucina, piscina se attiva)
+3. Prima di andarsene: *"Is everything ok?"* — aspetta risposta
+
+---
+
+### SEGNALI DI ALLARME DA MONITORARE
+
+| Segnale | Cosa fare |
+|---------|-----------|
+| Giugno/mese vuoto dopo 2 settimane | Abbassa prezzi del 15–20% |
+| Conversione annuncio < 1% | Problema titolo/foto o prezzo troppo alto |
+| Wishlist alte ma poche prenotazioni | Problema prezzo — troppo alto per conversione |
+| Recensione < 5 stelle | Leggi testo completo → identifica causa → risolvi prima del prossimo ospite |
+| Extra guest fee attivo | Disattivalo subito — spaventa le coppie |
+
+---
+
+### MERCATO MARRAKECH — DATI CHIAVE
+
+| Metrica | Valore |
+|---------|--------|
+| Tipo viaggiatore | 63% coppie |
+| Dispositivo ricerca | 81% mobile |
+| Finestra prenotazione | 31–90 giorni (dominante) |
+| Top mercati | Marocco 24%, Francia 21%, UK 8%, Spagna 7% |
+| Cancellazione preferita | 51% gratuita, 46% non-rimborsabile |
+| Stagione piscina | luglio–ottobre (massimo valore) |
