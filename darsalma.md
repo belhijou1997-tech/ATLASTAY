@@ -213,39 +213,109 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ---
 
-## DESCRIZIONE LISTING (testo attuale)
+## DESCRIZIONE LISTING (testo attuale completo)
 
-**Descrizione alloggio:**
+**Headline descrizione:**
 > Modern 2BR apartment in a quiet area, 10 min from Majorelle. AC, pool, fast WiFi and full kitchen. Clean, smooth check-in and local tips included.
 
-**Il tuo alloggio:**
-> 2 bedrooms, sleeps 4 comfortably · AC in bedrooms...
+**Il tuo alloggio (highlights):**
+- Wifi veloce
+- Bagno privato con acqua calda
+- Accesso alla piscina (stagionale)
+- Edificio tranquillo, 1° piano
+- 2 bedrooms, sleeps 4 comfortably
+- AC in bedrooms
 
 **Accesso per gli ospiti:**
-> Quiet residential area, well connected: 10 min Majorelle Garden...
-
-**Interazione con gli ospiti:**
-> What makes Dar Salma special: Carefully curated Moroccan-modern dec...
+> Zona residenziale tranquilla, ben collegata:
+> → A 10 minuti dal Giardino Majorelle
+> → A 13 minuti da Gueliz (ristoranti e negozi)
+> → A 20 minuti dalla medina e da Jemaa el-Fna
+> → Aeroporto a 25 minuti
+> Facile accesso in taxi + trasferimento aeroportuale disponibile
 
 **Regole casa:**
-> Respectful guests only. No smoking, no parties, quiet hours after 1...
+> Solo ospiti rispettosi. Vietato fumare e organizzare feste. Orario di silenzio dopo le 22:00.
+> 🇲🇦 La legge marocchina richiede alle coppie locali di esibire un certificato di matrimonio al momento del check-in.
 
 ---
 
-## PRICING – CALENDARIO MAGGIO 2026
+## RECENSIONI
 
+**Totale:** 2 recensioni · Categorie con 2 valutazioni ciascuna: Qualità del sonno, Comfort, Pulizia, Ospitalità
+
+### Hanane — ★★★★★ (5 stelle)
+*4 anni su Airbnb · 6 giorni fa · Ha soggiornato qualche notte*
+> "Consiglio questo appartamento al 200%. I proprietari sono molto cordiali, molto premurosi e offrono tutti i servizi. L'appartamento è super pulito e accogliente, i let..." [testo troncato]
+
+### Clara — ★★★★ (4 stelle)
+*6 anni su Airbnb · 1 settimana fa · Ha soggiornato qualche notte*
+> "Ottimo soggiorno, l'alloggio è pulito e molto ben arredato, la biancheria da letto è molto confortevole. Sono stato accolto bene..." [testo troncato]
+
+**Analisi recensioni:**
+- Hanane: 5 stelle — parole chiave: cordialità, premura, pulizia, accoglienza
+- Clara: 4 stelle — parole chiave: pulito, ben arredato, biancheria comoda, accoglienza buona
+- Clara ha tolto 1 stella per qualcosa non specificato nel testo visibile → priorità: leggere il testo completo di Clara per capire il gap
+- Il 50% di 5 stelle è recuperabile: il next guest deve lasciare 5 stelle → gestione uscita critica
+
+---
+
+## PRICING – CALENDARIO COMPLETO
+
+### Maggio 2026
+| Periodo | Prezzo notte | Note |
+|---------|-------------|------|
+| 1–3 mag | MAD 360 | Passato |
+| 4–6 mag | MAD 280 | Buochra (3 notti) |
+| 7–10 mag | MAD 280 | Clara (prenotazione) |
+| 10–13 mag | — | Han... (prenotazione) |
+| 14 mag | MAD 279 | Disponibile |
+| 15 mag | MAD 233 | Disponibile (prezzo anomalo basso) |
+| 16–17 mag | MAD 372 | K Kha... (prenotazione) |
+| 18–20 mag | — | Occupato (continuazione K) |
+| 21–24 mag | MAD 335 | Disponibile |
+| 25–31 mag | MAD 372 | Disponibile |
+
+### Giugno 2026 — tutto disponibile
 | Periodo | Prezzo notte |
 |---------|-------------|
-| 1–3 maggio | MAD 360 |
-| 4–6 maggio | MAD 280 |
-| 7–13 maggio | MAD 280 (Clara + ospite successivo) |
-| 14 maggio | MAD 279 |
-| 15 maggio | MAD 273 |
-| 16–17 maggio | MAD 372 (ospite K) |
-| 21–24 maggio | MAD 335 |
-| 25–31 maggio | MAD 372 |
+| 1–4 giu (lun–gio) | MAD 428 |
+| 5–14 giu (ven–dom) | MAD 460 |
+| 15–20 giu | MAD 500 |
+| 20–28 giu | MAD 475 |
 
-**Nota:** le notti 1–20 maggio risultano occupate o passate. Dal 21 maggio il calendario è aperto.
+### Luglio 2026 — tutto disponibile
+| Periodo | Prezzo notte |
+|---------|-------------|
+| 1–19 lug | MAD 570 |
+| 20–31 lug | MAD 618 |
+
+**Trend prezzi stagionale:**
+```
+Mag fine  →  Giu inizio  →  Giu fine  →  Lug inizio  →  Lug fine
+MAD 335      MAD 428        MAD 475      MAD 570        MAD 618
+```
+Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della piscina a luglio.
+
+**Anomalia da correggere:** 15 maggio a MAD 233 — prezzo troppo basso, probabilmente un errore manuale o Airbnb smart pricing. Va corretto a MAD 335+.
+
+---
+
+## FOTO DEL LISTING
+
+**Copertina principale:** Salotto con divani marocchini dorati, lanterne, fiori bianchi, tea set argentato, quadro tradizionale — estetica ricca e tradizionale.
+
+**Grid 5 foto (anteprima pubblica):**
+1. Salotto tradizionale (copertina attuale)
+2. Camera da letto con letto matrimoniale
+3. Zona pranzo/living
+4. **Piscina sul rooftop** ← foto più forte, skyline Marrakech sullo sfondo
+5. Cucina in legno scuro, moderna
+
+**Osservazione critica:** la foto della piscina è il differenziatore più forte per estate — con vista skyline è unica. Ma è la 4ª foto nel grid, non la copertina.  
+→ **A luglio/agosto: valutare di mettere la piscina come copertina principale.**
+
+**Coerenza estetica:** il listing appare più "tradizionale marocchino barocco" che "moderno-minimalista instagrammabile". Non è un problema — funziona per il target coppie europee — ma la descrizione dice "modern" e le foto raccontano una storia diversa. Allineare il tono.
 
 ---
 
