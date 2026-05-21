@@ -197,6 +197,34 @@ Soggiorni a lungo termine permessi (≥28 notti) — rilevante per remote worker
 
 ---
 
+## PRICING – CONFRONTO AIRBNB vs BOOKING.COM
+
+### Calendario prezzi Booking.com (in EUR)
+| Periodo | Lun–Gio | Ven–Sab | Dom |
+|---------|---------|---------|-----|
+| Maggio 21–24 | €43 | €43 | €43 |
+| Maggio 25–31 | €45 | €45 | €45 |
+| Giugno (tutto) | €65 | €70 | €65 |
+| Luglio (tutto) | €65 | €70 | €65 |
+
+**Policy Booking.com:** Non-rimborsabile (rate plan attivo) + Standard Rate  
+**Weekly Rate:** visibile ~1625 (da verificare unità)
+
+### Confronto per mese (prezzi netti host stimati)
+| Periodo | Airbnb (MAD→€) | Booking (lordo) | Booking netto (-17%) | Gap host |
+|---------|---------------|-----------------|---------------------|---------|
+| Mag 21–24 | MAD 335 = ~€31 → host ~€30 | €43 | ~€36 | Booking +€6 |
+| Mag 25–31 | MAD 372 = ~€34 → host ~€33 | €45 | ~€37 | Booking +€4 |
+| Giugno wd | MAD 428 = ~€40 → host ~€39 | €65 | ~€54 | **Booking +€15** |
+| Giugno we | MAD 460 = ~€43 → host ~€42 | €70 | ~€58 | **Booking +€16** |
+| Luglio | MAD 570 = ~€53 → host ~€51 | €65 | ~€54 | Booking +€3 |
+
+**⚠️ Problema rilevato:** Booking.com giugno è €65 vs Airbnb €40 (~+62%).  
+Il guest che confronta le due piattaforme sceglie Airbnb. Booking non converte.  
+Luglio invece è quasi in parità netta → ok.
+
+---
+
 ## STRUTTURA PREZZI (impostata nell'editor)
 
 | Voce | Valore |
