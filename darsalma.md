@@ -395,12 +395,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 10 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
 | 11 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
 
-### Prenotazioni non confermate / scadute
-| Ospite | Stato | Note |
-|--------|-------|------|
-| Mathilda + famiglia | ❌ Offerta scaduta | Voleva 1–22 giu · non ha accettato l'offerta speciale · date ora libere |
-| Hassbia | ⏳ Non confermato | Invito inviato 30 mag–3 giu · calendario mostra 30–31 mag libero → non ha accettato |
-| Shuhrat | ⏳ Non confermato | Invito inviato 29 giu–1 lug · calendario mostra 29–30 giu libero → non ha accettato |
+### In attesa di conferma
+| Ospite | Piattaforma | Date | Notti | Revenue | Note |
+|--------|-------------|------|-------|---------|------|
+| Shuhrat | Airbnb | 29 giu–1 lug | 2 | MAD 630 | ⏳ Invito inviato · in attesa |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
