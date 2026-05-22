@@ -396,6 +396,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 12 | Mohammed | Airbnb | 15 giu 2026 | 2 | MAD 650 host |
 | 13 | Delaporte (famiglia) | Airbnb | 10 giu 2026 | 4 | MAD 1.445 host · nome francese |
 | 14 | Esdras (gruppo 2) | Airbnb | 22 giu 2026 | 7 | MAD 1.992 host |
+| 15 | Shuhrat | Airbnb | 29 giu 2026 | 2 | MAD 630 host · invito inviato, 23h per confermare |
 
 ### Note operative maggio
 - **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
