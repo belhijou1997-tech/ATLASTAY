@@ -392,9 +392,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 7 | Mustapha Chetmou | Booking.com | 27 mag 2026 | 3 | €88,35 + €15 city tax cash |
 | 8 | Hassbia | Airbnb | 30 mag 2026 | 4 | ⚠️ data da confermare (era invitato dal 29, conflitto con Mustapha → spostare al 30) |
 | 9 | Mathilda + famiglia | Airbnb | 1 giu 2026 | 21 | In attesa conferma · MAD 5.141 host |
-| 11 | Mohammed | Airbnb | 15 giu 2026 | 2 | MAD 650 host |
-| 12 | Delaporte (famiglia) | Airbnb | 10 giu 2026 | 4 | MAD 1.445 host · nome francese |
-| 13 | Esdras (gruppo 2) | Airbnb | 22 giu 2026 | 7 | MAD 1.992 host |
+| 11 | Sarah Catarro | Airbnb | 2 giu 2026 | 8 | MAD 2.363 host · nome italiano 🇮🇹 |
+| 12 | Mohammed | Airbnb | 15 giu 2026 | 2 | MAD 650 host |
+| 13 | Delaporte (famiglia) | Airbnb | 10 giu 2026 | 4 | MAD 1.445 host · nome francese |
+| 14 | Esdras (gruppo 2) | Airbnb | 22 giu 2026 | 7 | MAD 1.992 host |
 
 ### Note operative maggio
 - **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
