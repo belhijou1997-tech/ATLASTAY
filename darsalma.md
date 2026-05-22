@@ -381,41 +381,93 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## STORICO PRENOTAZIONI
 
-| # | Ospite | Piattaforma | Check-in | Notti | Note |
-|---|--------|-------------|----------|-------|------|
-| 1 | Nadia Hachhach | Airbnb | 3 mag 2026 | 1 | — |
-| 2 | Buochra Elmoden | Airbnb | 4 mag 2026 | 3 | €143,01 host |
-| 3 | Clara | Airbnb | 7 mag 2026 | 3 | Recensione 4★ |
-| 4 | Hanane | Airbnb | 10 mag 2026 | 3 | Recensione 5★ |
-| 5 | Khalid | Airbnb | 17 mag 2026 | 4 | Recensione scritta ✅ |
-| 6 | Jalal (gruppo 3 persone) | Airbnb | 21 mag 2026 | 1 | Check-in ore 18:00 |
-| 7 | Mustapha Chetmou | Booking.com | 27 mag 2026 | 3 | €88,35 + €15 city tax cash |
-| 8 | Hassbia | Airbnb | 30 mag 2026 | 4 | ⚠️ data da confermare (era invitato dal 29, conflitto con Mustapha → spostare al 30) |
-| 9 | Mathilda + famiglia | Airbnb | 1 giu 2026 | 21 | In attesa conferma · MAD 5.141 host |
-| 11 | Sarah Catarro | Airbnb | 2 giu 2026 | 8 | MAD 2.363 host · nome italiano 🇮🇹 |
-| 12 | Mohammed | Airbnb | 15 giu 2026 | 2 | MAD 650 host |
-| 13 | Delaporte (famiglia) | Airbnb | 10 giu 2026 | 4 | MAD 1.445 host · nome francese |
-| 14 | Esdras (gruppo 2) | Airbnb | 22 giu 2026 | 7 | MAD 1.992 host |
-| 15 | Shuhrat | Airbnb | 29 giu 2026 | 2 | MAD 630 host · invito inviato, 23h per confermare |
+| # | Ospite | Piattaforma | Check-in | Check-out | Notti | Revenue host | Note |
+|---|--------|-------------|----------|-----------|-------|--------------|------|
+| 1 | Nadia Hachhach | Airbnb | 3 mag | 4 mag | 1 | ~MAD 350 | — |
+| 2 | Buochra Elmoden | Airbnb | 4 mag | 7 mag | 3 | MAD 1.545 | €143,01 ✓ · 10/10 Booking |
+| 3 | Clara | Airbnb | 7 mag | 10 mag | 3 | ~MAD 820 | Recensione 4★ |
+| 4 | Hanane | Airbnb | 10 mag | 13 mag | 3 | ~MAD 820 | Recensione 5★ |
+| 5 | Khalid | Airbnb | 17 mag | 21 mag | 4 | ~MAD 1.260 | Recensione scritta ✅ |
+| 6 | Jalal (gruppo 3 persone) | Airbnb | 22 mag | 23 mag | 1 | ~MAD 325 | Check-in ore 18:00 · oggi |
+| 7 | Mustapha Chetmou | Booking.com | 27 mag | 30 mag | 3 | MAD 955 | €88,35 ✓ · +€15 city tax cash |
+| 8 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 |
+| 9 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · stesso giorno turnover con Sarah |
+| 10 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
+| 11 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
+
+### Prenotazioni non confermate / scadute
+| Ospite | Stato | Note |
+|--------|-------|------|
+| Mathilda + famiglia | ❌ Offerta scaduta | Voleva 1–22 giu · non ha accettato l'offerta speciale · date ora libere |
+| Hassbia | ⏳ Non confermato | Invito inviato 30 mag–3 giu · calendario mostra 30–31 mag libero → non ha accettato |
+| Shuhrat | ⏳ Non confermato | Invito inviato 29 giu–1 lug · calendario mostra 29–30 giu libero → non ha accettato |
+
+### Calendario giugno — stato aggiornato (22 mag 2026)
+| Date | Stato | Prezzo/note |
+|------|-------|-------------|
+| 1 giu | 🟢 Disponibile | MAD 270 |
+| 2–9 giu | 🔴 Sarah | MAD 2.363 totale |
+| 10–13 giu | 🔴 Delaporte | MAD 1.445 totale |
+| 14 giu | ⬜ Checkout day | Bloccato |
+| 15–16 giu | 🔴 Mohammed | MAD 650 totale |
+| 17–21 giu | 🟢 Disponibile | MAD 300 / 300 / 370 / 370 / 285 |
+| 22–28 giu | 🔴 Esdras | MAD 1.992 totale |
+| 29–30 giu | 🟢 Disponibile | MAD 285/notte |
+
+**Occupazione giugno confermata:** 21/30 notti = **70%**  
+**Gap da riempire:** 1 giu (1n) + 17–21 giu (5n) + 29–30 giu (2n) = **8 notti libere**
 
 ### Note operative maggio
 - **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
-- **Calendari NON sincronizzati** tra Airbnb e Booking.com → bloccare manualmente ogni volta che arriva una prenotazione Booking.com
-- **Priorità immediata**: impostare iCal sync tra le due piattaforme per evitare doppia prenotazione futura
+- **iCal sync attivo**: confermato (ha auto-bloccato giugno 22 per Esdras) · delay 1–2h normale
+- **Maggio 30–31**: liberi (MAD 243) · Hassbia non ha confermato
 
 ---
 
 ## PERFORMANCE ECONOMICA
 
-| Voce | Valore |
-|------|--------|
-| Incasso (rilevato) | ~5.654 MAD |
-| Valore prenotazioni (19 mag) | 310€ |
-| Pulizie | ~400 MAD |
-| Luce/acqua | ~100–200 MAD |
-| **Margine operativo stimato** | **~5.050 MAD** |
+### Maggio 2026 — P&L definitivo (aggiornato 22 mag)
 
-L'appartamento non sta solo coprendo i costi: sta producendo cashflow reale.
+| Prenotazione | Notti | Revenue netto |
+|--------------|-------|---------------|
+| Nadia | 1 | ~MAD 350 |
+| Buochra | 3 | MAD 1.545 ✓ |
+| Clara | 3 | ~MAD 820 |
+| Hanane | 3 | ~MAD 820 |
+| Khalid | 4 | ~MAD 1.260 |
+| Jalal | 1 | ~MAD 325 |
+| Mustapha (Booking.com) | 3 | MAD 955 ✓ |
+| **Totale** | **18 notti** | **~MAD 6.075** |
+
+| Costo | Importo |
+|-------|---------|
+| Pulizie (7 turni × MAD 100) | -MAD 700 |
+| Utilities | -MAD 200 |
+| **Margine operativo** | **~MAD 5.175** |
+| Affitto mensile | -MAD 5.200 |
+| **Net margin maggio** | **≈ -MAD 25 (breakeven)** |
+
+**Occupazione:** 18/31 = **58%** · ADR: ~MAD 337/notte
+
+### Giugno 2026 — P&L proiezione (prenotazioni confermate)
+
+| Prenotazione | Notti | Revenue netto |
+|--------------|-------|---------------|
+| Sarah | 8 | MAD 2.363 ✓ |
+| Delaporte | 4 | MAD 1.445 ✓ |
+| Mohammed | 2 | MAD 650 ✓ |
+| Esdras | 7 | MAD 1.992 ✓ |
+| **Totale confermato** | **21 notti** | **MAD 6.450** |
+
+| Costo | Importo |
+|-------|---------|
+| Pulizie (4 turni × MAD 100) | -MAD 400 |
+| Utilities | -MAD 150 |
+| **Margine operativo** | **~MAD 5.900** |
+| Affitto mensile | -MAD 5.200 |
+| **Net margin giugno (min)** | **~MAD 700** |
+
+*Con 8 notti libere ancora riempibili: ogni prenotazione aggiuntiva = +MAD 200–300 netto.*
 
 ---
 
