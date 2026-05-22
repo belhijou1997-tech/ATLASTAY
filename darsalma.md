@@ -13,7 +13,7 @@
 - [ ] **Internet** — costo mensile reale
 
 ### Da fare sul listing
-- [ ] **Shuhrat** — ha confermato? (invito inviato 29 giu–1 lug)
+- [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
 - [ ] **Giugno 17–21** — 5 notti libere da riempire (abbassare a MAD 270?)
 - [ ] **Luglio** — zero prenotazioni, peak season con piscina — iniziare a spingere
 - [ ] **Foto copertina** — cambiare con foto piscina a luglio
@@ -417,11 +417,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 9 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · stesso giorno turnover con Sarah |
 | 10 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
 | 11 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
-
-### In attesa di conferma
-| Ospite | Piattaforma | Date | Notti | Revenue | Note |
-|--------|-------------|------|-------|---------|------|
-| Shuhrat | Airbnb | 29 giu–1 lug | 2 | MAD 630 | ⏳ Invito inviato · in attesa |
+| 12 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
@@ -433,10 +429,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 15–16 giu | 🔴 Mohammed | MAD 650 totale |
 | 17–21 giu | 🟢 Disponibile | MAD 300 / 300 / 370 / 370 / 285 |
 | 22–28 giu | 🔴 Esdras | MAD 1.992 totale |
-| 29–30 giu | 🟢 Disponibile | MAD 285/notte |
+| 29–30 giu | 🔴 Shuhrat | MAD 630,50 totale |
 
-**Occupazione giugno confermata:** 21/30 notti = **70%**  
-**Gap da riempire:** 1 giu (1n) + 17–21 giu (5n) + 29–30 giu (2n) = **8 notti libere**
+**Occupazione giugno confermata:** 23/30 notti = **77%**  
+**Gap da riempire:** 1 giu (1n) + 17–21 giu (5n) = **6 notti libere**
 
 ### Note operative maggio
 - **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
