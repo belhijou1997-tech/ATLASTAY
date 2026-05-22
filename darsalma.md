@@ -2,6 +2,29 @@
 
 ---
 
+## 📋 PROMEMORIA APERTI — aggiornato 22 mag 2026
+
+*Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
+
+### Da fare TU (input necessari)
+- [ ] **Dati pulizie maggio** — costo preciso per ogni turno (per P&L definitivo)
+- [ ] **Dati pulizie giugno** — stessa cosa
+- [ ] **Bollette precise** — importo reale mensile (luce + acqua)
+- [ ] **Internet** — costo mensile reale
+
+### Da fare sul listing
+- [ ] **Shuhrat** — ha confermato? (invito inviato 29 giu–1 lug)
+- [ ] **Giugno 17–21** — 5 notti libere da riempire (abbassare a MAD 270?)
+- [ ] **Luglio** — zero prenotazioni, peak season con piscina — iniziare a spingere
+- [ ] **Foto copertina** — cambiare con foto piscina a luglio
+- [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
+
+### Note operative ricorrenti
+- Ogni prenotazione Booking.com → bloccare manualmente su Airbnb (iCal delay 1–2h)
+- Badr: avvisare sempre per same-day turnover (es. Sarah out/Delaporte in il 10 giu)
+
+---
+
 ## IDENTITÀ
 
 **Nome listing Airbnb:** Dar Salma 2BR w/ Pool • 10min Majorelle  
