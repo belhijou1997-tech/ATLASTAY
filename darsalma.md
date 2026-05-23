@@ -15,7 +15,7 @@
 ### Da fare sul listing
 - [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
 - [ ] **Piscina** — verifica il 1 giugno se aprono davvero · se sì → aggiorna listing da "metà luglio" a "1 giugno" o "15 giugno"
-- [ ] **Giugno 17–21** — 5 notti libere da riempire (abbassare a MAD 270?)
+- [ ] **⚡ DOMANI 24 mag** — Pagare internet + verificare che funzioni
 - [ ] **Luglio** — zero prenotazioni, peak season con piscina — iniziare a spingere
 - [ ] **Foto copertina** — cambiare con foto piscina a luglio
 - [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
