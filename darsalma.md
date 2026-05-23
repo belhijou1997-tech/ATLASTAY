@@ -14,6 +14,7 @@
 
 ### Da fare sul listing
 - [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
+- [ ] **Piscina** — verifica il 1 giugno se aprono davvero · se sì → aggiorna listing da "metà luglio" a "1 giugno" o "15 giugno"
 - [ ] **Giugno 17–21** — 5 notti libere da riempire (abbassare a MAD 270?)
 - [ ] **Luglio** — zero prenotazioni, peak season con piscina — iniziare a spingere
 - [ ] **Foto copertina** — cambiare con foto piscina a luglio
@@ -31,7 +32,7 @@
 **Tipologia:** Intero alloggio · Appartamento  
 **Capacità:** 4 ospiti · 2 camere da letto · 2 letti · 1 bagno  
 **Posizione:** Marrakech – 10 minuti dal Giardino Majorelle  
-**Piscina:** presente (operativa luglio–ottobre)  
+**Piscina:** presente · sul listing: **operativa da metà luglio** (strategia conservativa — vedi nota)  
 **Check-in:** Self check-in  
 **Host pubblico:** Badr (5 mesi da host)  
 **Stato listing:** Novità · 2 recensioni  
@@ -394,6 +395,12 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 3. Zona pranzo/living
 4. **Piscina sul rooftop** ← foto più forte, skyline Marrakech sullo sfondo
 5. Cucina in legno scuro, moderna
+
+**Strategia apertura piscina:**
+- Sul listing attuale: "Pool open mid-July–October" ← data conservativa intenzionale
+- Motivo: possibile apertura reale dal 1 giugno ma non confermata → rischio ospiti che si aspettano piscina e non la trovano
+- **Piano:** verificare il 1 giugno se la piscina è operativa → se sì, aggiornare subito il listing
+- Beneficio: Sarah (2–10 giu) e altri ospiti giugno troverebbero la piscina come sorpresa positiva, non come promessa mancata
 
 **Osservazione critica:** la foto della piscina è il differenziatore più forte per estate — con vista skyline è unica. Ma è la 4ª foto nel grid, non la copertina.  
 → **A luglio/agosto: valutare di mettere la piscina come copertina principale.**
