@@ -420,16 +420,17 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 5 | Khalid | Airbnb | 17 mag | 21 mag | 4 | ~MAD 1.260 | Recensione scritta ✅ |
 | 6 | Jalal (gruppo 3 persone) | Airbnb | 22 mag | 23 mag | 1 | ~MAD 325 | Check-in ore 18:00 · oggi |
 | 7 | Mustapha Chetmou | Booking.com | 27 mag | 30 mag | 3 | MAD 955 | €88,35 ✓ · +€15 city tax cash |
-| 8 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 |
-| 9 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · stesso giorno turnover con Sarah |
-| 10 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
-| 11 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
-| 12 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
+| 8 | Dawda Fofana | Airbnb | 30 mag | 2 giu | 3 | MAD 878,82 | ⚠️ same-day con Mustapha (30 mag) e Sarah (2 giu) |
+| 9 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · ⚠️ same-day con Dawda |
+| 10 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
+| 11 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
+| 12 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
+| 13 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
 |------|-------|-------------|
-| 1 giu | 🟢 Disponibile | MAD 270 |
+| 1 giu | 🔴 Dawda (checkout 2 giu) | MAD 878,82 totale (include 30–31 mag + 1 giu) |
 | 2–9 giu | 🔴 Sarah | MAD 2.363 totale |
 | 10–13 giu | 🔴 Delaporte | MAD 1.445 totale |
 | 14 giu | ⬜ Checkout day | Bloccato |
@@ -438,8 +439,15 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 22–28 giu | 🔴 Esdras | MAD 1.992 totale |
 | 29–30 giu | 🔴 Shuhrat | MAD 630,50 totale |
 
-**Occupazione giugno confermata:** 23/30 notti = **77%**  
-**Gap da riempire:** 1 giu (1n) + 17–21 giu (5n) = **6 notti libere**
+**Occupazione giugno confermata:** 24/30 notti = **80%**  
+**Gap da riempire:** 17–21 giu (5n) = **5 notti libere**
+
+### ⚠️ Same-day turnovers da comunicare a Badr
+| Data | Evento |
+|------|--------|
+| 30 mag | Mustapha checkout → Dawda check-in 15:00 |
+| 2 giu | Dawda checkout 11:00 → Sarah check-in 15:00 |
+| 10 giu | Sarah checkout 11:00 → Delaporte check-in 15:00 |
 
 ### Note operative maggio
 - **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
