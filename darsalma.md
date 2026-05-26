@@ -435,7 +435,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 4 | Hanane | Airbnb | 10 mag | 13 mag | 3 | ~MAD 820 | Recensione 5★ |
 | 5 | Khalid | Airbnb | 17 mag | 21 mag | 4 | ~MAD 1.260 | Recensione scritta ✅ |
 | 6 | Jalal (gruppo 3 persone) | Airbnb | 22 mag | 23 mag | 1 | ~MAD 325 | Check-in ore 18:00 · oggi |
-| 7 | Mustapha Chetmou | Booking.com | 27 mag | 30 mag | 3 | MAD 955 | €88,35 ✓ · +€15 city tax cash |
+| 7 | Chaymae Filahi | Booking.com | 27 mag | 30 mag | 3 | MAD 713 | €65,99 ✓ · +€22,50 city tax cash · 3 adulti · tariffa non rimborsabile · paga il 4 giu |
 | 8 | Dawda Fofana | Airbnb | 30 mag | 2 giu | 3 | MAD 878,82 | ⚠️ same-day con Mustapha (30 mag) e Sarah (2 giu) |
 | 9 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · ⚠️ same-day con Dawda |
 | 10 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
@@ -466,9 +466,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 10 giu | Sarah checkout 11:00 → Delaporte check-in 15:00 |
 
 ### Note operative maggio
-- **27–29 mag**: bloccati manualmente su Airbnb per Mustapha (Booking.com) ✅
-- **iCal sync attivo**: confermato (ha auto-bloccato giugno 22 per Esdras) · delay 1–2h normale
-- **Maggio 30–31**: liberi (MAD 243) · Hassbia non ha confermato
+- **27–29 mag**: bloccati su Airbnb per Chaymae (Booking.com) ✅
+- **Mustapha Chetmou**: ha cancellato · rimpiazzato da Chaymae Filahi stesse date
+- **Maggio 24–25**: notti scadute vuote (2 notti perse)
+- **iCal sync attivo**: confermato · delay 1–2h normale
 
 ---
 
