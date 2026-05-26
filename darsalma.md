@@ -35,7 +35,7 @@
 **Piscina:** presente · sul listing: **operativa da metà luglio** (strategia conservativa — vedi nota)  
 **Check-in:** Self check-in  
 **Host pubblico:** Badr (5 mesi da host)  
-**Stato listing:** 3 recensioni · rating **4,33** ⭐  
+**Stato listing:** 4 recensioni · rating **4,50** ⭐  
 **Foto:** 20  
 **Posizionamento:** Mid-range premium accessibile
 
@@ -308,11 +308,19 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ## RECENSIONI – AIRBNB
 
-**Totale:** 3 recensioni · rating **4,33** · Termini ricorrenti: Qualità del sonno, Comfort
+**Totale:** 4 recensioni · rating **4,50** ⭐ · Termini ricorrenti: Qualità del sonno, Comfort
 
 ### Hanane — ★★★★★ (5 stelle)
 *4 anni su Airbnb · 6 giorni fa · Ha soggiornato qualche notte*
 > "Consiglio questo appartamento al 200%. I proprietari sono molto cordiali, molto premurosi e offrono tutti i servizi. L'appartamento è super pulito e accogliente, i let..." [testo troncato]
+
+### Jalal — ★★★★★ (5 stelle)
+*Casablanca, Marocco · 2 giorni fa · Ha soggiornato qualche notte*
+> "Grazie Bader per la tua professionalità e per i cioccolatini 👍👍👍" *(originale: francese)*
+
+**Nota operativa:** i cioccolatini di Badr → dettaglio che genera recensioni 5 stelle. Da mantenere sempre come standard accoglienza.
+
+---
 
 ### Khalid — ★★★★ (4 stelle)
 *8 anni su Airbnb · 5 giorni fa · Ha soggiornato qualche notte*
