@@ -446,8 +446,9 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 9 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · ⚠️ same-day con Dawda |
 | 10 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
 | 11 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
-| 12 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
-| 13 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
+| 12 | Jr Chscon + 3 | Airbnb | 17 giu | 20 giu | 3 | MAD 1.086,40 | 4 persone · interessi: escursionismo |
+| 13 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
+| 14 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
@@ -461,8 +462,8 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 22–28 giu | 🔴 Esdras | MAD 1.992 totale |
 | 29–30 giu | 🔴 Shuhrat | MAD 630,50 totale |
 
-**Occupazione giugno confermata:** 24/30 notti = **80%**  
-**Gap da riempire:** 17–21 giu (5n) = **5 notti libere**
+**Occupazione giugno confermata:** 27/30 notti = **90%**  
+**Gap rimasto:** 20–21 giu (2n) = **2 notti libere**
 
 ### ⚠️ Same-day turnovers da comunicare a Badr
 | Data | Evento |
