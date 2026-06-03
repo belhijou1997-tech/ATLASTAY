@@ -35,7 +35,7 @@
 **Piscina:** presente · sul listing: **operativa da metà luglio** (strategia conservativa — vedi nota)  
 **Check-in:** Self check-in  
 **Host pubblico:** Badr (5 mesi da host)  
-**Stato listing:** 4 recensioni · rating **4,50** ⭐  
+**Stato listing:** 5 recensioni · rating **4,60** ⭐ · **FASE 2 PRICING SBLOCCATA**  
 **Foto:** 20  
 **Posizionamento:** Mid-range premium accessibile
 
@@ -240,7 +240,7 @@ Soggiorni a lungo termine permessi (≥28 notti) — rilevante per remote worker
 
 | Recensioni | Airbnb weekday | Airbnb weekend | Booking weekday | Booking weekend |
 |------------|---------------|----------------|-----------------|-----------------|
-| **Ora (2)** | **MAD 280** | **MAD 370** | **€38** | **€45** |
+| **Ora (5)** ✅ | **MAD 320** | **MAD 500** | **€44** | **€58** |
 | 5 rec | MAD 320 | MAD 500 | €44 | €58 |
 | 10 rec | MAD 370 | MAD 600 | €50 | €68 |
 | 20+ rec | MAD 420 | MAD 700 | €58 | €80 |
@@ -308,11 +308,17 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ## RECENSIONI – AIRBNB
 
-**Totale:** 4 recensioni · rating **4,50** ⭐ · Termini ricorrenti: Qualità del sonno, Comfort
+**Totale:** 5 recensioni · rating **4,60** ⭐ · Termini ricorrenti: **Ospitalità 4** · Qualità del sonno 2
 
 ### Hanane — ★★★★★ (5 stelle)
 *4 anni su Airbnb · 6 giorni fa · Ha soggiornato qualche notte*
 > "Consiglio questo appartamento al 200%. I proprietari sono molto cordiali, molto premurosi e offrono tutti i servizi. L'appartamento è super pulito e accogliente, i let..." [testo troncato]
+
+### Dawda — ★★★★★ (5 stelle)
+*9 anni su Airbnb · Oggi*
+> "Abbiamo trascorso un fine settimana eccellente in questo alloggio a Marrakech. È andato tutto molto bene dall'inizio alla fine."
+
+---
 
 ### Jalal — ★★★★★ (5 stelle)
 *Casablanca, Marocco · 2 giorni fa · Ha soggiornato qualche notte*
