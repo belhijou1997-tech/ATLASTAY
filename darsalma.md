@@ -2,7 +2,7 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 22 mag 2026
+## 📋 PROMEMORIA APERTI — aggiornato 3 giu 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
@@ -443,20 +443,21 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 | # | Ospite | Piattaforma | Check-in | Check-out | Notti | Revenue host | Note |
 |---|--------|-------------|----------|-----------|-------|--------------|------|
-| 1 | Nadia Hachhach | Airbnb | 3 mag | 4 mag | 1 | ~MAD 350 | — |
-| 2 | Buochra Elmoden | Airbnb | 4 mag | 7 mag | 3 | MAD 1.545 | €143,01 ✓ · 10/10 Booking |
-| 3 | Clara | Airbnb | 7 mag | 10 mag | 3 | ~MAD 820 | Recensione 4★ |
-| 4 | Hanane | Airbnb | 10 mag | 13 mag | 3 | ~MAD 820 | Recensione 5★ |
-| 5 | Khalid | Airbnb | 17 mag | 21 mag | 4 | ~MAD 1.260 | Recensione scritta ✅ |
-| 6 | Jalal (gruppo 3 persone) | Airbnb | 22 mag | 23 mag | 1 | ~MAD 325 | Check-in ore 18:00 · oggi |
-| 7 | Chaymae Filahi | Booking.com | 27 mag | 30 mag | 3 | MAD 713 | €65,99 ✓ · city tax €0 (errore Booking) · 3 adulti · tariffa non rimborsabile · paga il 4 giu |
-| 8 | Dawda Fofana | Airbnb | 30 mag | 2 giu | 3 | MAD 878,82 | ⚠️ same-day con Mustapha (30 mag) e Sarah (2 giu) |
-| 9 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · ⚠️ same-day con Dawda |
-| 10 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
-| 11 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
-| 12 | Jr Chscon + 3 | Airbnb | 17 giu | 20 giu | 3 | MAD 1.086,40 | 4 persone · interessi: escursionismo |
-| 13 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
-| 14 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
+| 1 | Nadia Hachhach | Booking.com | 3 mag | 4 mag | 1 | — | Booking.com ✓ (non in Airbnb CSV) · incl. nel payout 8 mag |
+| 2 | Buochra Elmoden | Booking.com | 4 mag | 7 mag | 3 | MAD 1.084,89* | *Payout 8 mag (incl. Nadia) ✓ · 10/10 Booking |
+| 3 | Clara | Airbnb | 7 mag | 10 mag | 3 | MAD 960,30 | Payout 8 mag ✓ · Recensione 4★ |
+| 4 | Hanane | Airbnb | 10 mag | 14 mag | 4 | MAD 1.231,90 | Payout 11 mag ✓ · Recensione 5★ |
+| 5 | Khalid | Airbnb | 17 mag | 21 mag | 4 | MAD 1.348,30 | Payout 18 mag ✓ · Recensione 4★ · scritta ✅ |
+| 6 | Amir El | Airbnb | 21 mag | 22 mag | 1 | MAD 313,31 | Payout 22 mag ✓ · same-day con Khalid |
+| 7 | Jalal (gruppo 3 persone) | Airbnb | 22 mag | 24 mag | 2 | MAD 549,02 | Payout 25 mag ✓ |
+| 8 | Chaymae Filahi | Booking.com | 27 mag | 30 mag | 3 | MAD 434,84 | Payout 2 giu ✓ · city tax €0 · 3 adulti · non rimborsabile |
+| 9 | Dawda Fofana | Airbnb | 30 mag | 2 giu | 3 | MAD 878,82 | Payout 1 giu ✓ · same-day con Sarah (2 giu) |
+| 10 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · same-day con Dawda |
+| 11 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
+| 12 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
+| 13 | Jr Chscon + 3 | Airbnb | 17 giu | 20 giu | 3 | MAD 1.086,40 | 4 persone |
+| 14 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
+| 15 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
@@ -490,28 +491,37 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## PERFORMANCE ECONOMICA
 
-### Maggio 2026 — P&L definitivo (aggiornato 22 mag)
+### Maggio 2026 — Incassi reali da banca (aggiornato 3 giu 2026)
 
-| Prenotazione | Notti | Revenue netto |
-|--------------|-------|---------------|
-| Nadia | 1 | ~MAD 350 |
-| Buochra | 3 | MAD 1.545 ✓ |
-| Clara | 3 | ~MAD 820 |
-| Hanane | 3 | ~MAD 820 |
-| Khalid | 4 | ~MAD 1.260 |
-| Jalal | 1 | ~MAD 325 |
-| Mustapha (Booking.com) | 3 | MAD 955 ✓ |
-| **Totale** | **18 notti** | **~MAD 6.075** |
+| Transazione bancaria | Data payout | Piattaforma | Importo |
+|---------------------|------------|-------------|---------|
+| Nadia + Buochra (3–7 mag) | 8 mag | Booking.com | MAD 1.084,89 |
+| Clara (7–10 mag) | 8 mag | Airbnb/Dlocal | MAD 960,30 |
+| Hanane (10–14 mag) | 11 mag | Airbnb/Dlocal | MAD 1.231,90 |
+| Khalid (17–21 mag) | 18 mag | Airbnb/Dlocal | MAD 1.348,30 |
+| Booking.com (payout non id. — probabile ospite aprile) | 18 mag | Booking.com | MAD 983,41 |
+| Amir El (21–22 mag) | 22 mag | Airbnb/Dlocal | MAD 313,31 |
+| Jalal (22–24 mag) | 25 mag | Airbnb/Dlocal | MAD 549,02 |
+| Dawda (30 mag–2 giu) | 1 giu | Airbnb/Dlocal | MAD 878,82 |
+| Chaymae (27–30 mag) | 2 giu | Booking.com | MAD 434,84 |
+| **TOTALE RICEVUTO** | | | **MAD 7.784,79** |
+
+**Suddivisione per piattaforma:**
+- Airbnb (Dlocal): **MAD 5.281,65**
+- Booking.com: **MAD 2.503,14**
+- Saldo banca: MAD 7.829,79 (~45 MAD da transazione aprile non identificata)
 
 | Costo | Importo |
 |-------|---------|
-| Pulizie (7 turni × MAD 100) | -MAD 700 |
-| Utilities | -MAD 200 |
-| **Margine operativo** | **~MAD 5.175** |
+| Pulizie (~8–9 turni) | ⏳ da confermare |
+| Utilities | ⏳ da confermare |
 | Affitto mensile | -MAD 5.200 |
-| **Net margin maggio** | **≈ -MAD 25 (breakeven)** |
+| **Margine lordo (pre costi variabili)** | **~MAD 2.585** |
 
-**Occupazione:** 18/31 = **58%** · ADR: ~MAD 337/notte
+*Costi variabili (pulizie, utilities) da aggiornare con dati reali — vedi PROMEMORIA.*
+
+**Occupazione maggio (reale):** 23/31 = **74%** · ADR: ~MAD 338/notte
+- Notti libere: 8 (1–2 mag · 14–16 mag · 24–26 mag)
 
 ### Giugno 2026 — P&L proiezione (prenotazioni confermate)
 
@@ -537,9 +547,9 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## OCCUPAZIONE
 
-**Stato maggio:** prima metà completamente occupata.  
-Dal 21 maggio il calendario è libero e disponibile.  
-Le disponibilità non sono considerate perse: il listing è giovane, il ranking cresce, giugno è tutto aperto.
+**Maggio (reale):** 23/31 notti = **74%**  
+**Giugno (confermato):** 27/30 notti = **90%** · Gap rimasto: 20–21 giu (2n)  
+**Luglio:** 0 prenotazioni — monitorare, valutare pricing se vuoto al 10–15 giu
 
 ---
 
