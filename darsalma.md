@@ -391,10 +391,18 @@ Tutte le categorie: 10/10
 | 8–30 giu (resto) | da verificare | ⚠️ confermare nel calendar Airbnb |
 
 ### Luglio 2026 — tutto disponibile
-| Periodo | Prezzo notte |
-|---------|-------------|
-| 1–19 lug | MAD 570 |
-| 20–31 lug | MAD 618 |
+| Giorno | Prezzo notte |
+|--------|-------------|
+| Lun–Gio | MAD 475 |
+| Ven–Sab | MAD 665 |
+| Dom | MAD 523 |
+
+### Agosto 2026 — tutto disponibile
+| Giorno | Prezzo notte |
+|--------|-------------|
+| Lun–Gio | MAD 523 |
+| Ven–Sab | MAD 741 |
+| Dom | MAD 551 |
 
 **Trend prezzi stagionale:**
 ```
