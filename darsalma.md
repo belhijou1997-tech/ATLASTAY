@@ -2,7 +2,7 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 3 giu 2026
+## 📋 PROMEMORIA APERTI — aggiornato 10 giu 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
@@ -14,15 +14,19 @@
 
 ### Da fare sul listing
 - [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
-- [ ] **Piscina** — verifica il 1 giugno se aprono davvero · se sì → aggiorna listing da "metà luglio" a "1 giugno" o "15 giugno"
-- [ ] **⚡ DOMANI 24 mag** — Pagare internet + verificare che funzioni
-- [ ] **Luglio** — zero prenotazioni, peak season con piscina — iniziare a spingere
-- [ ] **Foto copertina** — cambiare con foto piscina a luglio
+- [x] **Piscina listing** — ✅ aggiornato "Pool open July–October" (piscina confermata da luglio 1)
+- [x] **Luglio pricing** — ✅ ribassato -24% su Airbnb e Booking.com (10 giu)
+- [ ] **Foto copertina** — cambiare con foto piscina (priorità luglio/agosto)
+- [ ] **Luglio prenotazioni** — 0 al 10 giu · se ancora 0 al 14 giu → valutare altre leve
 - [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
+
+### ⚠️ Incidenti operativi
+- **10 giu — Scarafaggi (Sarah Catarro):** ospite ha trovato scarafaggi, ha lasciato l'appartamento. Rimborso MAD 300 inviato. Badr ha trattato gli scarichi. **Prima del prossimo ospite: disinfestazione professionale obbligatoria.**
 
 ### Note operative ricorrenti
 - Ogni prenotazione Booking.com → bloccare manualmente su Airbnb (iCal delay 1–2h)
-- Badr: avvisare sempre per same-day turnover (es. Sarah out/Delaporte in il 10 giu)
+- Badr: avvisare sempre per same-day turnover
+- Cioccolatini Badr → mantenere sempre come standard accoglienza
 
 ---
 
@@ -455,9 +459,12 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 10 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · same-day con Dawda |
 | 11 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
 | 12 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
-| 13 | Jr Chscon + 3 | Airbnb | 17 giu | 20 giu | 3 | MAD 1.086,40 | 4 persone |
+| 13 | Ikra... | Airbnb | 17 giu | 19 giu | ~2 | ~MAD 620 | da confermare — forse sostituisce Jr Chscon |
+| 13b | Olivi... | Airbnb | 20 giu | 22 giu | ~2 | ~MAD 650 | ✅ riempie il gap 20–21 giu |
 | 14 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
 | 15 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
+| 16 | Kaoutar Dardaz | Airbnb | 10 ago | 11 ago | 1 | ~MAD 507 | 2 adulti + 2 bambini · revenue da confermare |
+| 17 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | 🇫🇷 · 2 adulti + 2 bambini · ottobre in season (piscina) |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
@@ -471,8 +478,8 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 22–28 giu | 🔴 Esdras | MAD 1.992 totale |
 | 29–30 giu | 🔴 Shuhrat | MAD 630,50 totale |
 
-**Occupazione giugno confermata:** 27/30 notti = **90%**  
-**Gap rimasto:** 20–21 giu (2n) = **2 notti libere**
+**Occupazione giugno:** ~**30/30 notti = ~100%** (gap 20–21 giu riempito da Olivi...)  
+**Gap rimasto:** nessuno visibile
 
 ### ⚠️ Same-day turnovers da comunicare a Badr
 | Data | Evento |
