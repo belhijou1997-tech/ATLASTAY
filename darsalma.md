@@ -459,7 +459,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 10 | Sarah Catarro | Airbnb | 2 giu | 10 giu | 8 | MAD 2.363 | 🇮🇹 · same-day con Dawda |
 | 11 | Delaporte (famiglia) | Airbnb | 10 giu | 14 giu | 4 | MAD 1.445 | 🇫🇷 · same-day con Sarah |
 | 12 | Mohammed | Airbnb | 15 giu | 17 giu | 2 | MAD 650 | — |
-| 13 | Ikra... | Airbnb | 17 giu | 19 giu | ~2 | ~MAD 620 | da confermare — forse sostituisce Jr Chscon |
+| 13 | Ikram | Airbnb | 17 giu | 20 giu | 3 | ~MAD 1.086 | sostituisce Jr Chscon ✓ |
 | 13b | Olivi... | Airbnb | 20 giu | 22 giu | ~2 | ~MAD 650 | ✅ riempie il gap 20–21 giu |
 | 14 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
 | 15 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
