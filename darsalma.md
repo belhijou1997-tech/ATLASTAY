@@ -463,9 +463,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 13b | Olivi... | Airbnb | 20 giu | 22 giu | ~2 | ~MAD 650 | ✅ riempie il gap 20–21 giu |
 | 14 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
 | 15 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
-| 16 | Soumia Khadiri | Airbnb | 6 lug | 23 lug | 17 | MAD 6.413,64 | 3 adulti + 1 bambino · cancellazione flessibile |
-| 17 | Kaoutar Dardaz | Airbnb | 10 ago | 11 ago | 1 | ~MAD 507 | 2 adulti + 2 bambini |
-| 18 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | 🇫🇷 · 2 adulti + 2 bambini · piscina in season |
+| 16 | Soumia Khadiri | Airbnb | 6 lug | 23 lug | 17 | CANCELLATA | policy flessibile — perdita MAD 6.413,64 |
+| 17 | Byron Makasembo | Airbnb | 15 lug | 21 lug | 6 | MAD 2.648,10 | 2 adulti · cancellazione flessibile |
+| 18 | Ehfaz + 1 | Airbnb | ~10 ago | TBD | TBD | TBD | date/importo da confermare |
+| 19 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | FR · 2 adulti + 2 bambini · piscina in season |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
