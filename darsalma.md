@@ -573,6 +573,17 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## PERFORMANCE ECONOMICA
 
+### Revenue Airbnb per mese — dati esatti da screen app (24 lug 2026)
+| Mese | Pagate | Future | **Totale Airbnb** |
+|------|--------|--------|-------------------|
+| Maggio | MAD 5.281,65 | 0 | **MAD 5.281,65** |
+| Giugno | MAD 6.355,55 | 0 | **MAD 6.355,55** |
+| Luglio | MAD 7.279,70 | MAD 1.251,30 | **MAD 8.531,00** |
+| Agosto | 0 | MAD 2.891,57 | **MAD 2.891,57** |
+| **TOTALE** | | | **MAD 23.059,77** |
+
+---
+
 ### Maggio 2026 — Incassi reali da banca (aggiornato 3 giu 2026)
 
 | Transazione bancaria | Data payout | Piattaforma | Importo |
@@ -643,16 +654,20 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ---
 
-### RIEPILOGO P&L — MAGGIO · GIUGNO · LUGLIO (affitto MAD 5.000/mese)
+### RIEPILOGO P&L — NUMERI ESATTI (screen Airbnb + banca)
+*(affitto MAD 5.000/mese · pulizie 100 MAD/turno · Booking.com separato via bonifico)*
 
-| Mese | Revenue | Affitto | Pulizie | **Utile** |
-|------|---------|---------|---------|-----------|
-| Maggio | MAD 7.785 | -5.000 | -900 | **~MAD 1.885** |
-| Giugno | ~MAD 7.000+ | -5.000 | -800 | **~MAD 1.200+** |
-| Luglio | MAD 8.531 | -5.000 | -700 | **~MAD 2.831** |
-| **TOTALE** | **~MAD 23.316** | **-15.000** | **-2.400** | **~MAD 5.916** |
+| Mese | Airbnb (esatto) | Booking.com | **Revenue totale** | Affitto | Pulizie | **Utile** |
+|------|-----------------|-------------|-------------------|---------|---------|-----------|
+| Maggio | MAD 5.281,65 | MAD 2.503,14 | **MAD 7.784,79** | -5.000 | -900 | **~MAD 1.885** |
+| Giugno | MAD 6.355,55 | TBD | **min MAD 6.355** | -5.000 | -800 | **~MAD 556+** |
+| Luglio | MAD 8.531,00 | TBD | **min MAD 8.531** | -5.000 | -700 | **~MAD 2.831+** |
+| **TOTALE** | **MAD 20.168** | **MAD 2.503+** | **~MAD 22.671+** | **-15.000** | **-2.400** | **~MAD 5.271+** |
 
-*Pulizie: stima 100 MAD/turno. Utilities (internet, luce, acqua) non incluse — aggiornare con dati reali.*
+**Agosto (prenotato):** MAD 2.891,57 Airbnb (tutto future — Ehfaz + Kaoutar) · agosto quasi vuoto, da riempire
+
+*Booking.com giugno e luglio = bonifico diretto, dati da estratto banca non ancora condiviso.*  
+*Utilities (internet, luce, acqua) non incluse — aggiornare con importo mensile reale.*
 
 ---
 
