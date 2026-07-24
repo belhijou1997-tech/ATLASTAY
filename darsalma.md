@@ -203,6 +203,22 @@ Considerato investimento iniziale, non costo ricorrente.
 **Trend wishlist:** 27 → 34 → **142** — domanda latente molto alta.  
 **Alert cancellazioni 44,1%:** causato da policy flessibile — 3 cancellazioni (Sarah uscita anticipata, Enrico double booking, Soumia). Passare a policy MODERATA.
 
+### Snapshot 6 — aggiornamento 23 luglio 2026
+| Metrica | Valore |
+|---------|--------|
+| **Tasso occupazione** | **88,5%** (luglio, ultime settimane) |
+| **Tasso cancellazione** | **63,5%** ⚠️ URGENTE — policy moderata obbligatoria |
+| **Durata media soggiorno** | **3,3 notti** |
+| **ADR (tariffa giornaliera)** | **36,1€** (~MAD 394) |
+| Conversione prenotazioni | 0,53% (periodo) |
+| Preavviso prenotazione | 10,7 giorni |
+| Wishlist (periodo) | 50 |
+
+**Revenue luglio Airbnb (screen performance):**
+- Pagate: **MAD 7.279,70**
+- Future (Moussa): **MAD 1.251,30**
+- **Totale luglio: MAD 8.531,00**
+
 ### Snapshot 3b – Tasso di occupazione dettagliato (20 apr → 20 mag, agg. 20 mag)
 | Metrica | Valore |
 |---------|--------|
@@ -514,10 +530,16 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 15 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
 | 16 | Enrico Bianco | Booking.com | 3 lug | 8 lug | 5 | ~€303,89 | ❌ CANCELLATO — double booking con Soumia · 2a+2b · arrivo mezzanotte |
 | 17 | Soumia Khadiri | Airbnb | 6 lug | 23 lug | 17 | MAD 6.413,64 | ❌ CANCELLATA — policy flessibile · perdita MAD 6.413,64 |
-| 18 | Byron Makasembo | Airbnb | 15 lug | 21 lug | 6 | MAD 2.648,10 | ✅ Confermato · 2 adulti · cancellazione flessibile |
-| 19 | Ehfaz + 1 | Airbnb | ~10 ago | TBD | TBD | TBD | 🔵 date/importo da confermare |
-| 20 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Confermata |
-| 21 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2 adulti + 2 bambini · piscina in season |
+| 18 | Abd... | Airbnb | 1 lug | 3 lug | 2 | — | ✅ Completata |
+| 19 | Zoé Martinez | Airbnb | 3 lug | 6 lug | 3 | — | ✅ Completata |
+| 20 | Ospite iCal (TBD) | Booking.com? | 6 lug | 10 lug | 4 | — | ✅ Completata · blocco iCal Airbnb |
+| 21 | Ospite (TBD) | Airbnb | 12 lug | 15 lug | 3 | — | ✅ Completata |
+| 22 | Byron Makasembo | Airbnb | 15 lug | 21 lug | 6 | MAD 2.648,10 | ✅ Completata · 2 adulti |
+| 23 | Aïssata + 2 | Airbnb | 21 lug | 27 lug | 6 | — | ✅ In corso (uscita 27 lug) |
+| 24 | Moussa + 3 | Airbnb | ~27 lug | ~31 lug | ~4 | MAD 1.251,30 | 🔵 Confermato · payout futuro |
+| 25 | Ehfaz + 1 | Airbnb | ~10 ago | TBD | TBD | TBD | 🔵 date/importo da confermare |
+| 26 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Confermata |
+| 27 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2 adulti + 2 bambini · piscina in season |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
@@ -575,13 +597,31 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 |-------|---------|
 | Pulizie (~8–9 turni) | ⏳ da confermare |
 | Utilities | ⏳ da confermare |
-| Affitto mensile | -MAD 5.200 |
+| Affitto mensile | -MAD 5.000 |
 | **Margine lordo (pre costi variabili)** | **~MAD 2.585** |
 
 *Costi variabili (pulizie, utilities) da aggiornare con dati reali — vedi PROMEMORIA.*
 
 **Occupazione maggio (reale):** 23/31 = **74%** · ADR: ~MAD 338/notte
 - Notti libere: 8 (1–2 mag · 14–16 mag · 24–26 mag)
+
+### Luglio 2026 — Revenue confermato da screen Airbnb (24 lug 2026)
+
+| Voce | Importo |
+|------|---------|
+| **Revenue Airbnb luglio (totale)** | **MAD 8.531,00** |
+| — di cui già pagati | MAD 7.279,70 |
+| — di cui futuri (Moussa) | MAD 1.251,30 |
+| Affitto mensile | -MAD 5.000 |
+| Pulizie (~7 turni × MAD 100) | -MAD 700 |
+| **Utile luglio (min, solo Airbnb)** | **~MAD 2.831** |
+
+*Eventuale Booking.com luglio (ospite 6-9 lug, TBD) da aggiungere.*
+
+**Occupazione luglio (23 lug):** 88,5% = ~27/31 notti  
+**Ospiti luglio:** Abd(1-2) · Zoé(3-5) · ignoto(6-9) · ignoto(12-14) · Byron(15-21) · Aïssata+2(21-26) · Moussa+3(27+)
+
+---
 
 ### Giugno 2026 — P&L proiezione (prenotazioni confermate)
 
@@ -598,10 +638,21 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | Pulizie (4 turni × MAD 100) | -MAD 400 |
 | Utilities | -MAD 150 |
 | **Margine operativo** | **~MAD 5.900** |
-| Affitto mensile | -MAD 5.200 |
+| Affitto mensile | -MAD 5.000 |
 | **Net margin giugno (min)** | **~MAD 700** |
 
-*Con 8 notti libere ancora riempibili: ogni prenotazione aggiuntiva = +MAD 200–300 netto.*
+---
+
+### RIEPILOGO P&L — MAGGIO · GIUGNO · LUGLIO (affitto MAD 5.000/mese)
+
+| Mese | Revenue | Affitto | Pulizie | **Utile** |
+|------|---------|---------|---------|-----------|
+| Maggio | MAD 7.785 | -5.000 | -900 | **~MAD 1.885** |
+| Giugno | ~MAD 7.000+ | -5.000 | -800 | **~MAD 1.200+** |
+| Luglio | MAD 8.531 | -5.000 | -700 | **~MAD 2.831** |
+| **TOTALE** | **~MAD 23.316** | **-15.000** | **-2.400** | **~MAD 5.916** |
+
+*Pulizie: stima 100 MAD/turno. Utilities (internet, luce, acqua) non incluse — aggiornare con dati reali.*
 
 ---
 
