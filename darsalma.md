@@ -654,19 +654,18 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ---
 
-### RIEPILOGO P&L — NUMERI ESATTI (screen Airbnb + banca)
-*(affitto MAD 5.000/mese · pulizie 100 MAD/turno · Booking.com separato via bonifico)*
+### RIEPILOGO P&L — NUMERI ESATTI (screen Airbnb + screen Booking.com)
+*(affitto MAD 5.000/mese · pulizie 100 MAD/turno)*
 
-| Mese | Airbnb (esatto) | Booking.com | **Revenue totale** | Affitto | Pulizie | **Utile** |
-|------|-----------------|-------------|-------------------|---------|---------|-----------|
-| Maggio | MAD 5.281,65 | MAD 2.503,14 | **MAD 7.784,79** | -5.000 | -900 | **~MAD 1.885** |
-| Giugno | MAD 6.355,55 | TBD | **min MAD 6.355** | -5.000 | -800 | **~MAD 556+** |
-| Luglio | MAD 8.531,00 | TBD | **min MAD 8.531** | -5.000 | -700 | **~MAD 2.831+** |
-| **TOTALE** | **MAD 20.168** | **MAD 2.503+** | **~MAD 22.671+** | **-15.000** | **-2.400** | **~MAD 5.271+** |
+| Mese | Airbnb | Booking.com | **Revenue totale** | Affitto | Pulizie | **Utile** |
+|------|--------|-------------|-------------------|---------|---------|-----------|
+| Maggio | 5.281,65 | 2.503,14 | **7.784,79** | -5.000 | -900 | **~1.885** |
+| Giugno | 6.355,55 | 952,19 | **7.307,74** | -5.000 | -800 | **~1.508** |
+| Luglio | 8.531,00 | TBD (arrivo 30 lug) | **min 8.531** | -5.000 | -700 | **~2.831+** |
+| **TOTALE** | **20.168,20** | **3.455,33+** | **~23.623+** | **-15.000** | **-2.400** | **~6.224+** |
 
-**Agosto (prenotato):** MAD 2.891,57 Airbnb (tutto future — Ehfaz + Kaoutar) · agosto quasi vuoto, da riempire
-
-*Booking.com giugno e luglio = bonifico diretto, dati da estratto banca non ancora condiviso.*  
+**Agosto (prenotato da Airbnb):** MAD 2.891,57 — quasi vuoto, da riempire urgente  
+**Prossimo pagamento Booking.com:** 30 lug 2026 (ospite 6-9 lug — importo TBD)  
 *Utilities (internet, luce, acqua) non incluse — aggiornare con importo mensile reale.*
 
 ---
