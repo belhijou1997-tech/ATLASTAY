@@ -2,7 +2,7 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 10 giu 2026
+## 📋 PROMEMORIA APERTI — aggiornato 24 lug 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
@@ -10,18 +10,27 @@
 - [ ] **Dati pulizie maggio** — costo preciso per ogni turno (per P&L definitivo)
 - [ ] **Dati pulizie giugno** — stessa cosa
 - [ ] **Bollette precise** — importo reale mensile (luce + acqua)
-- [ ] **Internet** — costo mensile reale
+- [ ] **Internet** — costo mensile reale + pagare e verificare funzionamento
+- [ ] **Dettagli Ehfaz + 1** — date esatte e importo (prenotazione ~10 ago, TBD)
 
 ### Da fare sul listing
 - [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
 - [x] **Piscina listing** — ✅ aggiornato "Pool open July–October" (piscina confermata da luglio 1)
-- [x] **Luglio pricing** — ✅ ribassato -24% su Airbnb e Booking.com (10 giu)
+- [x] **Luglio pricing** — ✅ ribassato -24% su Airbnb e Booking.com
+- [x] **Agosto pricing** — ✅ aggiornato Airbnb e Booking.com
+- [ ] **Policy cancellazione → MODERATA** ⚠️ URGENTE (3 canc. con flessibile: Sarah, Enrico, Soumia — perdita ~MAD 6.400+)
 - [ ] **Foto copertina** — cambiare con foto piscina (priorità luglio/agosto)
-- [ ] **Luglio prenotazioni** — 0 al 10 giu · se ancora 0 al 14 giu → valutare altre leve
 - [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
+- [ ] **Riempire luglio** — Byron confermato Jul 15-21 · 24 notti ancora libere · monitorare
+
+### Da fare recensioni
+- [ ] **Scrivere recensione ospite per Olivia** (testo pronto — chiedere in sessione)
+- [ ] **Scrivere recensione ospite per Ikram** (testo pronto — chiedere in sessione)
+- [ ] **Risposta pubblica recensione Olivia** ★4 (testo pronto — chiedere in sessione)
 
 ### ⚠️ Incidenti operativi
 - **10 giu — Scarafaggi (Sarah Catarro):** ospite ha trovato scarafaggi, ha lasciato l'appartamento. Rimborso MAD 300 inviato. Badr ha trattato gli scarichi. **Prima del prossimo ospite: disinfestazione professionale obbligatoria.**
+- **Lug — Double booking Enrico/Soumia:** iCal delay → Enrico (Booking Jul 3-8) e Soumia (Airbnb Jul 6-23) in overlap → Enrico cancellato su richiesta → Soumia poi cancellata autonomamente (policy flessibile) → perdita MAD 6.413,64
 
 ### Note operative ricorrenti
 - Ogni prenotazione Booking.com → bloccare manualmente su Airbnb (iCal delay 1–2h)
@@ -178,6 +187,21 @@ Considerato investimento iniziale, non costo ricorrente.
 | Valutazioni < 5 stelle | 1 (50%) |
 
 **Trend:** conversione cresciuta da 0,23% → 0,37% → 0,48%. Wishlist: 27 → 34. Algoritmo stabile e favorevole.
+
+### Snapshot 5 — aggiornamento 21 giugno 2026
+| Metrica | Valore |
+|---------|--------|
+| **Conversione globale** | **1,07%** (+365% dal lancio) |
+| **Wishlist saves** | **142** (+417% dal lancio) |
+| **Tasso occupazione** | **100%** (giugno) |
+| **Tasso cancellazione** | **44,1%** ⚠️ (policy flessibile → da cambiare) |
+| **Durata media soggiorno** | **2,4 notti** |
+| Rating Airbnb | **4,60★** (5 recensioni) |
+| Rating Booking.com | **10/10** (3 recensioni) |
+
+**Trend conversione completo:** 0,23% → 0,37% → 0,52% → **1,07%** — +365% in 3 mesi.  
+**Trend wishlist:** 27 → 34 → **142** — domanda latente molto alta.  
+**Alert cancellazioni 44,1%:** causato da policy flessibile — 3 cancellazioni (Sarah uscita anticipata, Enrico double booking, Soumia). Passare a policy MODERATA.
 
 ### Snapshot 3b – Tasso di occupazione dettagliato (20 apr → 20 mag, agg. 20 mag)
 | Metrica | Valore |
@@ -348,6 +372,24 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ---
 
+### Ikram Hassou — ★★★★★ (5 stelle)
+*Ha soggiornato 2 notti (17–19 giu) · 4 adulti*
+> Recensione 5 stelle ✅
+
+**Nota:** Risposta host da pubblicare — testo pronto in sessione.
+
+---
+
+### Olivia — ★★★★ (4 stelle)
+*Ha soggiornato ~2 notti (20–22 giu)*
+> Recensione 4 stelle. Nota negativa: piscina non disponibile durante il soggiorno.
+
+**Analisi:** piscina era ancora pre-apertura. Risposta pubblica e recensione ospite da pubblicare — testi pronti in sessione.
+
+**Totale aggiornato:** **7 recensioni** · media **4,57★** (5×5 stelle + 2×4 stelle)
+
+---
+
 ## RECENSIONI – BOOKING.COM
 
 **Punteggio:** 10/10 · 3 giudizi  
@@ -394,19 +436,26 @@ Tutte le categorie: 10/10
 | ven–sab giugno | **MAD 370** | ✅ aggiornato 21 mag |
 | 8–30 giu (resto) | da verificare | ⚠️ confermare nel calendar Airbnb |
 
-### Luglio 2026 — tutto disponibile
-| Giorno | Prezzo notte |
-|--------|-------------|
-| Lun–Gio | MAD 475 |
-| Ven–Sab | MAD 665 |
-| Dom | MAD 523 |
+### Luglio 2026 — prezzi aggiornati (ribassati -24% per stimolare prenotazioni)
+| Periodo | Weekday | Weekend |
+|---------|---------|---------|
+| Lug 1–14 | MAD 320 | MAD 480 |
+| Lug 15–31 | MAD 400 | MAD 580 |
 
-### Agosto 2026 — tutto disponibile
-| Giorno | Prezzo notte |
-|--------|-------------|
-| Lun–Gio | MAD 523 |
-| Ven–Sab | MAD 741 |
-| Dom | MAD 551 |
+**Booking.com luglio:**
+| Periodo | Weekday | Weekend |
+|---------|---------|---------|
+| Lug 1–14 | €37 | €56 |
+| Lug 15–31 | €46 | €68 |
+
+**Stato luglio (24 lug):** Byron Makasembo 15-21 lug ✅ · 24 notti ancora libere
+
+### Agosto 2026 — prezzi peak season
+| Giorno | Airbnb | Booking.com |
+|--------|--------|-------------|
+| Weekday | MAD 523 | €57 |
+| Weekend | MAD 741 | €82 |
+| Dom | MAD 551 | — |
 
 **Trend prezzi stagionale:**
 ```
@@ -463,10 +512,12 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 13b | Olivi... | Airbnb | 20 giu | 22 giu | ~2 | ~MAD 650 | ✅ riempie il gap 20–21 giu |
 | 14 | Esdras + 1 | Airbnb | 22 giu | 29 giu | 7 | MAD 1.992 | — |
 | 15 | Shuhrat | Airbnb | 29 giu | 1 lug | 2 | MAD 630,50 | ✅ Confermato |
-| 16 | Soumia Khadiri | Airbnb | 6 lug | 23 lug | 17 | CANCELLATA | policy flessibile — perdita MAD 6.413,64 |
-| 17 | Byron Makasembo | Airbnb | 15 lug | 21 lug | 6 | MAD 2.648,10 | 2 adulti · cancellazione flessibile |
-| 18 | Ehfaz + 1 | Airbnb | ~10 ago | TBD | TBD | TBD | date/importo da confermare |
-| 19 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | FR · 2 adulti + 2 bambini · piscina in season |
+| 16 | Enrico Bianco | Booking.com | 3 lug | 8 lug | 5 | ~€303,89 | ❌ CANCELLATO — double booking con Soumia · 2a+2b · arrivo mezzanotte |
+| 17 | Soumia Khadiri | Airbnb | 6 lug | 23 lug | 17 | MAD 6.413,64 | ❌ CANCELLATA — policy flessibile · perdita MAD 6.413,64 |
+| 18 | Byron Makasembo | Airbnb | 15 lug | 21 lug | 6 | MAD 2.648,10 | ✅ Confermato · 2 adulti · cancellazione flessibile |
+| 19 | Ehfaz + 1 | Airbnb | ~10 ago | TBD | TBD | TBD | 🔵 date/importo da confermare |
+| 20 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Confermata |
+| 21 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2 adulti + 2 bambini · piscina in season |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
