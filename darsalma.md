@@ -585,14 +585,19 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## PERFORMANCE ECONOMICA
 
-### Revenue Airbnb per mese — dati esatti da screen app (24 lug 2026)
-| Mese | Pagate | Future | **Totale Airbnb** |
-|------|--------|--------|-------------------|
-| Maggio | MAD 5.281,65 | 0 | **MAD 5.281,65** |
-| Giugno | MAD 6.355,55 | 0 | **MAD 6.355,55** |
-| Luglio | MAD 7.279,70 | MAD 1.251,30 | **MAD 8.531,00** |
-| Agosto | 0 | MAD 2.891,57 | **MAD 2.891,57** |
-| **TOTALE** | | | **MAD 23.059,77** |
+### Revenue Airbnb per mese — report dettagliato (5 ago 2026)
+
+| Mese | Lordo | Correzioni | Fee host (~3%) | **Netto host** | Notti | Soggiorno medio |
+|------|-------|-----------|----------------|----------------|-------|-----------------|
+| Maggio | 5.445,00 | 0,00 | -163,35 | **5.281,65** | 16 | 2,7 notti |
+| Giugno | 8.938,91 | -2.360,87 | -222,49 | **6.355,55** | 22 | 3,1 notti |
+| Luglio | 12.002,00 | -2.431,60 | -354,98 | **9.215,42** | ~27 | — |
+| Agosto | — | — | — | in corso | — | — |
+| **TOTALE** | **26.385,91** | **-4.792,47** | **-740,82** | **20.852,62** | | |
+
+**Note correzioni:**
+- Giugno -2.360,87: rimborso Sarah Catarro (quasi full refund per incidente scarafaggi, tramite Airbnb resolution center)
+- Luglio -2.431,60: probabilmente relativo a cancellazioni (Soumia/Enrico - da verificare dettaglio)
 
 ---
 
@@ -669,17 +674,18 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 ### RIEPILOGO P&L — NUMERI ESATTI (screen Airbnb + screen Booking.com)
 *(affitto MAD 5.000/mese · pulizie 100 MAD/turno)*
 
-| Mese | Airbnb | Booking.com | **Revenue totale** | Affitto | Pulizie | **Utile** |
-|------|--------|-------------|-------------------|---------|---------|-----------|
+| Mese | Airbnb netto | Booking.com | **Revenue totale** | Affitto | Pulizie | **Utile** |
+|------|-------------|-------------|-------------------|---------|---------|-----------|
 | Maggio | 5.281,65 | 2.503,14 | **7.784,79** | -5.000 | -900 | **~1.885** |
 | Giugno | 6.355,55 | 952,19 | **7.307,74** | -5.000 | -800 | **~1.508** |
-| Luglio | 8.531,00 | TBD | **min 8.531** | -5.000 | -900 | **~2.631+** |
+| Luglio | **9.215,42** | TBD | **min 9.215** | -5.000 | -900 | **~3.315+** |
 | Agosto | 2.347,36+ | TBD | **in corso** | -5.000 | — | — |
-| **TOTALE (mag-lug)** | **20.168** | **3.455+** | **~23.623+** | **-15.000** | **-2.600** | **~6.024+** |
+| **TOTALE (mag-lug)** | **20.852,62** | **3.455,33+** | **~24.307+** | **-15.000** | **-2.600** | **~6.708+** |
 
 **Luglio dettagli confermati:** Aïssata MAD 3.036,60 (6n) · Moussa MAD 1.251,30 (3n) · Byron MAD 2.648,10 (6n)  
-**Agosto (5 ago):** MAD 2.347,36 già incassati · Ehfaz (10-14) + Rach (15-20) confermati · libero 21-31  
-*Utilities non incluse. Booking.com luglio (ospite 6-9 lug) pagamento ricevuto — importo da aggiungere.*
+**Agosto (5 ago):** MAD 2.347,36 incassati · Ehfaz 10-14 · Rach 15-20 · libero 21-31  
+**⚠️ Sarah cost reale:** oltre al MAD 300 volontario, Airbnb ha processato correzione -MAD 2.360,87 in giugno = costo totale incidente scarafaggi: **~MAD 2.661**  
+*Utilities non incluse. Booking.com luglio TBD.*
 
 ---
 
