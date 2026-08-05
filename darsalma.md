@@ -940,6 +940,27 @@ On espère vous revoir très bientôt à Dar Salma !
 
 ---
 
+## LEARNINGS REALI — COSA FUNZIONA E COSA NO (agosto 2026)
+
+**Cosa NON funziona come differenziatore:**
+- Il residence in sé non piace — estetica esterna non convincente
+- La piscina non fa effetto perché è piccola/poco curata — non vale come USP principale
+- Overselling della piscina → aspettativa alta → delusione → recensione bassa
+
+**Cosa funziona davvero:**
+- **Appartamento pulito, senza problemi interni** = la vera chiave delle recensioni 5 stelle
+- Accoglienza Badr (cioccolatini, disponibilità) = differenziatore umano
+- Prezzo corretto per il valore percepito
+
+**Decisioni strategiche (agosto 2026):**
+- Policy cancellazione → rimane FLESSIBILE (rating basso, alzarla peggiorerebbe le conversioni)
+- Prezzi → stabili finché rating non torna sopra 4,5★ → poi alzare gradualmente
+- Listing → ridimensionare la comunicazione sulla piscina, non metterla al centro
+- Focus operativo → pulizia impeccabile + zero problemi tecnici = priorità assoluta Badr
+- Foto copertina → tornare all'appartamento, non forzare la piscina
+
+---
+
 ## CONTENUTI E STORYTELLING
 
 **Direzione:** non il classico "Airbnb guru"
