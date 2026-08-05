@@ -2,9 +2,14 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 24 lug 2026
+## 📋 PROMEMORIA APERTI — aggiornato 5 ago 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
+
+### 🚨 URGENTE — Prima di Ehfaz (check-in 10 agosto = tra 5 giorni!)
+- [ ] **BADR: installare porta bagno** — Byron ★2 ha scritto pubblicamente "Il bagno non aveva porta" → structural fix obbligatorio prima del prossimo ospite
+- [ ] **BADR: aggiornare istruzioni check-in** — Byron: "Difficile da trovare", "Indicazioni non chiare" → riscrivere le istruzioni con punti di riferimento chiari (video walkthrough o foto step-by-step)
+- [ ] **Risposta pubblica Byron ★2** — da pubblicare entro 24h (testo pronto sotto)
 
 ### Da fare TU (input necessari)
 - [ ] **Dati pulizie maggio** — costo preciso per ogni turno (per P&L definitivo)
@@ -12,21 +17,24 @@
 - [ ] **Bollette precise** — importo reale mensile (luce + acqua)
 - [ ] **Internet** — costo mensile reale + pagare e verificare funzionamento
 - [ ] **Dettagli Ehfaz + 1** — date esatte e importo (prenotazione ~10 ago, TBD)
+- [ ] **Booking.com luglio** — importo esatto pagamento ricevuto 30 lug
 
 ### Da fare sul listing
 - [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
-- [x] **Piscina listing** — ✅ aggiornato "Pool open July–October" (piscina confermata da luglio 1)
+- [x] **Piscina listing** — ✅ aggiornato "Pool open July–October"
 - [x] **Luglio pricing** — ✅ ribassato -24% su Airbnb e Booking.com
 - [x] **Agosto pricing** — ✅ aggiornato Airbnb e Booking.com
-- [ ] **Policy cancellazione → MODERATA** ⚠️ URGENTE (3 canc. con flessibile: Sarah, Enrico, Soumia — perdita ~MAD 6.400+)
+- [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★ (non cambiare ora)
 - [ ] **Foto copertina** — cambiare con foto piscina (priorità luglio/agosto)
 - [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
-- [ ] **Riempire luglio** — Byron confermato Jul 15-21 · 24 notti ancora libere · monitorare
+- [ ] **Riempire agosto 21-31** — 11 notti libere da riempire
 
 ### Da fare recensioni
-- [ ] **Scrivere recensione ospite per Olivia** (testo pronto — chiedere in sessione)
+- [x] **Risposta pubblica Olivia** ✅ pubblicata ("piscina — ci teniamo a precisare che...")
+- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ ASSOLUTA (testo pronto nella sezione RECENSIONI)
+- [ ] **Risposta pubblica Zoé** (★4, molto positiva — da ringraziare)
+- [ ] **Risposta pubblica Hamel** (★4, "Bien")
 - [ ] **Scrivere recensione ospite per Ikram** (testo pronto — chiedere in sessione)
-- [ ] **Risposta pubblica recensione Olivia** ★4 (testo pronto — chiedere in sessione)
 
 ### ⚠️ Incidenti operativi
 - **10 giu — Scarafaggi (Sarah Catarro):** ospite ha trovato scarafaggi, ha lasciato l'appartamento. Rimborso MAD 300 inviato. Badr ha trattato gli scarichi. **Prima del prossimo ospite: disinfestazione professionale obbligatoria.**
@@ -407,12 +415,56 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 ---
 
 ### Olivia — ★★★★ (4 stelle)
-*Ha soggiornato ~2 notti (20–22 giu)*
-> Recensione 4 stelle. Nota negativa: piscina non disponibile durante il soggiorno.
+*Ha soggiornato 2 notti (20–22 giu) · Francese*
+> "L'alloggio era pulito, bello e accogliente. L'unica cosa è l'indisponibilità della piscina che era un criterio fondamentale per la nostra prenotazione. Ma nel complesso è stato top e fantastico. Lo consiglio."
 
-**Analisi:** piscina era ancora pre-apertura. Risposta pubblica e recensione ospite da pubblicare — testi pronti in sessione.
+**Analisi:** Positiva tranne piscina chiusa — aveva prenotato *per* la piscina. Rischio futuro: se la piscina è chiusa per manutenzione e non avvisiamo, rischiamo ★1. ✅ Risposta pubblica già pubblicata.
 
-**Totale aggiornato:** **7 recensioni** · media **4,57★** (5×5 stelle + 2×4 stelle)
+---
+
+### Zoé Martinez — ★★★★ (4 stelle)
+*Ha soggiornato 7 notti (03–10 lug) · Francese*
+> "Abbiamo trascorso un ottimo soggiorno. L'host è stato molto premuroso, sempre disponibile e con buoni consigli per scoprire la regione. La cucina era perfettamente equipaggiata. Il salotto tradizionale è splendido, con una vera e propria atmosfera marocchina, molto accogliente. L'alloggio è molto ben situato e il residence è bello e tranquillo. Il gestore — un signore calvo con i baffi — è semplicemente al top. Molto gentile, ci ha preparato dei deliziosi piccoli panini che abbiamo adorato. Raccomando vivamente questo alloggio."
+
+**Analisi:** Ottima. Badr esplicitamente lodato ("calvo con i baffi = al top"). Cucina e atmosfera i punti di forza. → da rispondere ringraziando. ⚠️ Risposta pubblica da scrivere.
+
+---
+
+### Hamel — ★★★★ (4 stelle)
+*Ha soggiornato 1 notte (14–15 lug)*
+> "Bien"
+
+**Analisi:** Breve, positiva. Check-in ★4. ⚠️ Risposta pubblica da scrivere.
+
+---
+
+### Byron Makasembo — ★★ (2 stelle) ← CAUSA PRINCIPALE DEL CALO RATING
+*Ha soggiornato 6 notti (15–21 lug) · Inglese*
+> "Il bagno non aveva porta, LOL. Buona fortuna anche per trovare il posto."
+
+**Valutazioni dettagliate:** Check-in ★1 → "Difficile da trovare" · "Indicazioni non chiare" · "Host non reattivo"
+
+**Analisi:** Tre problemi concreti e verificabili:
+1. **Bagno senza porta** — problema strutturale che Badr deve risolvere PRIMA di Ehfaz (10 ago)
+2. **Check-in difficile** — indicazioni insufficienti, ospite non ha trovato l'appartamento facilmente
+3. **Host non reattivo** — Badr non era disponibile durante il check-in
+
+Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ **Risposta pubblica URGENTE** — testo sotto.
+
+**RISPOSTA PUBBLICA BYRON (da pubblicare in inglese):**
+> "Hi Byron, thank you for your honest feedback. We sincerely apologize for the missing bathroom door — this is being fixed immediately and should never have been an issue for our guests. We also hear you on the check-in experience; we're rewriting our arrival instructions with clearer landmarks and step-by-step directions. We regret that our host wasn't reachable when you needed help. These are all fixable things and your review is helping us make Dar Salma better. We hope you'll give us another chance in the future."
+
+---
+
+**Totale aggiornato:** **11 recensioni** · media **4,27★**
+
+**Dashboard Qualità (2 ago 2026):**
+- Comunicazione: 33.3% (▼ -33.3%)
+- Check-in: 0.0% (▼ -66.7%) ← emergenza
+- Qualità/prezzo: 33.3% (▼ -33.3%)
+- Posizione: 33.3% (▲ +33.3%)
+
+**Distribuzione:** 5×★5 + 5×★4 + 1×★2 (Byron)
 
 ---
 
