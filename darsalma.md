@@ -203,6 +203,16 @@ Considerato investimento iniziale, non costo ricorrente.
 **Trend wishlist:** 27 → 34 → **142** — domanda latente molto alta.  
 **Alert cancellazioni 44,1%:** causato da policy flessibile — 3 cancellazioni (Sarah uscita anticipata, Enrico double booking, Soumia). Passare a policy MODERATA.
 
+### Snapshot 7 — aggiornamento 5 agosto 2026
+| Metrica | Valore |
+|---------|--------|
+| **Recensioni totali** | **11** (erano 7 a fine giugno) |
+| **Rating** | **4,27★** ⚠️ (era 4,57★ — sceso con 4 nuove recensioni avg ~3,75★) |
+| **Guadagni agosto** (parziale, 5 ago) | **MAD 2.347,36** |
+| Agosto calendario | Gap 7-9 · Ehfaz 10-14 · Rach 15-20 · libero 21-31 |
+
+**ALERT rating:** drop da 4,57 a 4,27 = le ultime 4 recensioni hanno mediato ~3,75★. Da investigare causa — scarafaggi? Badr? Pulizie? AC? Vedere testo delle nuove recensioni.
+
 ### Snapshot 6 — aggiornamento 23 luglio 2026
 | Metrica | Valore |
 |---------|--------|
@@ -535,11 +545,13 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 20 | Ospite iCal (TBD) | Booking.com? | 6 lug | 10 lug | 4 | — | ✅ Completata · blocco iCal Airbnb |
 | 21 | Ospite (TBD) | Airbnb | 12 lug | 15 lug | 3 | — | ✅ Completata |
 | 22 | Byron Makasembo | Airbnb | 15 lug | 21 lug | 6 | MAD 2.648,10 | ✅ Completata · 2 adulti |
-| 23 | Aïssata + 2 | Airbnb | 21 lug | 27 lug | 6 | — | ✅ In corso (uscita 27 lug) |
-| 24 | Moussa + 3 | Airbnb | ~27 lug | ~31 lug | ~4 | MAD 1.251,30 | 🔵 Confermato · payout futuro |
-| 25 | Ehfaz + 1 | Airbnb | ~10 ago | TBD | TBD | TBD | 🔵 date/importo da confermare |
-| 26 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Confermata |
-| 27 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2 adulti + 2 bambini · piscina in season |
+| 23 | Aïssata Coulibaly | Airbnb | 21 lug | 27 lug | 6 | MAD 3.036,60 | ✅ Completata · Parigi 🇫🇷 · +3 (Aya + Aminata) |
+| 24 | Moussa El Yattouti | Airbnb | ~28 lug | ~31 lug | 3 | MAD 1.251,30 | ✅ Completata · 1a+2b · flessibile |
+| 25 | Ospite (TBD) | — | 1 ago | ~5 ago | ~5 | — | ✅ In corso (5 ago) |
+| 26 | Ehfaz + 1 | Airbnb | 10 ago | 15 ago | 5 | — | 🔵 Confermato |
+| 27 | Rach... | Airbnb | 15 ago | ~21 ago | ~6 | — | 🔵 Confermato (NUOVO) |
+| 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Confermata |
+| 29 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2a+2b · piscina |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
@@ -661,12 +673,13 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 |------|--------|-------------|-------------------|---------|---------|-----------|
 | Maggio | 5.281,65 | 2.503,14 | **7.784,79** | -5.000 | -900 | **~1.885** |
 | Giugno | 6.355,55 | 952,19 | **7.307,74** | -5.000 | -800 | **~1.508** |
-| Luglio | 8.531,00 | TBD (arrivo 30 lug) | **min 8.531** | -5.000 | -700 | **~2.831+** |
-| **TOTALE** | **20.168,20** | **3.455,33+** | **~23.623+** | **-15.000** | **-2.400** | **~6.224+** |
+| Luglio | 8.531,00 | TBD | **min 8.531** | -5.000 | -900 | **~2.631+** |
+| Agosto | 2.347,36+ | TBD | **in corso** | -5.000 | — | — |
+| **TOTALE (mag-lug)** | **20.168** | **3.455+** | **~23.623+** | **-15.000** | **-2.600** | **~6.024+** |
 
-**Agosto (prenotato da Airbnb):** MAD 2.891,57 — quasi vuoto, da riempire urgente  
-**Prossimo pagamento Booking.com:** 30 lug 2026 (ospite 6-9 lug — importo TBD)  
-*Utilities (internet, luce, acqua) non incluse — aggiornare con importo mensile reale.*
+**Luglio dettagli confermati:** Aïssata MAD 3.036,60 (6n) · Moussa MAD 1.251,30 (3n) · Byron MAD 2.648,10 (6n)  
+**Agosto (5 ago):** MAD 2.347,36 già incassati · Ehfaz (10-14) + Rach (15-20) confermati · libero 21-31  
+*Utilities non incluse. Booking.com luglio (ospite 6-9 lug) pagamento ricevuto — importo da aggiungere.*
 
 ---
 
