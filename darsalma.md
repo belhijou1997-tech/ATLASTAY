@@ -9,7 +9,7 @@
 ### 🚨 URGENTE — Ehfaz check-in OGGI 10 agosto
 - [ ] **BADR: installare porta bagno** — Byron ★2 ha scritto pubblicamente "Il bagno non aveva porta" → structural fix obbligatorio OGGI
 - [ ] **BADR: riparare perdita d'acqua seconda camera** — Segnalato da Aïssata nel messaggio privato: "perdita d'acqua nella seconda camera da letto" → riparare prima che Ehfaz arrivi
-- [ ] **BADR: aggiornare istruzioni check-in** — Byron: "Difficile da trovare", "Indicazioni non chiare" → riscrivere con punti di riferimento chiari
+- [ ] **BADR: aggiornare istruzioni check-in** — Byron ★1 check-in + Aïssata ★3 posizione: "Difficile d'accès pour les taxis" → riscrivere con: coordinate GPS precise, nome punto di riferimento per taxista, suggerire Careem/inDrive, offrirsi di venire incontro all'ingresso
 - [ ] **Risposta pubblica Byron ★2** — PRIORITÀ ASSOLUTA (testo pronto nella sezione RECENSIONI)
 - [ ] **Risposta pubblica Aïssata ★4** — testo pronto sotto
 - [ ] **Risposta pubblica Aya ★5** — da ringraziare
@@ -473,11 +473,18 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 **Messaggio privato (visibile solo a host):** "Appartamento corretto a parte la perdita d'acqua nella seconda camera da letto e migliorare la descrizione della piscina in modo che i viaggiatori possano essere informati sugli orari."
 
-**Analisi — 2 problemi nuovi:**
-1. **Perdita d'acqua seconda camera** ← URGENTE, Badr deve riparare OGGI prima di Ehfaz
-2. **Orari piscina non dichiarati** — terzo ospite che si lamenta (dopo Olivia e implicitamente altri). Va aggiunto il testo sul listing con gli orari esatti
+**Valutazioni dettagliate:**
+- Check-in ★5 — "Orario di check-in flessibile" ✅
+- Pulizia ★4 — "Mobili e lenzuola puliti"
+- Accuratezza ★4 — "Corrispondeva alle foto" · "Offriva i servizi indicati"
+- Comunicazione ★5 ✅
+- Posizione ★3 — "Difficile d'accès pour les taxis" ← problema accesso
+- Rapporto qualità/prezzo ★4
 
-**Check-in:** ★5 (nessun problema di arrivo)
+**Analisi — 3 problemi identificati:**
+1. **Perdita d'acqua seconda camera** ← URGENTE, Badr deve riparare PRIMA di Ehfaz
+2. **Orari piscina non dichiarati** — 3° ospite che si lamenta (Olivia + Aïssata + implicitamente altri)
+3. **Posizione difficile per taxi (★3)** — "Difficile d'accès pour les taxis" → conferma pattern Byron. La zona è complicata strutturalmente. Fix: dare coordinate GPS precise nelle istruzioni + suggerire Careem/inDrive + Badr si offre di venire incontro all'ingresso del residence
 
 **RISPOSTA PUBBLICA AÏSSATA (in francese):**
 > "Merci beaucoup Aïssata pour votre retour détaillé. Nous sommes ravis que la localisation et le confort de l'appartement vous aient plu. Vous avez tout à fait raison concernant les horaires de la piscine — nous allons les ajouter immédiatement à notre annonce pour que tous les voyageurs soient informés à l'avance. Merci également pour votre message privé : la fuite d'eau a été réparée. Nous espérons pouvoir vous accueillir à nouveau à Dar Salma !"
