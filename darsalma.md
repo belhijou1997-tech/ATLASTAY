@@ -2,43 +2,52 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 5 ago 2026
+## 📋 PROMEMORIA APERTI — aggiornato 10 ago 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Prima di Ehfaz (check-in 10 agosto = tra 5 giorni!)
-- [ ] **BADR: installare porta bagno** — Byron ★2 ha scritto pubblicamente "Il bagno non aveva porta" → structural fix obbligatorio prima del prossimo ospite
-- [ ] **BADR: aggiornare istruzioni check-in** — Byron: "Difficile da trovare", "Indicazioni non chiare" → riscrivere le istruzioni con punti di riferimento chiari (video walkthrough o foto step-by-step)
-- [ ] **Risposta pubblica Byron ★2** — da pubblicare entro 24h (testo pronto sotto)
+### 🚨 URGENTE — Ehfaz check-in OGGI 10 agosto
+- [ ] **BADR: installare porta bagno** — Byron ★2 ha scritto pubblicamente "Il bagno non aveva porta" → structural fix obbligatorio OGGI
+- [ ] **BADR: riparare perdita d'acqua seconda camera** — Segnalato da Aïssata nel messaggio privato: "perdita d'acqua nella seconda camera da letto" → riparare prima che Ehfaz arrivi
+- [ ] **BADR: aggiornare istruzioni check-in** — Byron: "Difficile da trovare", "Indicazioni non chiare" → riscrivere con punti di riferimento chiari
+- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ ASSOLUTA (testo pronto nella sezione RECENSIONI)
+- [ ] **Risposta pubblica Aïssata ★4** — testo pronto sotto
+- [ ] **Risposta pubblica Aya ★5** — da ringraziare
+- [ ] **Risposta pubblica Juan Miguel ★4** — breve ringraziamento
 
-### Da fare TU (input necessari)
-- [ ] **Dati pulizie maggio** — costo preciso per ogni turno (per P&L definitivo)
-- [ ] **Dati pulizie giugno** — stessa cosa
-- [ ] **Bollette precise** — importo reale mensile (luce + acqua)
-- [ ] **Internet** — costo mensile reale + pagare e verificare funzionamento
-- [ ] **Dettagli Ehfaz + 1** — date esatte e importo (prenotazione ~10 ago, TBD)
-- [ ] **Booking.com luglio** — importo esatto pagamento ricevuto 30 lug
-
-### Da fare sul listing
+### Da fare sul listing (PROSSIMO STEP)
+- [ ] **Aggiungere orari piscina nella descrizione** — Aïssata + Olivia si sono lamentate degli orari non dichiarati. Inserire nel listing: "Shared pool — available [orari esatti da chiedere a Badr]" → chiedi a Badr gli orari esatti del condominio
 - [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
 - [x] **Piscina listing** — ✅ aggiornato "Pool open July–October"
 - [x] **Luglio pricing** — ✅ ribassato -24% su Airbnb e Booking.com
 - [x] **Agosto pricing** — ✅ aggiornato Airbnb e Booking.com
-- [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★ (non cambiare ora)
+- [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★
 - [ ] **Foto copertina** — cambiare con foto piscina (priorità luglio/agosto)
 - [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
 - [ ] **Riempire agosto 21-31** — 11 notti libere da riempire
 
+### Da fare TU (input necessari)
+- [ ] **Orari piscina condominio** — chiedere a Badr gli orari esatti di apertura/chiusura
+- [ ] **Dati pulizie maggio/giugno** — costo preciso per P&L definitivo
+- [ ] **Bollette precise** — importo reale mensile (luce + acqua)
+- [ ] **Internet** — costo mensile reale
+- [ ] **Dettagli Ehfaz** — importo esatto prenotazione
+- [ ] **Booking.com luglio** — importo esatto pagamento ricevuto 30 lug
+
 ### Da fare recensioni
-- [x] **Risposta pubblica Olivia** ✅ pubblicata ("piscina — ci teniamo a precisare che...")
-- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ ASSOLUTA (testo pronto nella sezione RECENSIONI)
-- [ ] **Risposta pubblica Zoé** (★4, molto positiva — da ringraziare)
-- [ ] **Risposta pubblica Hamel** (★4, "Bien")
+- [x] **Risposta pubblica Olivia** ✅ pubblicata
+- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ (testo pronto nella sezione RECENSIONI)
+- [ ] **Risposta pubblica Aïssata ★4** — testo pronto nella sezione RECENSIONI
+- [ ] **Risposta pubblica Aya ★5** — da ringraziare in francese
+- [ ] **Risposta pubblica Zoé ★4** — da ringraziare
+- [ ] **Risposta pubblica Hamel ★4** — breve
+- [ ] **Risposta pubblica Juan Miguel ★4** — breve (spagnolo/inglese)
 - [ ] **Scrivere recensione ospite per Ikram** (testo pronto — chiedere in sessione)
 
 ### ⚠️ Incidenti operativi
-- **10 giu — Scarafaggi (Sarah Catarro):** ospite ha trovato scarafaggi, ha lasciato l'appartamento. Rimborso MAD 300 inviato. Badr ha trattato gli scarichi. **Prima del prossimo ospite: disinfestazione professionale obbligatoria.**
-- **Lug — Double booking Enrico/Soumia:** iCal delay → Enrico (Booking Jul 3-8) e Soumia (Airbnb Jul 6-23) in overlap → Enrico cancellato su richiesta → Soumia poi cancellata autonomamente (policy flessibile) → perdita MAD 6.413,64
+- **10 giu — Scarafaggi (Sarah Catarro):** ospite ha trovato scarafaggi, ha lasciato l'appartamento. Rimborso MAD 300 inviato. Badr ha trattato gli scarichi. Prima del prossimo ospite: disinfestazione professionale.
+- **Lug — Double booking Enrico/Soumia:** iCal delay → perdita MAD 6.413,64
+- **Lug — Perdita d'acqua seconda camera:** segnalata da Aïssata (21-27 lug) nel messaggio privato. **Badr deve riparare OGGI prima di Ehfaz.**
 
 ### Note operative ricorrenti
 - Ogni prenotazione Booking.com → bloccare manualmente su Airbnb (iCal delay 1–2h)
@@ -456,15 +465,58 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 ---
 
-**Totale aggiornato:** **11 recensioni** · media **4,27★**
+---
 
-**Dashboard Qualità (2 ago 2026):**
+### Aïssata — ★★★★ (4 stelle)
+*Ha soggiornato 6 notti (21–27 lug) · Francese · Parigi FR*
+> "Ben posizionato, non molto lontano dai luoghi di interesse come la stazione ferroviaria, il centro città, il parco acquatico e il souk. Tuttavia, l'accesso alla piscina era complicato a causa della fascia oraria che non era menzionata nella descrizione, inoltre c'era una grande affluenza di bambini in acqua il che NON ci ha permesso di godercela."
+
+**Messaggio privato (visibile solo a host):** "Appartamento corretto a parte la perdita d'acqua nella seconda camera da letto e migliorare la descrizione della piscina in modo che i viaggiatori possano essere informati sugli orari."
+
+**Analisi — 2 problemi nuovi:**
+1. **Perdita d'acqua seconda camera** ← URGENTE, Badr deve riparare OGGI prima di Ehfaz
+2. **Orari piscina non dichiarati** — terzo ospite che si lamenta (dopo Olivia e implicitamente altri). Va aggiunto il testo sul listing con gli orari esatti
+
+**Check-in:** ★5 (nessun problema di arrivo)
+
+**RISPOSTA PUBBLICA AÏSSATA (in francese):**
+> "Merci beaucoup Aïssata pour votre retour détaillé. Nous sommes ravis que la localisation et le confort de l'appartement vous aient plu. Vous avez tout à fait raison concernant les horaires de la piscine — nous allons les ajouter immédiatement à notre annonce pour que tous les voyageurs soient informés à l'avance. Merci également pour votre message privé : la fuite d'eau a été réparée. Nous espérons pouvoir vous accueillir à nouveau à Dar Salma !"
+
+---
+
+### Aya — ★★★★★ (5 stelle)
+*Ha soggiornato (02–? ago) · Francese*
+> "Abbiamo trascorso un ottimo soggiorno in questo appartamento a Marrakech. Tutto era impeccabile: l'appartamento era molto pulito, confortevole e conforme alla descrizione. La comunicazione con l'host è stata ottima e tutto è andato alla perfezione. Grazie per la vostra accoglienza, consiglio questo appartamento senza esitazione!"
+
+**Messaggio privato:** "Badr è stato molto gentile, accogliente e sempre disponibile. La comunicazione è stata ottima e tutto è andato perfettamente bene. Grazie per la vostra accoglienza!"
+
+**Analisi:** ★5 piena. Badr lodato esplicitamente. Appartamento conforme alla descrizione. Nota positiva: questa recensione arriva subito dopo i problemi di Byron → Badr si è ripreso bene.
+
+**RISPOSTA PUBBLICA AYA (in francese):**
+> "Merci infiniment Aya, votre retour nous touche vraiment 🙏 Nous sommes si heureux que tout se soit passé à la perfection et que vous ayez apprécié l'appartement et l'accueil de Badr. C'est exactement ce que nous souhaitons offrir à chaque séjour. Revenez quand vous voulez à Dar Salma !"
+
+---
+
+### Juan Miguel — ★★★★ (4 stelle)
+*Ha soggiornato 2 notti (07–09 ago) · Spagnolo*
+> "Calidad precio bien" *(buon rapporto qualità/prezzo)*
+
+**Analisi:** Breve, positiva. ★4. Nessuna critica specifica.
+
+**RISPOSTA PUBBLICA JUAN MIGUEL:**
+> "¡Muchas gracias Juan Miguel! Nos alegra que hayas disfrutado de tu estancia y que hayas encontrado una buena relación calidad-precio. Esperamos verte de nuevo en Dar Salma 🙏"
+
+---
+
+**Totale aggiornato:** **14 recensioni** · media **~4,28★**
+
+**Dashboard Qualità (9 ago 2026):**
 - Comunicazione: 33.3% (▼ -33.3%)
-- Check-in: 0.0% (▼ -66.7%) ← emergenza
+- Check-in: 0.0% (▼ -66.7%) ← ancora emergenza (effetto Byron)
 - Qualità/prezzo: 33.3% (▼ -33.3%)
 - Posizione: 33.3% (▲ +33.3%)
 
-**Distribuzione:** 5×★5 + 5×★4 + 1×★2 (Byron)
+**Distribuzione:** 6×★5 + 7×★4 + 1×★2 (Byron)
 
 ---
 
