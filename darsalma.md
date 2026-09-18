@@ -6,11 +6,11 @@
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Tecnico (risolvere PRIMA di Alexandre, check-in 21 set)
-- [ ] **WiFi NON FUNZIONA** ← CRITICO — segnalato da Fatima E Imane (settembre). Listing promette "Fast WiFi". Se non risolto → rimborsi + penalità ranking. **Badr: chiamare provider internet OGGI.**
-- [ ] **Piscina non funzionante** — Imane (11 set): "piscina non era funzionante". È stagione aperta (lug-ott). Badr: verificare con il condominio.
-- [ ] **Luce cucina rotta** — Imane: "illuminazione cucina non funzionava". Cambiare bulbo/plafoniera.
-- [ ] **Forno e microonde** — Fatima: "mancano forno e microonde". Verificare se presenti o acquistare (~MAD 400 microonde base).
+### ✅ Problemi tecnici risolti (aggiornato 18 set 2026)
+- [x] **WiFi** — ora funzionante ✅
+- [x] **Piscina** — chiusa settembre per problemi tecnici del residence. **Rimossa dal listing** ✅
+- [x] **Forno e microonde** — non presenti. **Rimossi dal listing** (amenities aggiornate) ✅
+- [x] **Luce cucina** — riparata ✅
 
 ### ⚠️ ALERT AIRBNB (da monitorare)
 - Listing nel **"10% di alloggi meno apprezzati"** — alert pubblico visibile agli ospiti. Risolvere problemi tecnici + accumulare ★5 = uscire dall'alert.
@@ -40,8 +40,10 @@
 ### ⚠️ Incidenti operativi
 - **10 giu — Scarafaggi (Sarah):** rimborso MAD 300. Disinfestazione eseguita.
 - **Lug — Double booking Enrico/Soumia:** perdita MAD 6.413,64
-- **Set 2026 — WiFi non funzionante:** segnalato da Fatima (~4 set) e Imane (~11 set) → problema attivo ← da risolvere urgente
-- **Set 2026 — Piscina non funzionante:** Imane (~11 set) → verificare con condominio
+- **Set 2026 — WiFi non funzionante:** segnalato da Fatima + Imane → **risolto** ✅
+- **Set 2026 — Piscina chiusa:** problema tecnico del residence. Piscina rimossa dal listing. ✅
+- **Set 2026 — Forno/microonde:** non presenti → rimossi dal listing ✅
+- **Set 2026 — Luce cucina:** riparata ✅
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
 
 ### Note operative ricorrenti
