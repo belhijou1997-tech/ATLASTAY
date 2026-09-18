@@ -6,59 +6,43 @@
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🔴 OGGI — 18 settembre: Sana check-in
-- [ ] **BADR: check-in Sana** — prenotazione confermata 18-19 sett. Accoglienza standard.
+### 🚨 URGENTE — Tecnico (risolvere PRIMA di Alexandre, check-in 21 set)
+- [ ] **WiFi NON FUNZIONA** ← CRITICO — segnalato da Fatima E Imane (settembre). Listing promette "Fast WiFi". Se non risolto → rimborsi + penalità ranking. **Badr: chiamare provider internet OGGI.**
+- [ ] **Piscina non funzionante** — Imane (11 set): "piscina non era funzionante". È stagione aperta (lug-ott). Badr: verificare con il condominio.
+- [ ] **Luce cucina rotta** — Imane: "illuminazione cucina non funzionava". Cambiare bulbo/plafoniera.
+- [ ] **Forno e microonde** — Fatima: "mancano forno e microonde". Verificare se presenti o acquistare (~MAD 400 microonde base).
 
-### Da verificare (input mancanti da agosto-settembre)
-- [ ] **Agosto importo finale** — grafico mostra ~12.000 MAD lordo. Confermare importo esatto da report Airbnb
-- [ ] **Dettagli prenotazioni settembre** — importi esatti di: Fati... (2 sett), Iman... (4-6 sett), Beim... (14-16 sett), Sana (18-19 sett), Alexandre (21-24 sett)
-- [ ] **Booking.com agosto/settembre** — pagamenti ricevuti?
-- [ ] **Orari piscina condominio** — ancora da aggiungere al listing (ospiti ricorrenti lamentano)
-- [ ] **Bollette precise** — importo reale mensile (luce + acqua)
+### ⚠️ ALERT AIRBNB (da monitorare)
+- Listing nel **"10% di alloggi meno apprezzati"** — alert pubblico visibile agli ospiti. Risolvere problemi tecnici + accumulare ★5 = uscire dall'alert.
+
+### 🔴 OGGI — 18 set: Sana check-in
+- [ ] **BADR: accoglienza Sana** — assicurarsi che WiFi funzioni all'arrivo
 
 ### Da fare sul listing
-- [ ] **Aggiungere orari piscina nella descrizione** — Aïssata + Olivia lamentano orari non dichiarati
-- [x] **Piscina listing** — ✅ aggiornato "Pool open July–October"
-- [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★
-- [ ] **Foto copertina** — cambiare con foto piscina
-- [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
-- [ ] **Istruzioni check-in** — riscrivere con GPS + Careem/inDrive + Badr accoglienza attiva (Byron + Aïssata: zona difficile per taxi)
-- [ ] **Riempire settembre 25-30** — 6 notti ancora libere
+- [ ] **Aggiungere orari piscina** — 3 ospiti lamentano disponibilità non dichiarata
+- [ ] **Aggiornare servizi** — verificare forno/microonde e aggiornare lista amenities
+- [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★ (ora 4.45★)
+- [ ] **Istruzioni check-in** — riscrivere con GPS + Careem/inDrive (Byron + Aïssata: zona difficile taxi)
+- [ ] **Riempire settembre 25-30** — 6 notti libere
+- [ ] **Booking.com** — valutare riapertura per ottobre-novembre (0 booking ago-set)
 
 ### Da fare recensioni
 - [x] **Risposta pubblica Olivia** ✅
-- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ (testo nel file)
-- [ ] **Risposta pubblica Aïssata ★4** — testo nel file
-- [ ] **Risposta pubblica Aya ★5** — testo nel file
-- [ ] **Risposta pubblica Zoé ★4** — da ringraziare
-- [ ] **Risposta pubblica Hamel ★4** — breve
-- [ ] **Risposta pubblica Juan Miguel ★4** — testo nel file
+- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ (testo nella sezione RECENSIONI)
+- [ ] **Risposta pubblica Aïssata ★4** — testo nella sezione RECENSIONI
+- [ ] **Risposta pubblica Imane ★4** — testo nella sezione RECENSIONI (WiFi/piscina)
+- [ ] **Risposta pubblica Fatima ★4** — testo nella sezione RECENSIONI
+- [ ] **Risposta pubblica Aya, Zoé, Hamel, Juan Miguel, Amine, Rachelle, Nihad, Rayan** — ringraziare
+
+### Da fare TU (input necessari)
+- [ ] **Bollette precise** — importo reale mensile (luce + acqua + internet)
 
 ### ⚠️ Incidenti operativi
-- **10 giu — Scarafaggi (Sarah Catarro):** rimborso MAD 300. Disinfestazione eseguita.
+- **10 giu — Scarafaggi (Sarah):** rimborso MAD 300. Disinfestazione eseguita.
 - **Lug — Double booking Enrico/Soumia:** perdita MAD 6.413,64
-- **Lug — Perdita acqua 2a camera:** segnalata da Aïssata. Verificare se riparata da Badr.
-- [ ] **Dati pulizie maggio/giugno** — costo preciso per P&L definitivo
-- [ ] **Bollette precise** — importo reale mensile (luce + acqua)
-- [ ] **Internet** — costo mensile reale
-- [ ] **Dettagli Ehfaz** — importo esatto prenotazione
-- [x] **Booking.com luglio** — importo esatto pagamento ricevuto 30 lug (da confermare)
-- **Booking.com agosto/settembre: 0 prenotazioni** ← confermato dall'utente (18 set 2026)
-
-### Da fare recensioni
-- [x] **Risposta pubblica Olivia** ✅ pubblicata
-- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ (testo pronto nella sezione RECENSIONI)
-- [ ] **Risposta pubblica Aïssata ★4** — testo pronto nella sezione RECENSIONI
-- [ ] **Risposta pubblica Aya ★5** — da ringraziare in francese
-- [ ] **Risposta pubblica Zoé ★4** — da ringraziare
-- [ ] **Risposta pubblica Hamel ★4** — breve
-- [ ] **Risposta pubblica Juan Miguel ★4** — breve (spagnolo/inglese)
-- [ ] **Scrivere recensione ospite per Ikram** (testo pronto — chiedere in sessione)
-
-### ⚠️ Incidenti operativi
-- **10 giu — Scarafaggi (Sarah Catarro):** ospite ha trovato scarafaggi, ha lasciato l'appartamento. Rimborso MAD 300 inviato. Badr ha trattato gli scarichi. Prima del prossimo ospite: disinfestazione professionale.
-- **Lug — Double booking Enrico/Soumia:** iCal delay → perdita MAD 6.413,64
-- **Lug — Perdita d'acqua seconda camera:** segnalata da Aïssata (21-27 lug) nel messaggio privato. **Badr deve riparare OGGI prima di Ehfaz.**
+- **Set 2026 — WiFi non funzionante:** segnalato da Fatima (~4 set) e Imane (~11 set) → problema attivo ← da risolvere urgente
+- **Set 2026 — Piscina non funzionante:** Imane (~11 set) → verificare con condominio
+- [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
 
 ### Note operative ricorrenti
 - Ogni prenotazione Booking.com → bloccare manualmente su Airbnb (iCal delay 1–2h)
@@ -526,15 +510,65 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 ---
 
-**Totale aggiornato:** **14 recensioni** · media **~4,28★**
+### Rachelle — ★★★★★ (5 stelle)
+*Ha soggiornato agosto 2026*
+> Recensione ★5 ✅
 
-**Dashboard Qualità (9 ago 2026):**
-- Comunicazione: 33.3% (▼ -33.3%)
-- Check-in: 0.0% (▼ -66.7%) ← ancora emergenza (effetto Byron)
-- Qualità/prezzo: 33.3% (▼ -33.3%)
-- Posizione: 33.3% (▲ +33.3%)
+---
 
-**Distribuzione:** 6×★5 + 7×★4 + 1×★2 (Byron)
+### Nihad — ★★★★★ (5 stelle)
+*Ha soggiornato agosto 2026*
+> Recensione ★5 ✅
+
+---
+
+### Amine — ★★★★★ (5 stelle)
+*Ha soggiornato agosto 2026*
+> Recensione ★5 ✅
+
+---
+
+### Rayan — ★★★★★ (5 stelle)
+*Ha soggiornato agosto 2026*
+> Recensione ★5 ✅
+
+---
+
+### Fatima — ★★★★ (4 stelle)
+*Ha soggiornato ~4 set 2026 · Francese*
+> "Appartement magnifique, propre, calme, le staff irréprochable. Mancano solo un forno e un microonde e non c'è il wifi."
+
+**Valutazioni dettagliate (stimate):** Pulizia ★5 · Comunicazione ★5 · Posizione ★4 · Q/P ★4
+**Analisi — 2 problemi:**
+1. **WiFi non funzionante** ← CRITICO (confermato anche da Imane)
+2. **Forno e microonde mancanti** — Badr: verificare se presenti o acquistare
+
+⚠️ Risposta pubblica da scrivere.
+
+---
+
+### Imane — ★★★★ (4 stelle)
+*Ha soggiornato ~11 set 2026 · Italiana*
+> "Il Wi-Fi non funzionava affatto e non c'era rete, il che era piuttosto fastidioso. Anche la piscina non era funzionante durante il nostro soggiorno. L'illuminazione della cucina non funzionava."
+
+**Analisi — 3 problemi tecnici:**
+1. **WiFi non funzionante** ← CRITICO (stesso problema di Fatima, 2 ospiti consecutivi)
+2. **Piscina non funzionante** — settembre dovrebbe essere stagione aperta (lug-ott)
+3. **Luce cucina rotta** — cambiare bulbo/plafoniera prima di Alexandre (21 set)
+
+⚠️ Risposta pubblica da scrivere (riconoscere problemi, spiegare fix effettuati).
+
+---
+
+**Totale aggiornato:** **22 recensioni** · media **4,45★**
+
+**⚠️ ALERT AIRBNB:** Listing nel "10% di alloggi meno apprezzati" — warning visibile agli ospiti.
+
+**Dashboard qualità (18 set 2026) — valori stimati dal grafico:**
+- Rating: 4,45★ (migliorato da 4,27★ dopo 4×★5 di agosto)
+- Alert "meno apprezzati" attivo: causa = combinazione Byron ★2 + problemi tecnici settembre
+
+**Distribuzione:** 10×★5 + 11×★4 + 1×★2 (Byron)
 
 ---
 
@@ -671,10 +705,13 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 24 | Moussa El Yattouti | Airbnb | ~28 lug | ~31 lug | 3 | MAD 1.251,30 | ✅ Completata · 1a+2b · flessibile |
 | 25 | Ospite (TBD) | — | 1 ago | ~5 ago | ~5 | — | ✅ In corso (5 ago) |
 | 26 | Ehfaz + 1 | Airbnb | 10 ago | 15 ago | 5 | — | ✅ Completato |
-| 27 | Rach... | Airbnb | 15 ago | ~21 ago | ~6 | — | ✅ Completato |
+| 27 | Rachelle | Airbnb | 15 ago | ~21 ago | ~6 | — | ✅ Completato · ★5 |
+| 27b | Nihad | Airbnb | ~21 ago | ~26 ago | ~5 | — | ✅ Completato · ★5 (date da confermare) |
+| 27c | Amine | Airbnb | ~26 ago | ~30 ago | ~4 | — | ✅ Completato · ★5 (date da confermare) |
+| 27d | Rayan | Airbnb | ~30 ago | ~2 set | ~3 | — | ✅ Completato · ★5 (date da confermare) |
 | 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Completato |
-| 29 | Fati... | Airbnb | 2 set | ? | ? | TBD | 🔵 Da confermare dettagli |
-| 30 | Iman... | Airbnb | 4 set | 6 set | ~2 | TBD | 🔵 Da confermare dettagli |
+| 29 | Fatima | Airbnb | 2 set | ~4 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + no forno/microonde |
+| 30 | Imane | Airbnb | 4 set | 6 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + piscina KO + luce cucina KO |
 | 31 | Beim... | Airbnb | 14 set | ~16 set | ~2 | TBD | 🔵 Da confermare dettagli |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
 | 33 | Alexandre | Airbnb | 21 set | 24 set | ~3 | TBD | 🔵 Confermato |
