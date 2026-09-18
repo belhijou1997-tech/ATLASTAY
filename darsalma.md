@@ -728,19 +728,32 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ## PERFORMANCE ECONOMICA
 
-### Revenue Airbnb per mese — report dettagliato (5 ago 2026)
+### Revenue Airbnb per mese — report dettagliato (aggiornato 18 set 2026)
 
-| Mese | Lordo | Correzioni | Fee host (~3%) | **Netto host** | Notti | Soggiorno medio |
-|------|-------|-----------|----------------|----------------|-------|-----------------|
-| Maggio | 5.445,00 | 0,00 | -163,35 | **5.281,65** | 16 | 2,7 notti |
-| Giugno | 8.938,91 | -2.360,87 | -222,49 | **6.355,55** | 22 | 3,1 notti |
-| Luglio | 12.002,00 | -2.431,60 | -354,98 | **9.215,42** | ~27 | — |
-| Agosto | — | — | — | in corso | — | — |
-| **TOTALE** | **26.385,91** | **-4.792,47** | **-740,82** | **20.852,62** | | |
+| Mese | Lordo | Correzioni | Fee host (~3%) | **Netto host** | Notti | Note |
+|------|-------|-----------|----------------|----------------|-------|------|
+| Maggio | 5.445,00 | 0,00 | -163,35 | **5.281,65** | 16 | |
+| Giugno | 8.938,91 | -2.360,87 | -222,49 | **6.355,55** | 22 | correzioni = scarafaggi Sarah |
+| Luglio | 12.002,00 | -2.431,60 | -354,98 | **9.215,42** | ~27 | correzioni = Soumia/Enrico |
+| Agosto | 12.586,34 | -464,34 | -418,54 | **11.703,46** | — | ← RECORD · correzioni da verificare |
+| Settembre (parz.) | 3.825,00 | 0,00 | -259,86 | **3.565,14** | — | + MAD 1.980,40 future (Sana+Alexandre) |
+| **TOTALE** | **42.797,25** | **-5.256,81** | **-1.419,22** | **36.121,22** | | solo Airbnb, al 18/9 |
 
 **Note correzioni:**
-- Giugno -2.360,87: rimborso Sarah Catarro (quasi full refund per incidente scarafaggi, tramite Airbnb resolution center)
-- Luglio -2.431,60: probabilmente relativo a cancellazioni (Soumia/Enrico - da verificare dettaglio)
+- Giugno -2.360,87: rimborso Sarah Catarro (quasi full refund scarafaggi)
+- Luglio -2.431,60: cancellazioni Soumia/Enrico (double booking)
+- Agosto -464,34: causa da verificare (piccolo rimborso ospite?)
+
+### Snapshot 8 — aggiornamento 18 settembre 2026
+| Metrica | Valore |
+|---------|--------|
+| Recensioni totali Airbnb | 14 |
+| Rating Airbnb | ~4,28★ |
+| Netto Airbnb cumulativo (mag–set parz.) | MAD 36.121,22 |
+| Agosto netto | MAD 11.703,46 (record) |
+| Settembre proiettato netto | ~MAD 5.285 |
+| Prenotazioni attive settembre | 5 (Fati, Iman, Beim, Sana, Alexandre) |
+| Notti libere settembre rimanenti | 25-30 set (6 notti) |
 
 ---
 
