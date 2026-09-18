@@ -42,7 +42,8 @@
 - [ ] **Bollette precise** — importo reale mensile (luce + acqua)
 - [ ] **Internet** — costo mensile reale
 - [ ] **Dettagli Ehfaz** — importo esatto prenotazione
-- [ ] **Booking.com luglio** — importo esatto pagamento ricevuto 30 lug
+- [x] **Booking.com luglio** — importo esatto pagamento ricevuto 30 lug (da confermare)
+- **Booking.com agosto/settembre: 0 prenotazioni** ← confermato dall'utente (18 set 2026)
 
 ### Da fare recensioni
 - [x] **Risposta pubblica Olivia** ✅ pubblicata
