@@ -2,32 +2,42 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 10 ago 2026
+## 📋 PROMEMORIA APERTI — aggiornato 18 set 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Ehfaz check-in OGGI 10 agosto
-- [ ] **BADR: installare porta bagno** — Byron ★2 ha scritto pubblicamente "Il bagno non aveva porta" → structural fix obbligatorio OGGI
-- [ ] **BADR: riparare perdita d'acqua seconda camera** — Segnalato da Aïssata nel messaggio privato: "perdita d'acqua nella seconda camera da letto" → riparare prima che Ehfaz arrivi
-- [ ] **BADR: aggiornare istruzioni check-in** — Byron ★1 check-in + Aïssata ★3 posizione: "Difficile d'accès pour les taxis" → riscrivere con: coordinate GPS precise, nome punto di riferimento per taxista, suggerire Careem/inDrive, offrirsi di venire incontro all'ingresso
-- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ ASSOLUTA (testo pronto nella sezione RECENSIONI)
-- [ ] **Risposta pubblica Aïssata ★4** — testo pronto sotto
-- [ ] **Risposta pubblica Aya ★5** — da ringraziare
-- [ ] **Risposta pubblica Juan Miguel ★4** — breve ringraziamento
+### 🔴 OGGI — 18 settembre: Sana check-in
+- [ ] **BADR: check-in Sana** — prenotazione confermata 18-19 sett. Accoglienza standard.
 
-### Da fare sul listing (PROSSIMO STEP)
-- [ ] **Aggiungere orari piscina nella descrizione** — Aïssata + Olivia si sono lamentate degli orari non dichiarati. Inserire nel listing: "Shared pool — available [orari esatti da chiedere a Badr]" → chiedi a Badr gli orari esatti del condominio
-- [x] **Shuhrat** — ✅ confermato, 29 giu–1 lug, MAD 630,50
+### Da verificare (input mancanti da agosto-settembre)
+- [ ] **Agosto importo finale** — grafico mostra ~12.000 MAD lordo. Confermare importo esatto da report Airbnb
+- [ ] **Dettagli prenotazioni settembre** — importi esatti di: Fati... (2 sett), Iman... (4-6 sett), Beim... (14-16 sett), Sana (18-19 sett), Alexandre (21-24 sett)
+- [ ] **Booking.com agosto/settembre** — pagamenti ricevuti?
+- [ ] **Orari piscina condominio** — ancora da aggiungere al listing (ospiti ricorrenti lamentano)
+- [ ] **Bollette precise** — importo reale mensile (luce + acqua)
+
+### Da fare sul listing
+- [ ] **Aggiungere orari piscina nella descrizione** — Aïssata + Olivia lamentano orari non dichiarati
 - [x] **Piscina listing** — ✅ aggiornato "Pool open July–October"
-- [x] **Luglio pricing** — ✅ ribassato -24% su Airbnb e Booking.com
-- [x] **Agosto pricing** — ✅ aggiornato Airbnb e Booking.com
 - [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★
-- [ ] **Foto copertina** — cambiare con foto piscina (priorità luglio/agosto)
+- [ ] **Foto copertina** — cambiare con foto piscina
 - [ ] **Descrizione** — aggiungere versione francese (Francia = 21% mercato)
-- [ ] **Riempire agosto 21-31** — 11 notti libere da riempire
+- [ ] **Istruzioni check-in** — riscrivere con GPS + Careem/inDrive + Badr accoglienza attiva (Byron + Aïssata: zona difficile per taxi)
+- [ ] **Riempire settembre 25-30** — 6 notti ancora libere
 
-### Da fare TU (input necessari)
-- [ ] **Orari piscina condominio** — chiedere a Badr gli orari esatti di apertura/chiusura
+### Da fare recensioni
+- [x] **Risposta pubblica Olivia** ✅
+- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ (testo nel file)
+- [ ] **Risposta pubblica Aïssata ★4** — testo nel file
+- [ ] **Risposta pubblica Aya ★5** — testo nel file
+- [ ] **Risposta pubblica Zoé ★4** — da ringraziare
+- [ ] **Risposta pubblica Hamel ★4** — breve
+- [ ] **Risposta pubblica Juan Miguel ★4** — testo nel file
+
+### ⚠️ Incidenti operativi
+- **10 giu — Scarafaggi (Sarah Catarro):** rimborso MAD 300. Disinfestazione eseguita.
+- **Lug — Double booking Enrico/Soumia:** perdita MAD 6.413,64
+- **Lug — Perdita acqua 2a camera:** segnalata da Aïssata. Verificare se riparata da Badr.
 - [ ] **Dati pulizie maggio/giugno** — costo preciso per P&L definitivo
 - [ ] **Bollette precise** — importo reale mensile (luce + acqua)
 - [ ] **Internet** — costo mensile reale
@@ -659,10 +669,32 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 23 | Aïssata Coulibaly | Airbnb | 21 lug | 27 lug | 6 | MAD 3.036,60 | ✅ Completata · Parigi 🇫🇷 · +3 (Aya + Aminata) |
 | 24 | Moussa El Yattouti | Airbnb | ~28 lug | ~31 lug | 3 | MAD 1.251,30 | ✅ Completata · 1a+2b · flessibile |
 | 25 | Ospite (TBD) | — | 1 ago | ~5 ago | ~5 | — | ✅ In corso (5 ago) |
-| 26 | Ehfaz + 1 | Airbnb | 10 ago | 15 ago | 5 | — | 🔵 Confermato |
-| 27 | Rach... | Airbnb | 15 ago | ~21 ago | ~6 | — | 🔵 Confermato (NUOVO) |
-| 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Confermata |
-| 29 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2a+2b · piscina |
+| 26 | Ehfaz + 1 | Airbnb | 10 ago | 15 ago | 5 | — | ✅ Completato |
+| 27 | Rach... | Airbnb | 15 ago | ~21 ago | ~6 | — | ✅ Completato |
+| 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Completato |
+| 29 | Fati... | Airbnb | 2 set | ? | ? | TBD | 🔵 Da confermare dettagli |
+| 30 | Iman... | Airbnb | 4 set | 6 set | ~2 | TBD | 🔵 Da confermare dettagli |
+| 31 | Beim... | Airbnb | 14 set | ~16 set | ~2 | TBD | 🔵 Da confermare dettagli |
+| 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
+| 33 | Alexandre | Airbnb | 21 set | 24 set | ~3 | TBD | 🔵 Confermato |
+| 34 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2a+2b · piscina |
+
+### Calendario settembre 2026 (da screenshot 18/9)
+| Date | Ospite | Note |
+|------|--------|------|
+| 1 set | — | MAD 360 (libero) |
+| 2-3 set | **Fati...** | Booking in corso |
+| 4-6 set | **Iman...** | Booking in corso |
+| 7-9 set | — | Liberi |
+| 10 set | Bloccato | — |
+| 11 set | — | MAD 480 (libero) |
+| 12-13 set | Bloccati | — |
+| 14-16 set | **Beim...** | Booking in corso |
+| 16-17 set | — | MAD 450 |
+| 18-19 set | **Sana...** | Check-in OGGI |
+| 20 set | Bloccato | — |
+| 21-24 set | **Alexandre** | Confermato |
+| 25-30 set | — | Liberi (MAD 360) · DA RIEMPIRE |
 
 ### Calendario giugno — stato aggiornato (22 mag 2026)
 | Date | Stato | Prezzo/note |
