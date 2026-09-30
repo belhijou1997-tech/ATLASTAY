@@ -2,29 +2,24 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 18 set 2026
+## 📋 PROMEMORIA APERTI — aggiornato 30 set 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### ✅ Problemi tecnici risolti (aggiornato 18 set 2026)
-- [x] **WiFi** — ora funzionante ✅
-- [x] **Piscina** — chiusa settembre per problemi tecnici del residence. **Rimossa dal listing** ✅
-- [x] **Forno e microonde** — non presenti. **Rimossi dal listing** (amenities aggiornate) ✅
-- [x] **Luce cucina** — riparata ✅
+### 🚨 URGENTE — Ottobre completamente vuoto
+- [ ] **Riempire ottobre** — calendario 0 prenotazioni confermato da screenshot 30/9. Solo Mickaël 13-20 ott già noto. Prezzi attuali: MAD 342–450/notte. **Azione immediata: aprire Booking.com, promozioni, abbassare prezzo per riempire.**
+- [ ] **Risolvere alert "problemi annunci"** — Airbnb segnala ancora problemi. Aprire app → Annunci → esaminare e correggere.
 
-### ⚠️ ALERT AIRBNB (da monitorare)
-- Listing nel **"10% di alloggi meno apprezzati"** — alert pubblico visibile agli ospiti. Risolvere problemi tecnici + accumulare ★5 = uscire dall'alert.
+### ✅ Problemi tecnici risolti (18 set 2026)
+- [x] WiFi funzionante · Piscina rimossa dal listing · Forno/microonde rimossi · Luce cucina riparata
 
-### 🔴 OGGI — 18 set: Sana check-in
-- [ ] **BADR: accoglienza Sana** — assicurarsi che WiFi funzioni all'arrivo
+### ⚠️ ALERT AIRBNB
+- "Esamina i problemi nei tuoi annunci — abbiamo rilevato diversi problemi" — ancora attivo al 30/9
 
 ### Da fare sul listing
-- [ ] **Aggiungere orari piscina** — 3 ospiti lamentano disponibilità non dichiarata
-- [ ] **Aggiornare servizi** — verificare forno/microonde e aggiornare lista amenities
-- [ ] **Policy cancellazione** — DECISIONE: tenere FLESSIBILE finché rating < 4.5★ (ora 4.45★)
-- [ ] **Istruzioni check-in** — riscrivere con GPS + Careem/inDrive (Byron + Aïssata: zona difficile taxi)
-- [ ] **Riempire settembre 25-30** — 6 notti libere
-- [ ] **Booking.com** — valutare riapertura per ottobre-novembre (0 booking ago-set)
+- [ ] **Istruzioni check-in** — riscrivere con GPS + Careem/inDrive
+- [ ] **Booking.com** — riaprire per ottobre (urgente: ottobre è vuoto)
+- [ ] **Policy cancellazione** — ora rating 4,5★ (24 rec.) → valutare passaggio a MODERATA
 
 ### Da fare recensioni
 - [x] **Risposta pubblica Olivia** ✅
@@ -562,15 +557,15 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 ---
 
-**Totale aggiornato:** **22 recensioni** · media **4,45★**
+**Totale aggiornato:** **24 recensioni** · media **4,5★** (da dashboard Airbnb 30 set 2026)
 
-**⚠️ ALERT AIRBNB:** Listing nel "10% di alloggi meno apprezzati" — warning visibile agli ospiti.
+**⚠️ ALERT AIRBNB:** "Esamina i problemi nei tuoi annunci" — ancora attivo al 30/9.
 
-**Dashboard qualità (18 set 2026) — valori stimati dal grafico:**
-- Rating: 4,45★ (migliorato da 4,27★ dopo 4×★5 di agosto)
-- Alert "meno apprezzati" attivo: causa = combinazione Byron ★2 + problemi tecnici settembre
+**Dashboard (30 set 2026):**
+- Rating: **4,5★** su 24 recensioni (migliorato da 4,45★/22 rec. del 18/9)
+- Settembre revenue: **6.835,67 MAD** lordo (da schermata guadagni)
 
-**Distribuzione:** 10×★5 + 11×★4 + 1×★2 (Byron)
+**Distribuzione stimata:** 12×★5 + 11×★4 + 1×★2 (Byron)
 
 ---
 
@@ -716,8 +711,9 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 30 | Imane | Airbnb | 4 set | 6 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + piscina KO + luce cucina KO |
 | 31 | Beim... | Airbnb | 14 set | ~16 set | ~2 | TBD | 🔵 Da confermare dettagli |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
-| 33 | Alexandre | Airbnb | 21 set | 24 set | ~3 | TBD | 🔵 Confermato |
-| 34 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2a+2b · piscina |
+| 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ Completato |
+| 33b | Ospite (TBD) | Airbnb | 26 set | ? | ? | TBD | 🔵 Da identificare — visibile calendario 30/9 |
+| 34 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2a+2b |
 
 ### Calendario settembre 2026 (da screenshot 18/9)
 | Date | Ospite | Note |
@@ -776,7 +772,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | Giugno | 8.938,91 | -2.360,87 | -222,49 | **6.355,55** | 22 | correzioni = scarafaggi Sarah |
 | Luglio | 12.002,00 | -2.431,60 | -354,98 | **9.215,42** | ~27 | correzioni = Soumia/Enrico |
 | Agosto | 12.586,34 | -464,34 | -418,54 | **11.703,46** | — | ← RECORD · correzioni da verificare |
-| Settembre (parz.) | 3.825,00 | 0,00 | -259,86 | **3.565,14** | — | + MAD 1.980,40 future (Sana+Alexandre) |
+| Settembre | — | 0,00 | — | **6.835,67** | — | Confermato da dashboard Airbnb 30/9 (lordo) |
 | **TOTALE** | **42.797,25** | **-5.256,81** | **-1.419,22** | **36.121,22** | | solo Airbnb, al 18/9 |
 
 **Note correzioni:**
@@ -794,6 +790,16 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | Settembre proiettato netto | ~MAD 5.285 |
 | Prenotazioni attive settembre | 5 (Fati, Iman, Beim, Sana, Alexandre) |
 | Notti libere settembre rimanenti | 25-30 set (6 notti) |
+
+### Snapshot 9 — aggiornamento 30 settembre 2026
+| Metrica | Valore |
+|---------|--------|
+| Recensioni totali Airbnb | **24** |
+| Rating Airbnb | **4,5★** |
+| Settembre revenue lordo | **MAD 6.835,67** |
+| Ottobre prenotazioni confermate | 1 (Mickaël 13-20 ott) |
+| Ottobre disponibile | quasi tutto libero ← urgente riempire |
+| Alert Airbnb | "Esamina i problemi nei tuoi annunci" attivo |
 
 ---
 
