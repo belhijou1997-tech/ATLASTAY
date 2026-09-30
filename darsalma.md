@@ -37,7 +37,7 @@
 - **Lug — Double booking Enrico/Soumia:** perdita MAD 6.413,64
 - **15-21 lug — Byron (HMT5CNRRQA):** ★2, ★1 comunicazione/check-in/accuratezza, "servizio essenziale mancante" (bagno senza porta)
 - **20-21 lug — HMPPH8FN3X:** host irraggiungibile al check-in + cancellazione entro 48h ← penalità ranking
-- **29-31 ago — HMHD8D52DN:** ⚠️ **"L'host ha spinto l'ospite a cancellare"** ← GRAVE, violazione Airbnb. Prenotazione sconosciuta. Chiedere a Badr cosa è successo.
+- **29-31 ago — HMHD8D52DN:** ⚠️ **"L'host ha spinto l'ospite a cancellare"** ← violazione Airbnb. Causa: cleaner non si è presentata, appartamento non pronto, Badr ha chiesto all'ospite di cancellare. **Regola futura: se appartamento non pronto → HOST cancella da app (non l'ospite). Serve cleaner di backup.**
 - **2-4 set — Fatima (HMRJN8ZKBK):** check-in ★2 "ho dovuto aspettare"
 - **26-28 set — HMTHH2PFY5:** WiFi di nuovo non funzionante ← ricaduta. Ospite del 26 set.
 - **Set 2026 — Piscina chiusa:** problema tecnico del residence. Rimossa dal listing ✅
