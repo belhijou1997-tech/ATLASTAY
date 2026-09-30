@@ -32,14 +32,20 @@
 ### Da fare TU (input necessari)
 - [ ] **Bollette precise** — importo reale mensile (luce + acqua + internet)
 
-### ⚠️ Incidenti operativi
+### ⚠️ Incidenti operativi (storico Airbnb — permanenti)
 - **10 giu — Scarafaggi (Sarah):** rimborso MAD 300. Disinfestazione eseguita.
 - **Lug — Double booking Enrico/Soumia:** perdita MAD 6.413,64
-- **Set 2026 — WiFi non funzionante:** segnalato da Fatima + Imane → **risolto** ✅
-- **Set 2026 — Piscina chiusa:** problema tecnico del residence. Piscina rimossa dal listing. ✅
+- **15-21 lug — Byron (HMT5CNRRQA):** ★2, ★1 comunicazione/check-in/accuratezza, "servizio essenziale mancante" (bagno senza porta)
+- **20-21 lug — HMPPH8FN3X:** host irraggiungibile al check-in + cancellazione entro 48h ← penalità ranking
+- **29-31 ago — HMHD8D52DN:** ⚠️ **"L'host ha spinto l'ospite a cancellare"** ← GRAVE, violazione Airbnb. Prenotazione sconosciuta. Chiedere a Badr cosa è successo.
+- **2-4 set — Fatima (HMRJN8ZKBK):** check-in ★2 "ho dovuto aspettare"
+- **26-28 set — HMTHH2PFY5:** WiFi di nuovo non funzionante ← ricaduta. Ospite del 26 set.
+- **Set 2026 — Piscina chiusa:** problema tecnico del residence. Rimossa dal listing ✅
 - **Set 2026 — Forno/microonde:** non presenti → rimossi dal listing ✅
 - **Set 2026 — Luce cucina:** riparata ✅
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
+
+**Nota strategica (30 set):** questi incidenti sono permanenti nel sistema Airbnb e spiegano perché l'alert "problemi annunci" non si cancella. Un nuovo listing riparte senza questo storico — ma se i comportamenti operativi (Badr irraggiungibile, WiFi instabile, cancellazioni forzate) non cambiano, il nuovo listing accumula gli stessi problemi.
 
 ### Note operative ricorrenti
 - Ogni prenotazione Booking.com → bloccare manualmente su Airbnb (iCal delay 1–2h)
