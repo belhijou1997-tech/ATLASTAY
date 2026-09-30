@@ -879,21 +879,47 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 
 ---
 
-### RIEPILOGO P&L — NUMERI ESATTI (screen Airbnb + screen Booking.com)
-*(affitto MAD 5.000/mese · pulizie 100 MAD/turno)*
+### RIEPILOGO P&L — CONSUNTIVO MAGGIO–SETTEMBRE 2026
+*(aggiornato 30 set 2026 · affitto MAD 5.000/mese · pulizie ~100 MAD/turno · utilities ~5.000 MAD totali)*
 
-| Mese | Airbnb netto | Booking.com | **Revenue totale** | Affitto | Pulizie | **Utile** |
-|------|-------------|-------------|-------------------|---------|---------|-----------|
-| Maggio | 5.281,65 | 2.503,14 | **7.784,79** | -5.000 | -900 | **~1.885** |
-| Giugno | 6.355,55 | 952,19 | **7.307,74** | -5.000 | -800 | **~1.508** |
-| Luglio | **9.215,42** | TBD | **min 9.215** | -5.000 | -900 | **~3.315+** |
-| Agosto | 2.347,36+ | TBD | **in corso** | -5.000 | — | — |
-| **TOTALE (mag-lug)** | **20.852,62** | **3.455,33+** | **~24.307+** | **-15.000** | **-2.600** | **~6.708+** |
+#### Entrate (netto dopo fee piattaforme e rimborsi)
+| Mese | Airbnb | Booking.com | **Revenue totale** |
+|------|--------|-------------|-------------------|
+| Maggio | 5.281,65 | 2.503,14 | **7.784,79** |
+| Giugno | 6.355,55 | 952,19 | **7.307,74** |
+| Luglio | 9.215,42 | 0 | **9.215,42** |
+| Agosto | 11.703,46 | 0 | **11.703,46** |
+| Settembre | 6.646,77 | 0 | **6.646,77** |
+| **TOTALE** | **39.202,85** | **3.455,33** | **42.658,18** |
 
-**Luglio dettagli confermati:** Aïssata MAD 3.036,60 (6n) · Moussa MAD 1.251,30 (3n) · Byron MAD 2.648,10 (6n)  
-**Agosto (5 ago):** MAD 2.347,36 incassati · Ehfaz 10-14 · Rach 15-20 · libero 21-31  
-**⚠️ Sarah cost reale:** oltre al MAD 300 volontario, Airbnb ha processato correzione -MAD 2.360,87 in giugno = costo totale incidente scarafaggi: **~MAD 2.661**  
-*Utilities non incluse. Booking.com luglio TBD.*
+#### Uscite operative (mag–set)
+| Voce | Importo |
+|------|---------|
+| Affitto (5.000 × 5 mesi) | -25.000,00 |
+| Utilities luce/acqua/internet | ~-5.000,00 |
+| Pulizie (~35 turni × 100 MAD) | ~-3.500,00 |
+| Rimborso scarafaggi Sarah | -300,00 |
+| **TOTALE USCITE OPERATIVE** | **~-33.800,00** |
+
+#### Risultato
+| | MAD |
+|---|---|
+| Entrate totali | 42.658 |
+| Uscite operative | -33.800 |
+| **Utile operativo 5 mesi** | **~8.858** |
+| Setup iniziale (investimento una tantum) | -4.050 |
+| **Utile netto totale (mag–set)** | **~4.808 MAD (~€440)** |
+
+#### Analisi per mese (utile operativo)
+| Mese | Revenue | Uscite | **Utile mese** |
+|------|---------|--------|----------------|
+| Maggio | 7.784,79 | ~6.900 | **~885** |
+| Giugno | 7.307,74 | ~6.800 | **~508** ← impatto scarafaggi |
+| Luglio | 9.215,42 | ~6.900 | **~2.315** ← impatto double booking (-6.413 potenziale perso) |
+| Agosto | 11.703,46 | ~6.600 | **~5.103** ← RECORD |
+| Settembre | 6.646,77 | ~6.600 | **~47** ← quasi in pareggio |
+
+**Conclusione:** il modello funziona in alta stagione (ago = 5.100 MAD netto). In bassa stagione e con incidenti operativi il margine crolla. Potenziale perso per incidenti: ~8.700 MAD (double booking + scarafaggi + cancellazione ago forzata).
 
 ---
 
