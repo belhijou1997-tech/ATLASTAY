@@ -241,6 +241,7 @@ Pool: the residence has a shared pool [add: currently seasonal / available May�
 ✗ No parties or events
 ✗ No pets
 ✗ Quiet hours: 22:00–08:00
+✗ Always turn off the air conditioning when leaving the apartment — even for short outings. Leaving the A/C running while the apartment is empty will result in an additional charge.
 ```
 
 ---
