@@ -8,8 +8,10 @@
 
 ### 🚨 URGENTE — Azioni da fare ADESSO (3 ott 2026)
 - [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · "Richiesta di risarcimento a carico di Beimer" IN CORSO · verificare importo + status
-- [ ] **Scrivi recensione per Ahmed** → entro 9 giorni (scade ~12 ott) · lasciare ★5 se soggiorno ok
-- [ ] **Scrivi recensione per Marouane** → entro 13 giorni (scade ~16 ott) · lasciare ★5 se soggiorno ok
+- [ ] **Scrivi recensione per Ahmed** → entro 9 giorni (scade ~12 ott) · testo pronto ✍️ → "Ahmed was a wonderful guest — respectful, communicative, and left the apartment in perfect condition. We would be happy to host him again at Dar Salma anytime. Highly recommended! 🌟"
+- [ ] **Manda messaggio ad Ahmed** per chiedere ★5 → "Salam Ahmed 🙏 J'espère que votre séjour à Dar Salma s'est bien passé... si vous pouvez laisser un avis sur Airbnb ça nous aiderait vraiment 🌟 On vous laisse un très bel avis de notre côté. Merci !"
+- [ ] **Scrivi recensione per Marouane** → entro 13 giorni (scade ~16 ott) · testo pronto ✍️ → "Marouane was a great guest — easy communication, respectful of the space, and no issues whatsoever. We'd love to welcome him back to Dar Salma. Highly recommended! 🌟"
+- [ ] **Manda messaggio a Marouane** per chiedere ★5 → "Salam Marouane 🙏 Merci pour votre séjour à Dar Salma ! Si vous pouvez prendre 2 minutes pour laisser un avis sur Airbnb, ça nous aiderait vraiment beaucoup 🌟 On vous laisse également un très bel avis. Merci !"
 - [ ] **Aggiungi istruzioni check-in sul listing** — Airbnb segnala difficoltà su Beimer E Fatima
 
 ### 🚨 URGENTE — Ottobre quasi vuoto
