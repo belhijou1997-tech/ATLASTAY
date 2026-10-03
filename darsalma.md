@@ -244,28 +244,29 @@ Hi [guest name]! Welcome to Dar Salma 🌹
 
 Here's everything you need to arrive smoothly.
 
-📍 ADDRESS & GPS
-[Indirizzo completo]
-GPS: [lat, lon]
-→ Save this GPS link: [Google Maps link]
+📍 ADDRESS & LOCATION
+Résidence Salma — in front of the pharmacy
+→ Google Maps: https://maps.app.goo.gl/P8YT2QGFf1TqJLtX8
 
-Share the GPS coordinates directly with your Careem or inDrive driver — it's the easiest way to reach us. Avoid grand taxis for this route as the building can be hard to describe by landmark.
+Open the link and share it directly with your Careem or inDrive driver — easiest way to reach us. We recommend these apps over grand taxis, as the building can be tricky to describe by landmark alone.
 
-🔑 ARRIVAL
-When you reach the building:
-1. Ring intercom [numero appartamento]
-   OR WhatsApp Badr: +39 388 108 0923 — he will come to meet you at the entrance.
-2. Take the elevator to floor 1.
-3. Our door is [sinistra/destra] when you exit.
-4. Enter code [CODICE] on the keypad / Badr will hand you the keys.
+🎥 ENTRANCE VIDEO
+Badr will send you a short video showing exactly how to enter the building — watch it before you arrive so check-in is seamless.
+
+If you have any difficulty finding us, just WhatsApp Badr at +39 388 108 0923 — he will come to meet you at the entrance immediately.
+
+🔑 ARRIVAL STEPS
+1. Open the Maps link above and navigate to Résidence Salma (the pharmacy landmark helps — look for it)
+2. Watch the entrance video Badr sent you
+3. WhatsApp Badr on arrival: +39 388 108 0923 — he'll welcome you and hand over the keys
 
 📶 WIFI
 Network: La_Fibre_dOrange_F1P9
 Password: 3QSFTZERSDEUXFOYG
-(A QR code card is on the table — just scan it with your camera)
+(A Wi-Fi card with QR code is on the table inside — just point your camera at it to connect instantly)
 
 🕐 TIMES
-Check-in: from 15:00
+Check-in: from 15:00 (message us if you need flexible timing)
 Check-out: by 11:00 (late check-out on request, subject to availability)
 
 ❓ ANYTHING YOU NEED
@@ -281,12 +282,12 @@ We hope you love Marrakech as much as we do. Enjoy Dar Salma! 🌺
 
 | Campo | Status |
 |---|---|
-| Indirizzo completo | ⬜ da inserire |
-| GPS coordinates | ⬜ da inserire |
-| Google Maps link | ⬜ da inserire |
-| Numero appartamento (intercom) | ⬜ da inserire |
-| Codice di accesso porta | ⬜ da inserire |
-| Sinistra/destra dall'ascensore | ⬜ da inserire |
+| Résidence Salma — davanti alla farmacia | ✅ inserito |
+| Google Maps link | ✅ https://maps.app.goo.gl/P8YT2QGFf1TqJLtX8 |
+| Video ingresso (Badr lo invia agli ospiti) | ✅ menzionato nelle istruzioni |
+| WhatsApp Badr +39 388 108 0923 | ✅ inserito |
+| WiFi SSID + password | ✅ inserito |
+| Codice di accesso porta (se c'è keypad) | ⬜ da verificare con Badr |
 | Pool: confermarne stato (stagionale/disponibile) | ⬜ verificare prima di aprire |
 | Foto professionali (copertina + interni) | ⬜ da fare |
 
@@ -1208,7 +1209,7 @@ Hi [Nome] 👋
 We're looking forward to welcoming you to Dar Salma!
 
 Here's everything you need:
-📍 Address: [indirizzo completo]
+📍 Address: Résidence Salma (davanti alla farmacia) — https://maps.app.goo.gl/P8YT2QGFf1TqJLtX8
 🔑 Check-in: Badr will meet you at [ora]. His number: [numero Badr]
 📶 WiFi: [nome rete] / Password: [password]
 🕐 Check-in from 14:00 – Check-out by 11:00
@@ -1261,7 +1262,7 @@ Hi [Nome] 👋
 
 Tomorrow is the day! Here's everything for your arrival at Dar Salma:
 
-📍 Address: [indirizzo completo]
+📍 Address: Résidence Salma (davanti alla farmacia) — https://maps.app.goo.gl/P8YT2QGFf1TqJLtX8
 🕐 Check-in: from 15:00
 🔑 I'll be there to welcome you personally — just text me when you're 20 min away
 📶 WiFi: orange f1f9 / Password: [password]
