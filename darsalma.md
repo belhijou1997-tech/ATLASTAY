@@ -542,16 +542,25 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 > "Consiglio questo appartamento al 200%. I proprietari sono molto cordiali, molto premurosi e offrono tutti i servizi. L'appartamento è super pulito e accogliente, i let..." [testo troncato]
 
 ### Dawda — ★★★★★ (5 stelle)
-*9 anni su Airbnb · Oggi*
-> "Abbiamo trascorso un fine settimana eccellente in questo alloggio a Marrakech. È andato tutto molto bene dall'inizio alla fine."
+*Ha soggiornato 30 mag - 02 giu 2026 · 3 notti · Francese*
+> "Nous avons passé un excellent week-end dans ce logement à Marrakech. Tout s'est très bien déroulé du début à la fin. Le logement était propre, confortable et conforme à la description. L'hôte a été accueillant, disponible et réactif. Nous avons beaucoup apprécié notre séjour et recommandons vivement cet hébergement. Merci encore pour cette belle expérience !"
+
+**RISPOSTA PUBBLICA DAWDA (in francese):**
+> "Merci beaucoup Dawda pour ce beau retour 🙏 Nous sommes ravis que tout se soit passé à la perfection et que le logement vous ait plu dans les moindres détails. C'est exactement ce qu'on cherche à offrir. Revenez quand vous voulez à Dar Salma !"
 
 ---
 
 ### Jalal — ★★★★★ (5 stelle)
-*Casablanca, Marocco · 2 giorni fa · Ha soggiornato qualche notte*
-> "Grazie Bader per la tua professionalità e per i cioccolatini 👍👍👍" *(originale: francese)*
+*Ha soggiornato 22-24 mag 2026 · 2 notti · Casablanca · Francese*
+> "Grazie Bader per la tua professionalità e per i cioccolatini 👍👍👍" *(tradotto dal francese)*
+
+**Messaggio privato:** "Allah y hafdk ti ho messo 5 stelle in tutto, ho lasciato una recensione non troppo lunga ma efficace, se puoi fare lo stesso per me, algoritmo"
 
 **Nota operativa:** i cioccolatini di Badr → dettaglio che genera recensioni 5 stelle. Da mantenere sempre come standard accoglienza.
+*Sul privato: Jalal chiede 5 stelle in cambio → dargliele (è nella norma e si meritava).*
+
+**RISPOSTA PUBBLICA JALAL (in francese):**
+> "Merci beaucoup Jalal ! 🙏 C'est un plaisir d'accueillir des hôtes aussi agréables. Badr était ravi de votre passage — et les chocolats sont toujours au rendez-vous 😄 À très bientôt à Marrakech !"
 
 ---
 
@@ -571,27 +580,37 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 
 ---
 
-### Ikram Hassou — ★★★★★ (5 stelle)
-*Ha soggiornato 2 notti (17–19 giu) · 4 adulti*
-> Recensione 5 stelle ✅
+### Delaporte — ★★★★★ (5 stelle)
+*Ha soggiornato 10-14 giu 2026 · 4 notti · Francese*
+> "Sympa ! Bon rapport qualité prix ! Je reviendrai !"
 
-**Nota:** Risposta host da pubblicare — testo pronto in sessione.
+**RISPOSTA PUBBLICA DELAPORTE (in francese):**
+> "Merci Delaporte ! 😊 Ravi que le séjour vous ait plu et que le rapport qualité-prix soit au rendez-vous. On vous attend avec plaisir à votre prochain passage à Marrakech — à très bientôt !"
+
+---
+
+### Ikram Hassou — ★★★★★ (5 stelle)
+*Ha soggiornato 17-19 giu 2026 · 2 notti · 4 adulti · Francese*
+> "Nous avons passé un excellent séjour dans ce logement. L'appartement était propre, confortable et la décoration soignée. L'hôte a été très accueillant et disponible. Je recommande sans hésiter !"
+
+**RISPOSTA PUBBLICA IKRAM (in francese):**
+> "Merci beaucoup Ikram pour ce retour si chaleureux 🙏 C'est un vrai plaisir de savoir que vous avez apprécié l'appartement et l'accueil. Nous serons toujours ravis de vous accueillir à Dar Salma — revenez quand vous voulez !"
 
 ---
 
 ### Olivia — ★★★★ (4 stelle)
-*Ha soggiornato 2 notti (20–22 giu) · Francese*
-> "L'alloggio era pulito, bello e accogliente. L'unica cosa è l'indisponibilità della piscina che era un criterio fondamentale per la nostra prenotazione. Ma nel complesso è stato top e fantastico. Lo consiglio."
+*Ha soggiornato 20-22 giu 2026 · 2 notti · Francese*
+> "Le logement était propre, agréable et convivial. La seule chose est l'indisponibilité de la piscine qui était un critère primordial pour notre réservation. Mais dans l'ensemble c'était top et super. Je recommande."
 
 **Analisi:** Positiva tranne piscina chiusa — aveva prenotato *per* la piscina. Rischio futuro: se la piscina è chiusa per manutenzione e non avvisiamo, rischiamo ★1. ✅ Risposta pubblica già pubblicata.
 
 ---
 
-### Zoé Martinez — ★★★★ (4 stelle)
-*Ha soggiornato 7 notti (03–10 lug) · Francese*
-> "Abbiamo trascorso un ottimo soggiorno. L'host è stato molto premuroso, sempre disponibile e con buoni consigli per scoprire la regione. La cucina era perfettamente equipaggiata. Il salotto tradizionale è splendido, con una vera e propria atmosfera marocchina, molto accogliente. L'alloggio è molto ben situato e il residence è bello e tranquillo. Il gestore — un signore calvo con i baffi — è semplicemente al top. Molto gentile, ci ha preparato dei deliziosi piccoli panini che abbiamo adorato. Raccomando vivamente questo alloggio."
+### Zoé Martine Christiane — ★★★★ (4 stelle)
+*Ha soggiornato 03-10 lug 2026 · 7 notti · Francese*
+> "Nous avons passé un excellent moment. L'hôte a été très attentionné, toujours à l'écoute et de bons conseils pour découvrir la région. La cuisine était parfaitement équipée, ce qui nous a permis de cuisiner facilement sur place. Le salon traditionnel est magnifique, une vraie belle ambiance marocaine, très cosy. Le logement est très bien situé, et la résidence est agréable et calme. Petit plus non négligeable : le petit commerce en bas de la résidence ! Le gérant — un monsieur chauve avec une moustache — est tout simplement top. Très aimable, il nous a préparé de délicieux petits sandwichs qu'on a adorés. Une belle découverte ! Je recommande vivement ce logement. Merci encore pour tout ! 😊"
 
-**Analisi:** Ottima. Badr esplicitamente lodato ("calvo con i baffi = al top"). Cucina e atmosfera i punti di forza.
+**Analisi:** Ottima. Badr esplicitamente lodato ("un monsieur chauve avec une moustache — tout simplement top"). Cucina, atmosfera marocchina e negozio al piano terra citati. Testo originale in francese.
 
 **RISPOSTA PUBBLICA ZOÉ (in francese):**
 > "Merci beaucoup Zoé pour ce retour qui nous touche vraiment 🙏 Nous sommes ravis que vous ayez apprécié l'appartement, l'atmosphère marocaine et surtout l'accueil de Badr — votre description nous a bien fait sourire ! C'est exactement l'esprit que nous voulons offrir à chaque séjour. Nous espérons vous revoir à Dar Salma !"
