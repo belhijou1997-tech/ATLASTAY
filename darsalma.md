@@ -8,8 +8,8 @@
 
 ### 🚨 URGENTE — Azioni da fare ADESSO (3 ott 2026)
 - [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · "Richiesta di risarcimento a carico di Beimer" IN CORSO · verificare importo + status
-- [ ] **Scrivi recensione per Ahmed** → entro 9 giorni (scade ~12 ott) · testo pronto ✍️ → "Ahmed was a wonderful guest — respectful, communicative, and left the apartment in perfect condition. We would be happy to host him again at Dar Salma anytime. Highly recommended! 🌟"
-- [ ] **Manda messaggio ad Ahmed** per chiedere ★5 → "Salam Ahmed 🙏 J'espère que votre séjour à Dar Salma s'est bien passé... si vous pouvez laisser un avis sur Airbnb ça nous aiderait vraiment 🌟 On vous laisse un très bel avis de notre côté. Merci !"
+- [ ] **⚠️ DECISIONE CLAIM AHMED BEIMER** — vedi sotto. Prima decidi, poi eventualmente scrivi recensione.
+- [ ] **NON mandare messaggio a Ahmed** per ★5 — è in disputa attiva con te
 - [ ] **Scrivi recensione per Marouane** → entro 13 giorni (scade ~16 ott) · testo pronto ✍️ → "Marouane was a great guest — easy communication, respectful of the space, and no issues whatsoever. We'd love to welcome him back to Dar Salma. Highly recommended! 🌟"
 - [ ] **Manda messaggio a Marouane** per chiedere ★5 → "Salam Marouane 🙏 Merci pour votre séjour à Dar Salma ! Si vous pouvez prendre 2 minutes pour laisser un avis sur Airbnb, ça nous aiderait vraiment beaucoup 🌟 On vous laisse également un très bel avis. Merci !"
 - [ ] **Aggiungi istruzioni check-in sul listing** — Airbnb segnala difficoltà su Beimer E Fatima
@@ -54,6 +54,7 @@
 - **Set 2026 — Forno/microonde:** non presenti → rimossi dal listing ✅
 - **Set 2026 — Luce cucina:** riparata ✅
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
+- **26 set-1 ott — Ahmed Beimer (claim attivo):** richiesta 350 DH per disordine eccessivo. Ahmed ha RIFIUTATO (29 set): *"I didn't leave any excessive mess — the apartment was not clean when we arrived and also the WiFi was not working."* → DECISIONE PENDENTE: escalare ad Airbnb con prove (foto) o rinunciare. Rischio: Ahmed può lasciare recensione negativa (WiFi + sporco all'arrivo).
 
 **Nota strategica (30 set):** questi incidenti sono permanenti nel sistema Airbnb e spiegano perché l'alert "problemi annunci" non si cancella. Un nuovo listing riparte senza questo storico — ma se i comportamenti operativi (Badr irraggiungibile, WiFi instabile, cancellazioni forzate) non cambiano, il nuovo listing accumula gli stessi problemi.
 
@@ -783,13 +784,11 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 ---
 
-### Beimer (Beim...) — ★★★★★ (5 stelle)
+### Beim... — ★★★★★ (5 stelle)
 *Ha soggiornato 14-16 set 2026 · 2 notti · Francese · Check-in ★4*
 > "La comunicazione è stata molto difficile, non abbiamo avuto accesso alla piscina, ma l'alloggio è perfetto!!"
 
 *Alert Airbnb su questa prenotazione: "L'ospite ha avuto qualche difficoltà ad accedere al tuo alloggio" → Fix già applicato: istruzioni GPS + video Badr*
-
-**⚠️ CLAIM DANNO — IN CORSO (visto 3 ott 2026):** "Richiesta di risarcimento a carico di Beimer" appare nella dashboard host come "In corso". Controllare l'esito nella sezione Risoluzione Controversie di Airbnb.
 
 **Analisi:**
 1. **Comunicazione difficile** — Badr irraggiungibile durante check-in (pattern ricorrente) → regola Badr: disponibile 8-22 sempre ✅
@@ -966,10 +965,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Completato |
 | 29 | Fatima | Airbnb | 2 set | ~4 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + no forno/microonde |
 | 30 | Imane | Airbnb | 4 set | 6 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + piscina KO + luce cucina KO |
-| 31 | Beimer (Beim...) | Airbnb | 14 set | 16 set | 2 | TBD | ✅ ★5 · **⚠️ CLAIM DANNO IN CORSO su Airbnb** · comunicazione difficile + piscina KO |
+| 31 | Beim... | Airbnb | 14 set | 16 set | 2 | TBD | ✅ ★5 · comunicazione difficile + piscina KO |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
 | 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ ★5 · "6 stelle su 5" · chiavi perse + bicchiere rotto · Badr gestito perfettamente |
-| 33b | Ahmed | Airbnb | 26 set | 1 ott | ~5 | TBD | ✅ Completato · ⏳ Recensione da scrivere (9 giorni) |
+| 33b | Ahmed Beimer | Airbnb | 26 set | 1 ott | ~5 | TBD | ⚠️ CLAIM ATTIVO — 350 DH richiesti, Ahmed ha RIFIUTATO · "appartamento sporco all'arrivo + WiFi ko" |
 | 33c | Marouane | Airbnb | ~1 ott | ~2 ott | ~1-2 | TBD | ✅ Completato · ⏳ Recensione da scrivere (13 giorni) — NON visibile da storico precedente |
 | 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
