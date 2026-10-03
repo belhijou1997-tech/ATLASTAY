@@ -807,6 +807,32 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | Ottobre disponibile | quasi tutto libero ← urgente riempire |
 | Alert Airbnb | "Esamina i problemi nei tuoi annunci" attivo |
 
+### Snapshot 10 — Dati conversione e occupazione (3 ott 2026, aggiorn. 1 ott)
+
+#### Conversione (per periodo)
+| Metrica | 7 giorni | 30 giorni | 365 giorni |
+|---------|----------|-----------|------------|
+| Conversione prenotazioni | 4.07% (↓-2%) | 4.21% (↑+2.91%) | 0.79% |
+| Preavviso prenotazione | **0.5 giorni** ← last minute | 2.5 giorni | 8.5 giorni |
+| Visualizzazioni | 80 (↓-30) | 610 (↓-1519) | 9.617 |
+| Aggiunte wishlist | 3 | 21 | 355 |
+| Ospiti fidelizzati | 0% | 0% | 0% |
+
+#### Occupazione e tariffe (per periodo)
+| Metrica | 30 giorni | 365 giorni |
+|---------|-----------|------------|
+| Tasso occupazione | 76.9% (↓-19.4%) | **87.3%** ← ottimo |
+| **Tasso cancellazione** | **9.1%** (↓-40.9%) | **45.8%** ← CRITICO |
+| Durata soggiorno media | 2.5 giorni | 2.8 giorni |
+| Tariffa giornaliera | 35.4€ | 36.1€ |
+
+#### Analisi
+- **Tasso cancellazione 45.8% annuale** = principale causa ranking soppresso. Media Airbnb: 5-15%. Causato da: cancellazioni host (agosto forzata, luglio HMPPH8FN3X) + policy flessibile ospiti.
+- **Occupazione 87.3% annuale** = prodotto validato. La domanda c'è.
+- **Preavviso 0.5 giorni** questa settimana = listing appare solo nei risultati last-minute, non nelle ricerche con anticipo → ranking ancora penalizzato.
+- **Conversione 4.07-4.21%** ottima: chi vede il listing prenota. Problema è la visibilità, non il prodotto.
+- **Settembre cancellazioni al 9.1%** = miglioramento netto. Segnale positivo.
+
 ---
 
 ### Maggio 2026 — Incassi reali da banca (aggiornato 3 giu 2026)
