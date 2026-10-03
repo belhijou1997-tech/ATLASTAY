@@ -538,8 +538,13 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 **Totale:** 5 recensioni · rating **4,60** ⭐ · Termini ricorrenti: **Ospitalità 4** · Qualità del sonno 2
 
 ### Hanane — ★★★★★ (5 stelle)
-*4 anni su Airbnb · 6 giorni fa · Ha soggiornato qualche notte*
-> "Consiglio questo appartamento al 200%. I proprietari sono molto cordiali, molto premurosi e offrono tutti i servizi. L'appartamento è super pulito e accogliente, i let..." [testo troncato]
+*Ha soggiornato 10-14 mag 2026 · 4 notti · Spagnolo · Check-in ★5*
+> "Consiglio questo appartamento al 200%. I proprietari sono molto cordiali, molto premurosi e offrono tutti i servizi. L'appartamento è super pulito e accogliente, i letti sono super confortevoli e l'acqua calda funziona perfettamente. La cucina ha tutti gli elettrodomestici e, soprattutto, c'è l'aria condizionata. Ti senti come a casa tua." *(tradotto dallo spagnolo)*
+
+**Analisi:** Prima o seconda recensione in assoluto — già ★5 e molto dettagliata. Cita: pulizia, letti, acqua calda, cucina completa, AC. "Ti senti come a casa tua" → copy perfetta per il listing.
+
+**RISPOSTA PUBBLICA HANANE (in spagnolo — lingua originale):**
+> "¡Muchas gracias Hanane por estas palabras tan generosas! 🙏 Nos alegra muchísimo que te hayas sentido como en casa — eso es exactamente lo que queremos ofrecer. Esperamos volverte a recibir en Dar Salma pronto !"
 
 ### Dawda — ★★★★★ (5 stelle)
 *Ha soggiornato 30 mag - 02 giu 2026 · 3 notti · Francese*
@@ -565,10 +570,13 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 ---
 
 ### Khalid — ★★★★ (4 stelle)
-*8 anni su Airbnb · 5 giorni fa · Ha soggiornato qualche notte*
-> "Ottimo soggiorno per il prezzo pagato. Host cordiale"
+*Ha soggiornato 17-21 mag 2026 · 4 notti · Olandese · Check-in ★4*
+> "Ottimo soggiorno per il prezzo pagato. Host cordiale" *(tradotto dall'olandese)*
 
-**Analisi:** 4 stelle. "Per il prezzo pagato" → value perception positiva ma ancora legata al prezzo basso. Si risolve alzando i prezzi con più recensioni.
+**Analisi:** ★4. "Per il prezzo pagato" → valore percepito positivo ma legato al prezzo basso. Check-in ★4 con badge "Host reattivo" ✅ Pulizia ★4.
+
+**RISPOSTA PUBBLICA KHALID (in francese — lingua franca Marrakech):**
+> "Merci beaucoup Khalid ! 🙏 Ravi que le séjour se soit bien passé et que vous ayez apprécié l'accueil. Nous espérons vous revoir à Dar Salma pour un prochain séjour à Marrakech !"
 
 ---
 
