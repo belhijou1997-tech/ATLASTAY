@@ -714,13 +714,18 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 ---
 
 ### Fatima — ★★★★ (4 stelle)
-*Ha soggiornato ~4 set 2026 · Francese*
-> "Appartement magnifique, propre, calme, le staff irréprochable. Mancano solo un forno e un microonde e non c'è il wifi."
+*Ha soggiornato 02-04 set 2026 · 2 notti · Francese · Check-in ★2*
+> "Mancano solo un forno e un microonde e non c'è il wifi, per il resto va bene" *(tradotto dal francese)*
 
-**Valutazioni dettagliate (stimate):** Pulizia ★5 · Comunicazione ★5 · Posizione ★4 · Q/P ★4
-**Analisi — 2 problemi:**
+**Messaggio privato (solo host):** "Buongiorno, ancora grazie per tutto. Basterebbe installare un forno e un microonde e cambiare la lampadina in cucina perché funziona, e anche il Wi-Fi funziona. Niente da dire, grazie mille"
+
+**Valutazioni dettagliate:** Check-in ★2 (problema accesso)
+**Analisi — problemi:**
 1. **WiFi non funzionante** ← CRITICO (confermato anche da Imane) — ora risolto ✅
 2. **Forno e microonde mancanti** — rimossi intenzionalmente dal listing per evitare false aspettative
+3. **Check-in ★2** — difficoltà accesso, stesso pattern Byron → Fix: istruzioni GPS + video Badr ✅
+
+*Nota privato: "il WiFi funziona" può indicare che era intermittente, o che l'ha trovato funzionante ma lento.*
 
 **RISPOSTA PUBBLICA FATIMA (in francese):**
 > "Merci beaucoup Fatima pour vos mots très généreux 🙏 Nous sommes ravis que l'appartement, la propreté et le staff vous aient plu. Concernant le Wi-Fi, le problème a été entièrement résolu depuis votre séjour — la connexion est maintenant rapide et stable. Nous espérons vous accueillir à nouveau à Dar Salma !"
@@ -728,16 +733,47 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 ---
 
 ### Imane — ★★★★ (4 stelle)
-*Ha soggiornato ~11 set 2026 · Italiana*
-> "Il Wi-Fi non funzionava affatto e non c'era rete, il che era piuttosto fastidioso. Anche la piscina non era funzionante durante il nostro soggiorno. L'illuminazione della cucina non funzionava."
+*Ha soggiornato 04-06 set 2026 · 2 notti · Francese (tradotto) · Check-in ★4*
+> "L'alloggio era pulito, ordinato e conforme alle foto. Nel complesso, il soggiorno è stato piacevole. Tuttavia, c'erano alcuni problemi da segnalare: l'illuminazione della cucina non funzionava correttamente, il Wi-Fi non funzionava affatto e non c'era rete, il che era piuttosto fastidioso. Anche la piscina non era funzionante durante il nostro soggiorno. L'alloggio ha quindi buone qualità, ma questi aspetti andrebbero migliorati per rendere il soggiorno più confortevole"
 
 **Analisi — 3 problemi tecnici:**
-1. **WiFi non funzionante** ← CRITICO (stesso problema di Fatima, 2 ospiti consecutivi) — risolto ✅
-2. **Piscina non funzionante** — settembre, problemi tecnici del residence — rimossa dal listing ✅
+1. **WiFi non funzionante** ← CRITICO (stesso problema di Fatima, ospiti consecutivi) — risolto ✅
+2. **Piscina non funzionante** — residence in manutenzione settembre — rimossa dal listing ✅
 3. **Luce cucina rotta** — bulbo cambiato ✅
 
-**RISPOSTA PUBBLICA IMANE (in italiano):**
-> "Grazie Imane per il tuo feedback onesto 🙏 Ci dispiace sinceramente per i disagi che hai vissuto. Il WiFi è stato completamente sistemato e ora funziona stabilmente. La luce della cucina è stata riparata. La piscina era chiusa per manutenzione del residence in quel periodo — abbiamo aggiornato l'annuncio per indicarlo chiaramente in futuro. Speriamo di poterti riaccogliere a Dar Salma!"
+*Note positive: pulito, ordinato, conforme alle foto, soggiorno piacevole, Check-in ★4 "Indicazioni chiare"*
+
+**RISPOSTA PUBBLICA IMANE (in francese — lingua originale):**
+> "Merci beaucoup Imane pour ce retour honnête et équilibré 🙏 Nous sommes heureux que l'appartement vous ait plu dans l'ensemble. Nous nous excusons sincèrement pour les problèmes que vous avez rencontrés : le Wi-Fi a été entièrement résolu, l'éclairage de la cuisine a été réparé, et la piscine était fermée pour maintenance du résidence — nous l'avons retiré de notre annonce pour éviter toute mauvaise surprise. Nous espérons vous accueillir à nouveau à Dar Salma !"
+
+---
+
+### Beim... — ★★★★★ (5 stelle)
+*Ha soggiornato 14-16 set 2026 · 2 notti · Francese · Check-in ★4*
+> "La comunicazione è stata molto difficile, non abbiamo avuto accesso alla piscina, ma l'alloggio è perfetto!!"
+
+*Alert Airbnb su questa prenotazione: "L'ospite ha avuto qualche difficoltà ad accedere al tuo alloggio" → Fix già applicato: istruzioni GPS + video Badr*
+
+**Analisi:**
+1. **Comunicazione difficile** — Badr irraggiungibile durante check-in (pattern ricorrente) → regola Badr: disponibile 8-22 sempre ✅
+2. **Piscina non accessibile** — manutenzione residence → rimossa dal listing ✅
+3. **Appartamento: perfetto** — ★5 nonostante i problemi. Ospite soddisfatto dell'alloggio in sé.
+
+**RISPOSTA PUBBLICA BEIM... (in francese):**
+> "Merci beaucoup pour cette belle note malgré les inconvénients 🙏 Nous nous excusons pour les difficultés de communication lors de votre séjour — c'est un point sur lequel nous avons travaillé depuis et Badr est maintenant joignable à tout moment. La piscine était fermée pour maintenance : nous l'avons supprimée de notre annonce. Nous espérons vous revoir à Dar Salma pour un séjour encore plus fluide !"
+
+---
+
+### Alexandre — ★★★★★ (5 stelle)
+*Ha soggiornato 21-25 set 2026 · 4 notti · Francese*
+> "Sono stato sicuramente l'ospite peggiore per Badr / Ho perso le chiavi Ho rotto un bicchiere 😅 / Badr si è recato sul posto e mi ha rassicurato / In breve, il top degli host / Sorriso e gentilezza all'appuntamento / Custode dell'edificio davvero gentile / I negozianti sono di una gentilezza assoluta / Marjan a 5 minuti a piedi / 6 stelle su 5"
+
+**Messaggio privato (solo host):** "Non cambiare mai, sei semplicemente un ottimo host. Che Dio protegga voi e la vostra famiglia"
+
+**Analisi:** Recensione straordinaria. Badr ha gestito una situazione difficile (chiavi perse, bicchiere rotto) con eleganza — l'ospite ne è rimasto così colpito da dare "6 stelle su 5". Il messaggio privato è uno dei più belli ricevuti. Conferma che quando Badr è presente e reattivo, l'esperienza diventa eccezionale.
+
+**RISPOSTA PUBBLICA ALEXANDRE (in francese):**
+> "Alexandre, vous nous avez beaucoup touché avec ces mots 🙏 On a bien rigolé — et honnêtement, c'est un plaisir d'avoir des hôtes aussi sympathiques et humains. Badr était ravi de pouvoir aider. Merci du fond du cœur pour votre gentillesse et vos belles paroles. Revenez quand vous voulez à Dar Salma, vous êtes vraiment les bienvenus !"
 
 ---
 
@@ -893,9 +929,9 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Completato |
 | 29 | Fatima | Airbnb | 2 set | ~4 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + no forno/microonde |
 | 30 | Imane | Airbnb | 4 set | 6 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + piscina KO + luce cucina KO |
-| 31 | Beim... | Airbnb | 14 set | ~16 set | ~2 | TBD | 🔵 Da confermare dettagli |
+| 31 | Beim... | Airbnb | 14 set | 16 set | 2 | TBD | ✅ ★5 · "alloggio è perfetto" · comunicazione difficile + piscina KO |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
-| 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ Completato |
+| 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ ★5 · "6 stelle su 5" · chiavi perse + bicchiere rotto · Badr gestito perfettamente |
 | 33b | Ospite (TBD) | Airbnb | 26 set | 1 ott | ~5 | TBD | ✅ Completato — check-out 1 ott visibile da calendario |
 | 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
