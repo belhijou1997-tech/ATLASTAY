@@ -718,8 +718,9 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 31 | Beim... | Airbnb | 14 set | ~16 set | ~2 | TBD | 🔵 Da confermare dettagli |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
 | 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ Completato |
-| 33b | Ospite (TBD) | Airbnb | 26 set | ? | ? | TBD | 🔵 Da identificare — visibile calendario 30/9 |
-| 34 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ✅ FR · 2a+2b |
+| 33b | Ospite (TBD) | Airbnb | 26 set | 1 ott | ~5 | TBD | ✅ Completato — check-out 1 ott visibile da calendario |
+| 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
+| 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ⚠️ Non visibile calendario 3/10 — verificare se cancellato |
 
 ### Calendario settembre 2026 (da screenshot 18/9)
 | Date | Ospite | Note |
