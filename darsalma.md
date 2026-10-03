@@ -1086,6 +1086,30 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 - **Conversione 4.07-4.21%** ottima: chi vede il listing prenota. Problema è la visibilità, non il prodotto.
 - **Settembre cancellazioni al 9.1%** = miglioramento netto. Segnale positivo.
 
+#### Snapshot prestazioni conversione — 1 set → 1 ott 2026 (screenshot 3 ott)
+
+| Metrica | Valore | Confronto periodo precedente |
+|---------|--------|------------------------------|
+| Visualizzazioni medie pagina | **610** | ↓ (da ~872) |
+| Impressioni medie 1ª pagina ricerca | **522** | ↓ |
+| Tasso impressioni ricerca 1ª pagina | **44.4%** | — |
+| Conversione ricerca→alloggio | **100%** | ↑ ottimo |
+| Conversione annuncio→prenotazione | **3.61%** | — |
+| Conversione globale | **4.21%** | ↑ +2.91% |
+| Aggiunte wish list (media) | **21** | ↓ |
+
+**Diagnosi:** il listing converte benissimo (100% ricerca→click, 3.61% annuncio→prenotazione) ma riceve meno traffico. Problema = **visibilità/ranking**, non qualità prodotto o foto.
+
+**Cause calo visibilità settembre:**
+- Nessuna risposta alle recensioni pubblicata → algoritmo penalizza inattività host
+- Check-in instructions non compilate → segnalato come "da completare" da Airbnb
+- Ottobre vuoto → meno prenotazioni recenti = ranking soppresso (ciclo vizioso)
+
+**Azioni immediate per rilanciare ranking:**
+1. Pubblica risposte a tutte le 24 recensioni (testi pronti)
+2. Aggiungi check-in instructions sul listing (Airbnb lo richiede)
+3. Mantieni prezzi bassi ottobre per generare prenotazioni → sblocca ranking
+
 ---
 
 ### Maggio 2026 — Incassi reali da banca (aggiornato 3 giu 2026)
