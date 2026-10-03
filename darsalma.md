@@ -6,8 +6,10 @@
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Ottobre completamente vuoto
-- [ ] **Riempire ottobre** — calendario 0 prenotazioni confermato da screenshot 30/9. Solo Mickaël 13-20 ott già noto. Prezzi attuali: MAD 342–450/notte. **Azione immediata: aprire Booking.com, promozioni, abbassare prezzo per riempire.**
+### 🚨 URGENTE — Ottobre quasi vuoto
+- [x] Mickaël Pouillon 13-20 ott — **CANCELLATO** (confermato da calendario 3/10)
+- [x] **Kyrylo Stiopin** — Booking.com, **14-18 ott** (4 notti, 2ad+2bam) — €165,06 netto ✅ CONFERMATO
+- [ ] **Riempire resto ottobre** — prezzi attuali MAD 270-350/notte. 3-4 ott Lahc... · 14-18 ott Kyrylo · resto libero. **Azione: mantenere prezzi bassi + Booking.com attivo (funziona!)**
 - [ ] **Risolvere alert "problemi annunci"** — Airbnb segnala ancora problemi. Aprire app → Annunci → esaminare e correggere.
 
 ### ✅ Problemi tecnici risolti (18 set 2026)
@@ -18,7 +20,7 @@
 
 ### Da fare sul listing
 - [ ] **Istruzioni check-in** — riscrivere con GPS + Careem/inDrive
-- [ ] **Booking.com** — riaprire per ottobre (urgente: ottobre è vuoto)
+- [x] **Booking.com** — ✅ ATTIVO e funzionante (prenotazione Kyrylo 14-18 ott confermata)
 - [ ] **Policy cancellazione** — ora rating 4,5★ (24 rec.) → valutare passaggio a MODERATA
 
 ### Da fare recensioni
@@ -720,7 +722,8 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ Completato |
 | 33b | Ospite (TBD) | Airbnb | 26 set | 1 ott | ~5 | TBD | ✅ Completato — check-out 1 ott visibile da calendario |
 | 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
-| 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | TBD | ⚠️ Non visibile calendario 3/10 — verificare se cancellato |
+| 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
+| 36 | Kyrylo Stiopin | Booking.com | 14 ott | 18 ott | 4 | €165,06 netto | 🔵 Confermato — 2ad+2bam (5/8a) · check-in 18:00-19:00 · lordo €190,68 comm €25,62 |
 
 ### Calendario settembre 2026 (da screenshot 18/9)
 | Date | Ospite | Note |
