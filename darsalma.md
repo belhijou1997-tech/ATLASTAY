@@ -137,6 +137,161 @@ Considerato investimento iniziale, non costo ricorrente.
 
 ---
 
+## NUOVO LISTING AIRBNB — testo pronto (ottobre 2026)
+
+*Versione da incollare su Airbnb per il nuovo listing. I campi tra [brackets] vanno completati.*
+
+---
+
+### TITOLO
+```
+Dar Salma · 2-Bedroom Apartment · WiFi · Marrakech
+```
+*(50 car esatti — usa questo o toglie "· WiFi" se Airbnb non lo accetta)*
+
+---
+
+### DESCRIZIONE — The space
+
+```
+Welcome to Dar Salma — a spacious two-bedroom apartment in a quiet residential building, 10 minutes from the Majorelle Garden and 20 minutes from Jemaa el-Fna. Clean, private, and fully equipped: the perfect home base for exploring Marrakech.
+
+─── THE APARTMENT ───
+
+🛏 Bedroom 1 — Queen-size bed (comfortable for 2 adults)
+🛏 Bedroom 2 — Full double bed (152×203 cm, ideal for couple or 2 kids)
+🛋 Living room — Sofa, TV, relaxing space
+🍳 Kitchen — Fridge, hob, kettle, blender, dishwasher. Everything you need to cook in.
+🚿 Bathroom — Hot shower, bidet, hairdryer, argan shampoo & body wash
+📶 WiFi — Fast Orange fiber, works in all rooms
+❄️ Air conditioning + heating in all rooms
+🧺 Washing machine
+🅿️ Free private parking on-site
+🛗 Elevator access (1st floor)
+
+─── THE VIBE ───
+
+Dar Salma means "House of Salma" — a name that reflects the warm, welcoming spirit of Moroccan hospitality. The apartment is calm and private, in a residential building away from the noise of the medina, yet close enough to reach all the highlights in minutes.
+
+Your host Badr is always available to help: local tips, restaurant picks, transport advice, or anything you need during your stay.
+```
+
+---
+
+### GUEST ACCESS
+
+```
+You have the entire apartment to yourself — complete privacy. Badr is nearby and reachable on WhatsApp throughout your stay.
+```
+
+---
+
+### INTERACTION
+
+```
+Badr, your host, speaks Arabic and French and is available every day from 8:00 to 22:00. He'll greet you on arrival, share his favorite local spots, and make sure your stay runs smoothly.
+```
+
+---
+
+### GETTING AROUND
+
+```
+Marrakech is easy to navigate once you know the tools:
+
+→ Careem or inDrive: book a ride directly from the app and share GPS coordinates with your driver — reliable and affordable. Strongly recommended for airport transfer.
+→ Petit taxi (orange cabs): ideal for short hops around the city, affordable and plentiful.
+→ Walking: the medina and souks are best explored on foot once you're there.
+
+From the apartment:
+📍 Majorelle Garden — ~10 min by car
+📍 Jemaa el-Fna — ~20 min by car
+📍 Menara Mall — ~10 min by car
+📍 Marrakech Airport — ~20 min by car
+```
+
+---
+
+### OTHER THINGS TO NOTE
+
+```
+The apartment is in a quiet residential building shared with neighbors — please respect quiet hours after 22:00. The space is entirely private; you won't share anything with other guests.
+
+Pool: the residence has a shared pool [add: currently seasonal / available May–August — confirm].
+```
+
+---
+
+### HOUSE RULES
+
+```
+✔ Check-in: from 15:00 (flexible — message us)
+✔ Check-out: by 11:00
+✔ Maximum 4 guests
+✗ No smoking inside
+✗ No parties or events
+✗ No pets
+✗ Quiet hours: 22:00–08:00
+```
+
+---
+
+### CHECK-IN INSTRUCTIONS AUTOMATICHE
+*(testo da impostare come messaggio automatico 24h prima del check-in)*
+
+```
+Hi [guest name]! Welcome to Dar Salma 🌹
+
+Here's everything you need to arrive smoothly.
+
+📍 ADDRESS & GPS
+[Indirizzo completo]
+GPS: [lat, lon]
+→ Save this GPS link: [Google Maps link]
+
+Share the GPS coordinates directly with your Careem or inDrive driver — it's the easiest way to reach us. Avoid grand taxis for this route as the building can be hard to describe by landmark.
+
+🔑 ARRIVAL
+When you reach the building:
+1. Ring intercom [numero appartamento]
+   OR WhatsApp Badr: +39 388 108 0923 — he will come to meet you at the entrance.
+2. Take the elevator to floor 1.
+3. Our door is [sinistra/destra] when you exit.
+4. Enter code [CODICE] on the keypad / Badr will hand you the keys.
+
+📶 WIFI
+Network: La_Fibre_dOrange_F1P9
+Password: 3QSFTZERSDEUXFOYG
+(A QR code card is on the table — just scan it with your camera)
+
+🕐 TIMES
+Check-in: from 15:00
+Check-out: by 11:00 (late check-out on request, subject to availability)
+
+❓ ANYTHING YOU NEED
+WhatsApp Badr: +39 388 108 0923
+Available daily 8:00–22:00
+
+We hope you love Marrakech as much as we do. Enjoy Dar Salma! 🌺
+```
+
+---
+
+### CAMPI DA COMPLETARE PRIMA DI PUBBLICARE
+
+| Campo | Status |
+|---|---|
+| Indirizzo completo | ⬜ da inserire |
+| GPS coordinates | ⬜ da inserire |
+| Google Maps link | ⬜ da inserire |
+| Numero appartamento (intercom) | ⬜ da inserire |
+| Codice di accesso porta | ⬜ da inserire |
+| Sinistra/destra dall'ascensore | ⬜ da inserire |
+| Pool: confermarne stato (stagionale/disponibile) | ⬜ verificare prima di aprire |
+| Foto professionali (copertina + interni) | ⬜ da fare |
+
+---
+
 ## PERFORMANCE AIRBNB
 
 ### Snapshot 1
