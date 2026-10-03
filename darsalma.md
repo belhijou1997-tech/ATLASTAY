@@ -54,7 +54,7 @@
 - **Set 2026 — Forno/microonde:** non presenti → rimossi dal listing ✅
 - **Set 2026 — Luce cucina:** riparata ✅
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
-- **26 set-1 ott — Ahmed Beimer (claim attivo):** richiesta 350 DH per disordine eccessivo. Ahmed ha RIFIUTATO (29 set): *"I didn't leave any excessive mess — the apartment was not clean when we arrived and also the WiFi was not working."* → DECISIONE PENDENTE: escalare ad Airbnb con prove (foto) o rinunciare. Rischio: Ahmed può lasciare recensione negativa (WiFi + sporco all'arrivo).
+- **26 set-1 ott — Ahmed Beimer (claim escalato 3 ott):** richiesta 350 DH per disordine eccessivo. Ahmed ha rifiutato: *"apartment not clean on arrival + WiFi not working."* → **ESCALATO ad Airbnb con foto come prove** · in attesa di decisione Airbnb. Rischio residuo: Ahmed potrebbe lasciare recensione negativa.
 
 **Nota strategica (30 set):** questi incidenti sono permanenti nel sistema Airbnb e spiegano perché l'alert "problemi annunci" non si cancella. Un nuovo listing riparte senza questo storico — ma se i comportamenti operativi (Badr irraggiungibile, WiFi instabile, cancellazioni forzate) non cambiano, il nuovo listing accumula gli stessi problemi.
 
@@ -968,7 +968,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 31 | Beim... | Airbnb | 14 set | 16 set | 2 | TBD | ✅ ★5 · comunicazione difficile + piscina KO |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
 | 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ ★5 · "6 stelle su 5" · chiavi perse + bicchiere rotto · Badr gestito perfettamente |
-| 33b | Ahmed Beimer | Airbnb | 26 set | 1 ott | ~5 | TBD | ⚠️ CLAIM ATTIVO — 350 DH richiesti, Ahmed ha RIFIUTATO · "appartamento sporco all'arrivo + WiFi ko" |
+| 33b | Ahmed Beimer | Airbnb | 26 set | 1 ott | ~5 | TBD | ⚠️ CLAIM ESCALATO ad Airbnb con foto · 350 DH · in attesa decisione |
 | 33c | Marouane | Airbnb | ~1 ott | ~2 ott | ~1-2 | TBD | ✅ Completato · ⏳ Recensione da scrivere (13 giorni) — NON visibile da storico precedente |
 | 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
