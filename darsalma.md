@@ -25,11 +25,11 @@
 
 ### Da fare recensioni
 - [x] **Risposta pubblica Olivia** ✅
-- [ ] **Risposta pubblica Byron ★2** — PRIORITÀ (testo nella sezione RECENSIONI)
-- [ ] **Risposta pubblica Aïssata ★4** — testo nella sezione RECENSIONI
-- [ ] **Risposta pubblica Imane ★4** — testo nella sezione RECENSIONI (WiFi/piscina)
-- [ ] **Risposta pubblica Fatima ★4** — testo nella sezione RECENSIONI
-- [ ] **Risposta pubblica Aya, Zoé, Hamel, Juan Miguel, Amine, Rachelle, Nihad, Rayan** — ringraziare
+- [ ] **Risposta pubblica Byron ★2** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
+- [ ] **Risposta pubblica Aïssata ★4** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
+- [ ] **Risposta pubblica Imane ★4** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
+- [ ] **Risposta pubblica Fatima ★4** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
+- [ ] **Risposta pubblica Aya, Zoé, Hamel, Juan Miguel, Amine, Rachelle, Nihad, Rayan** — testi pronti ✍️ → DA PUBBLICARE su Airbnb
 
 ### Da fare TU (input necessari)
 - [ ] **Bollette precise** — importo reale mensile (luce + acqua + internet)
@@ -591,7 +591,10 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 *Ha soggiornato 7 notti (03–10 lug) · Francese*
 > "Abbiamo trascorso un ottimo soggiorno. L'host è stato molto premuroso, sempre disponibile e con buoni consigli per scoprire la regione. La cucina era perfettamente equipaggiata. Il salotto tradizionale è splendido, con una vera e propria atmosfera marocchina, molto accogliente. L'alloggio è molto ben situato e il residence è bello e tranquillo. Il gestore — un signore calvo con i baffi — è semplicemente al top. Molto gentile, ci ha preparato dei deliziosi piccoli panini che abbiamo adorato. Raccomando vivamente questo alloggio."
 
-**Analisi:** Ottima. Badr esplicitamente lodato ("calvo con i baffi = al top"). Cucina e atmosfera i punti di forza. → da rispondere ringraziando. ⚠️ Risposta pubblica da scrivere.
+**Analisi:** Ottima. Badr esplicitamente lodato ("calvo con i baffi = al top"). Cucina e atmosfera i punti di forza.
+
+**RISPOSTA PUBBLICA ZOÉ (in francese):**
+> "Merci beaucoup Zoé pour ce retour qui nous touche vraiment 🙏 Nous sommes ravis que vous ayez apprécié l'appartement, l'atmosphère marocaine et surtout l'accueil de Badr — votre description nous a bien fait sourire ! C'est exactement l'esprit que nous voulons offrir à chaque séjour. Nous espérons vous revoir à Dar Salma !"
 
 ---
 
@@ -599,7 +602,10 @@ Il calendar mostra prezzi reali tra MAD 273–372, confermando variazioni sotto 
 *Ha soggiornato 1 notte (14–15 lug)*
 > "Bien"
 
-**Analisi:** Breve, positiva. Check-in ★4. ⚠️ Risposta pubblica da scrivere.
+**Analisi:** Breve, positiva. Check-in ★4.
+
+**RISPOSTA PUBBLICA HAMEL (in francese):**
+> "Merci Hamel ! C'est un plaisir de vous avoir accueillis à Dar Salma. Nous espérons vous revoir bientôt à Marrakech 🙏"
 
 ---
 
@@ -675,11 +681,17 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 *Ha soggiornato agosto 2026*
 > Recensione ★5 ✅
 
+**RISPOSTA PUBBLICA RACHELLE (in francese):**
+> "Merci beaucoup Rachelle pour votre belle évaluation 🙏 C'est un vrai plaisir de savoir que votre séjour à Dar Salma s'est bien passé. Vous êtes la bienvenue quand vous voulez à Marrakech !"
+
 ---
 
 ### Nihad — ★★★★★ (5 stelle)
 *Ha soggiornato agosto 2026*
 > Recensione ★5 ✅
+
+**RISPOSTA PUBBLICA NIHAD (in francese):**
+> "Merci Nihad pour cette belle note ! 🌟 Nous sommes ravis que vous ayez passé un agréable séjour à Dar Salma. À très bientôt à Marrakech !"
 
 ---
 
@@ -687,11 +699,17 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 *Ha soggiornato agosto 2026*
 > Recensione ★5 ✅
 
+**RISPOSTA PUBBLICA AMINE (in francese):**
+> "Merci beaucoup Amine ! 🙏 C'est un plaisir de vous avoir accueillis à Dar Salma. Votre satisfaction est notre meilleure récompense. On espère vous revoir très bientôt !"
+
 ---
 
 ### Rayan — ★★★★★ (5 stelle)
 *Ha soggiornato agosto 2026*
 > Recensione ★5 ✅
+
+**RISPOSTA PUBBLICA RAYAN (in francese):**
+> "Merci Rayan pour votre évaluation 🌟 Nous sommes heureux que le séjour vous ait plu. Revenez quand vous voulez à Dar Salma — vous êtes toujours les bienvenus à Marrakech !"
 
 ---
 
@@ -701,10 +719,11 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 **Valutazioni dettagliate (stimate):** Pulizia ★5 · Comunicazione ★5 · Posizione ★4 · Q/P ★4
 **Analisi — 2 problemi:**
-1. **WiFi non funzionante** ← CRITICO (confermato anche da Imane)
-2. **Forno e microonde mancanti** — Badr: verificare se presenti o acquistare
+1. **WiFi non funzionante** ← CRITICO (confermato anche da Imane) — ora risolto ✅
+2. **Forno e microonde mancanti** — rimossi intenzionalmente dal listing per evitare false aspettative
 
-⚠️ Risposta pubblica da scrivere.
+**RISPOSTA PUBBLICA FATIMA (in francese):**
+> "Merci beaucoup Fatima pour vos mots très généreux 🙏 Nous sommes ravis que l'appartement, la propreté et le staff vous aient plu. Concernant le Wi-Fi, le problème a été entièrement résolu depuis votre séjour — la connexion est maintenant rapide et stable. Nous espérons vous accueillir à nouveau à Dar Salma !"
 
 ---
 
@@ -713,11 +732,12 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 > "Il Wi-Fi non funzionava affatto e non c'era rete, il che era piuttosto fastidioso. Anche la piscina non era funzionante durante il nostro soggiorno. L'illuminazione della cucina non funzionava."
 
 **Analisi — 3 problemi tecnici:**
-1. **WiFi non funzionante** ← CRITICO (stesso problema di Fatima, 2 ospiti consecutivi)
-2. **Piscina non funzionante** — settembre dovrebbe essere stagione aperta (lug-ott)
-3. **Luce cucina rotta** — cambiare bulbo/plafoniera prima di Alexandre (21 set)
+1. **WiFi non funzionante** ← CRITICO (stesso problema di Fatima, 2 ospiti consecutivi) — risolto ✅
+2. **Piscina non funzionante** — settembre, problemi tecnici del residence — rimossa dal listing ✅
+3. **Luce cucina rotta** — bulbo cambiato ✅
 
-⚠️ Risposta pubblica da scrivere (riconoscere problemi, spiegare fix effettuati).
+**RISPOSTA PUBBLICA IMANE (in italiano):**
+> "Grazie Imane per il tuo feedback onesto 🙏 Ci dispiace sinceramente per i disagi che hai vissuto. Il WiFi è stato completamente sistemato e ora funziona stabilmente. La luce della cucina è stata riparata. La piscina era chiusa per manutenzione del residence in quel periodo — abbiamo aggiornato l'annuncio per indicarlo chiaramente in futuro. Speriamo di poterti riaccogliere a Dar Salma!"
 
 ---
 
