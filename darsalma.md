@@ -6,6 +6,12 @@
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
+### 🚨 URGENTE — Azioni da fare ADESSO (3 ott 2026)
+- [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · "Richiesta di risarcimento a carico di Beimer" IN CORSO · verificare importo + status
+- [ ] **Scrivi recensione per Ahmed** → entro 9 giorni (scade ~12 ott) · lasciare ★5 se soggiorno ok
+- [ ] **Scrivi recensione per Marouane** → entro 13 giorni (scade ~16 ott) · lasciare ★5 se soggiorno ok
+- [ ] **Aggiungi istruzioni check-in sul listing** — Airbnb segnala difficoltà su Beimer E Fatima
+
 ### 🚨 URGENTE — Ottobre quasi vuoto
 - [x] Mickaël Pouillon 13-20 ott — **CANCELLATO** (confermato da calendario 3/10)
 - [x] **Kyrylo Stiopin** — Booking.com, **14-18 ott** (4 notti, 2ad+2bam) — €165,06 netto ✅ CONFERMATO
@@ -775,11 +781,13 @@ Questa singola ★2 su 11 totali ha trascinato la media da 4.57 a 4.27. ⚠️ *
 
 ---
 
-### Beim... — ★★★★★ (5 stelle)
+### Beimer (Beim...) — ★★★★★ (5 stelle)
 *Ha soggiornato 14-16 set 2026 · 2 notti · Francese · Check-in ★4*
 > "La comunicazione è stata molto difficile, non abbiamo avuto accesso alla piscina, ma l'alloggio è perfetto!!"
 
 *Alert Airbnb su questa prenotazione: "L'ospite ha avuto qualche difficoltà ad accedere al tuo alloggio" → Fix già applicato: istruzioni GPS + video Badr*
+
+**⚠️ CLAIM DANNO — IN CORSO (visto 3 ott 2026):** "Richiesta di risarcimento a carico di Beimer" appare nella dashboard host come "In corso". Controllare l'esito nella sezione Risoluzione Controversie di Airbnb.
 
 **Analisi:**
 1. **Comunicazione difficile** — Badr irraggiungibile durante check-in (pattern ricorrente) → regola Badr: disponibile 8-22 sempre ✅
@@ -956,10 +964,11 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 28 | Kaoutar Dardaz | — | 10 ago | 11 ago | 1 | TBD | ✅ Completato |
 | 29 | Fatima | Airbnb | 2 set | ~4 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + no forno/microonde |
 | 30 | Imane | Airbnb | 4 set | 6 set | ~2 | TBD | ✅ Completato · ★4 · WiFi KO + piscina KO + luce cucina KO |
-| 31 | Beim... | Airbnb | 14 set | 16 set | 2 | TBD | ✅ ★5 · "alloggio è perfetto" · comunicazione difficile + piscina KO |
+| 31 | Beimer (Beim...) | Airbnb | 14 set | 16 set | 2 | TBD | ✅ ★5 · **⚠️ CLAIM DANNO IN CORSO su Airbnb** · comunicazione difficile + piscina KO |
 | 32 | Sana... | Airbnb | 18 set | ~19 set | ~1 | TBD | 🔴 Check-in OGGI 18/9 |
 | 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ ★5 · "6 stelle su 5" · chiavi perse + bicchiere rotto · Badr gestito perfettamente |
-| 33b | Ospite (TBD) | Airbnb | 26 set | 1 ott | ~5 | TBD | ✅ Completato — check-out 1 ott visibile da calendario |
+| 33b | Ahmed | Airbnb | 26 set | 1 ott | ~5 | TBD | ✅ Completato · ⏳ Recensione da scrivere (9 giorni) |
+| 33c | Marouane | Airbnb | ~1 ott | ~2 ott | ~1-2 | TBD | ✅ Completato · ⏳ Recensione da scrivere (13 giorni) — NON visibile da storico precedente |
 | 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
 | 36 | Kyrylo Stiopin | Booking.com | 14 ott | 18 ott | 4 | €165,06 netto | 🔵 Confermato — 2ad+2bam (5/8a) · check-in 18:00-19:00 · lordo €190,68 comm €25,62 |
