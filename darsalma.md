@@ -2,22 +2,25 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 30 set 2026
+## 📋 PROMEMORIA APERTI — aggiornato 5 ott 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Azioni da fare ADESSO (3 ott 2026)
+### 🚨 URGENTE — Azioni da fare ADESSO (5 ott 2026)
 - [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · "Richiesta di risarcimento a carico di Beimer" IN CORSO · verificare importo + status
 - [ ] **⚠️ DECISIONE CLAIM AHMED BEIMER** — vedi sotto. Prima decidi, poi eventualmente scrivi recensione.
 - [ ] **NON mandare messaggio a Ahmed** per ★5 — è in disputa attiva con te
 - [ ] **Scrivi recensione per Marouane** → entro 13 giorni (scade ~16 ott) · testo pronto ✍️ → "Marouane was a great guest — easy communication, respectful of the space, and no issues whatsoever. We'd love to welcome him back to Dar Salma. Highly recommended! 🌟"
 - [ ] **Manda messaggio a Marouane** per chiedere ★5 → "Salam Marouane 🙏 Merci pour votre séjour à Dar Salma ! Si vous pouvez prendre 2 minutes pour laisser un avis sur Airbnb, ça nous aiderait vraiment beaucoup 🌟 On vous laisse également un très bel avis. Merci !"
 - [ ] **Aggiungi istruzioni check-in sul listing** — Airbnb segnala difficoltà su Beimer E Fatima
+- [ ] **Risposta pubblica Lahcen ★5** — in francese ✍️ → "Merci beaucoup Lahcen, ça nous fait vraiment plaisir ! 🙏 On est ravis que tout se soit passé parfaitement — l'appartement propre et confortable, exactement comme promis. C'est exactement ce qu'on vise pour chaque séjour à Dar Salma. Tu seras toujours le bienvenu ! À bientôt 🌹"
+- [ ] **Scrivi recensione per Lahcen** su Airbnb → "Lahcen was a wonderful guest — respectful, easy to communicate with, and left the apartment in perfect condition. We'd be happy to welcome him back to Dar Salma anytime. Highly recommended! 🌟"
+- [ ] **Nuovo listing Fatima** — sospeso da calendario, contattare supporto Airbnb (messaggio pronto)
 
 ### 🚨 URGENTE — Ottobre quasi vuoto
 - [x] Mickaël Pouillon 13-20 ott — **CANCELLATO** (confermato da calendario 3/10)
 - [x] **Kyrylo Stiopin** — Booking.com, **14-18 ott** (4 notti, 2ad+2bam) — €165,06 netto ✅ CONFERMATO
-- [ ] **Riempire resto ottobre** — prezzi attuali MAD 270-350/notte. 3-4 ott Lahc... · 14-18 ott Kyrylo · resto libero. **Azione: mantenere prezzi bassi + Booking.com attivo (funziona!)**
+- [ ] **Riempire resto ottobre** — 5-13 ott libero · 14-18 ott Kyrylo · 19-31 ott libero. **Azione: mantenere prezzi bassi + Booking.com attivo**
 - [ ] **Risolvere alert "problemi annunci"** — Airbnb segnala ancora problemi. Aprire app → Annunci → esaminare e correggere.
 
 ### ✅ Problemi tecnici risolti (18 set 2026)
@@ -971,7 +974,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 33 | Alexandre | Airbnb | 21 set | 25 set | 4 | TBD | ✅ ★5 · "6 stelle su 5" · chiavi perse + bicchiere rotto · Badr gestito perfettamente |
 | 33b | Ahmed Beimer | Airbnb | 26 set | 1 ott | ~5 | TBD | ⚠️ CLAIM ESCALATO ad Airbnb con foto · 350 DH · in attesa decisione |
 | 33c | Marouane | Airbnb | ~1 ott | ~2 ott | ~1-2 | TBD | ✅ Completato · ⏳ Recensione da scrivere (13 giorni) — NON visibile da storico precedente |
-| 34 | Lahc... | Airbnb | 3 ott | ? | ? | TBD | 🔵 Nuova prenotazione week-end 3-4 ott |
+| 34 | Lahcen | Airbnb | 3 ott | 5 ott | 2 | TBD | ✅ ★5 · "Ottimo soggiorno, accogliente, pulito e confortevole, esattamente come descritto" · lingua: FR · check-in ★5 · risposta pubblica da pubblicare |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
 | 36 | Kyrylo Stiopin | Booking.com | 14 ott | 18 ott | 4 | €165,06 netto | 🔵 Confermato — 2ad+2bam (5/8a) · check-in 18:00-19:00 · lordo €190,68 comm €25,62 |
 
@@ -1086,6 +1089,20 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 - **Preavviso 0.5 giorni** questa settimana = listing appare solo nei risultati last-minute, non nelle ricerche con anticipo → ranking ancora penalizzato.
 - **Conversione 4.07-4.21%** ottima: chi vede il listing prenota. Problema è la visibilità, non il prodotto.
 - **Settembre cancellazioni al 9.1%** = miglioramento netto. Segnale positivo.
+
+#### Snapshot 11 — Conversione ultimi 7 giorni (5 ott 2026, aggiorn. 3 ott)
+
+| Metrica | Valore | Trend |
+|---------|--------|-------|
+| Conversione prenotazioni | **3.42%** | ↓ -2.89% |
+| Preavviso prenotazione | **0.7 giorni** | ↓ -3.8 giorni (last-minute) |
+| Visualizzazioni | **81** | ↑ +12 (Marrakesh) |
+| Aggiunte wish list | **4** | ↑ +2 |
+| Ospiti fidelizzati | **0%** | — |
+
+Analisi: visualizzazioni e wishlist in lieve risalita (+12, +2) — segnale positivo dopo il calo di settembre. Il preavviso 0.7 giorni conferma che il ranking è ancora penalizzato (appare solo nei risultati last-minute). Conversione 3.42% rimane buona. Nuovo listing Fatima pubblicato 3-4 ott → potrebbe portare traffico aggiuntivo una volta attivato.
+
+---
 
 #### Snapshot prestazioni conversione — 1 set → 1 ott 2026 (screenshot 3 ott)
 
