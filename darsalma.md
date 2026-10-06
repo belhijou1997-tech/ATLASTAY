@@ -1090,6 +1090,20 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 - **Conversione 4.07-4.21%** ottima: chi vede il listing prenota. Problema è la visibilità, non il prodotto.
 - **Settembre cancellazioni al 9.1%** = miglioramento netto. Segnale positivo.
 
+#### Snapshot 12 — Conversione ultimi 7 giorni (6 ott 2026, aggiorn. 4 ott)
+
+| Metrica | Valore | Trend |
+|---------|--------|-------|
+| Conversione prenotazioni | **3.25%** | ↓ -3.27% |
+| Preavviso prenotazione | **1.0 giorno** | ↓ -3.5 giorni (last-minute ma in lieve miglioramento) |
+| Visualizzazioni | **77** | ↑ **+18** ← trend in crescita |
+| Aggiunte wish list | **3** | ↑ +1 |
+| Ospiti fidelizzati | **0%** | — |
+
+Analisi: trend visualizzazioni accelera (+12 → +18) — probabilmente effetto risposte pubbliche recensioni. Preavviso migliora leggermente (0.7 → 1.0g). Conversione stabile. Direzione positiva.
+
+---
+
 #### Snapshot 11 — Conversione ultimi 7 giorni (5 ott 2026, aggiorn. 3 ott)
 
 | Metrica | Valore | Trend |
