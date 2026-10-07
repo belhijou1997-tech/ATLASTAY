@@ -986,7 +986,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 37 | Yassine (Yassi...) | Airbnb | 5 ott | 7 ott | 2 | TBD | ✅ Completato · recensione + ★5 da richiedere |
 | 38 | Anwar | Airbnb | 7 ott | ? | ? | TBD | 🔴 CHECK-IN OGGI — avvisare Badr |
 | 39 | Fazi Mohamed Muaad Endarutenne Gedera Seyed Mohamed | Booking.com | 9 ott | 12 ott | 3 | €119,10 lordo | 🔵 Confermato — prenotato 3 ott |
-| 40 | Mircea-Cristian Popescu | Booking.com | ? | ? | ? | TBD | ⚠️ Prenotato 24 sett — date da verificare su Booking.com |
+| 40 | Mircea-Cristian Popescu | Booking.com | 2 nov | 6 nov | 4 | €178,94 netto | 🔵 Confermato — 4 adulti · lordo €207,40 · comm €28,46 · orario non indicato |
 
 ### Calendario settembre 2026 (da screenshot 18/9)
 | Date | Ospite | Note |
