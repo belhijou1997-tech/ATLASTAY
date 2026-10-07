@@ -2,11 +2,11 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 5 ott 2026
+## 📋 PROMEMORIA APERTI — aggiornato 7 ott 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Azioni da fare ADESSO (5 ott 2026)
+### 🚨 URGENTE — Azioni da fare ADESSO (7 ott 2026)
 - [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · "Richiesta di risarcimento a carico di Beimer" IN CORSO · verificare importo + status
 - [ ] **⚠️ DECISIONE CLAIM AHMED BEIMER** — vedi sotto. Prima decidi, poi eventualmente scrivi recensione.
 - [ ] **NON mandare messaggio a Ahmed** per ★5 — è in disputa attiva con te
@@ -16,11 +16,17 @@
 - [ ] **Risposta pubblica Lahcen ★5** — in francese ✍️ → "Merci beaucoup Lahcen, ça nous fait vraiment plaisir ! 🙏 On est ravis que tout se soit passé parfaitement — l'appartement propre et confortable, exactement comme promis. C'est exactement ce qu'on vise pour chaque séjour à Dar Salma. Tu seras toujours le bienvenu ! À bientôt 🌹"
 - [ ] **Scrivi recensione per Lahcen** su Airbnb → "Lahcen was a wonderful guest — respectful, easy to communicate with, and left the apartment in perfect condition. We'd be happy to welcome him back to Dar Salma anytime. Highly recommended! 🌟"
 - [ ] **Nuovo listing Fatima** — sospeso da calendario, contattare supporto Airbnb (messaggio pronto)
+- [ ] **⚠️ ANWAR check-in OGGI 7 ott** → avvisare Badr! Orario da confermare.
+- [ ] **Scrivi recensione per Yassine** (5-7 ott) + manda messaggio ★5
+- [ ] **Verifica date Mircea-Cristian Popescu** su Booking.com (prenotato 24 sett — date non visibili)
 
-### 🚨 URGENTE — Ottobre quasi vuoto
-- [x] Mickaël Pouillon 13-20 ott — **CANCELLATO** (confermato da calendario 3/10)
-- [x] **Kyrylo Stiopin** — Booking.com, **14-18 ott** (4 notti, 2ad+2bam) — €165,06 netto ✅ CONFERMATO
-- [ ] **Riempire resto ottobre** — 5-13 ott libero · 14-18 ott Kyrylo · 19-31 ott libero. **Azione: mantenere prezzi bassi + Booking.com attivo**
+### 🚨 URGENTE — Ottobre calendario
+- [x] Mickaël Pouillon 13-20 ott — **CANCELLATO**
+- [x] **Kyrylo Stiopin** — Booking.com, **14-18 ott** ✅
+- [x] **Yassine** — Airbnb, 5-7 ott ✅ completato
+- [x] **Anwar** — Airbnb, **7-? ott** ← IN CORSO ADESSO
+- [x] **Fazi Mohamed Muaad...** — Booking.com, **9-12 ott**, €119,10 ✅ prenotato
+- [ ] **19-31 ott libero** → mantenere prezzi competitivi
 - [ ] **Risolvere alert "problemi annunci"** — Airbnb segnala ancora problemi. Aprire app → Annunci → esaminare e correggere.
 
 ### ✅ Problemi tecnici risolti (18 set 2026)
@@ -977,6 +983,10 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 34 | Lahcen | Airbnb | 3 ott | 5 ott | 2 | TBD | ✅ ★5 · "Ottimo soggiorno, accogliente, pulito e confortevole, esattamente come descritto" · lingua: FR · check-in ★5 · risposta pubblica da pubblicare |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
 | 36 | Kyrylo Stiopin | Booking.com | 14 ott | 18 ott | 4 | €165,06 netto | 🔵 Confermato — 2ad+2bam (5/8a) · check-in 18:00-19:00 · lordo €190,68 comm €25,62 |
+| 37 | Yassine (Yassi...) | Airbnb | 5 ott | 7 ott | 2 | TBD | ✅ Completato · recensione + ★5 da richiedere |
+| 38 | Anwar | Airbnb | 7 ott | ? | ? | TBD | 🔴 CHECK-IN OGGI — avvisare Badr |
+| 39 | Fazi Mohamed Muaad Endarutenne Gedera Seyed Mohamed | Booking.com | 9 ott | 12 ott | 3 | €119,10 lordo | 🔵 Confermato — prenotato 3 ott |
+| 40 | Mircea-Cristian Popescu | Booking.com | ? | ? | ? | TBD | ⚠️ Prenotato 24 sett — date da verificare su Booking.com |
 
 ### Calendario settembre 2026 (da screenshot 18/9)
 | Date | Ospite | Note |
@@ -1089,6 +1099,37 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 - **Preavviso 0.5 giorni** questa settimana = listing appare solo nei risultati last-minute, non nelle ricerche con anticipo → ranking ancora penalizzato.
 - **Conversione 4.07-4.21%** ottima: chi vede il listing prenota. Problema è la visibilità, non il prodotto.
 - **Settembre cancellazioni al 9.1%** = miglioramento netto. Segnale positivo.
+
+#### Snapshot 13 — Qualità + Conversione (7 ott 2026, aggiorn. 6 ott)
+
+**QUALITÀ — ultimi 7 giorni: 100% su tutto ⭐**
+| Categoria | % ★5 |
+|---|---|
+| Qualità generale | 100% |
+| Pulizia | 100% |
+| Accuratezza | 100% |
+| Comunicazione | 100% |
+| Check-in | 100% |
+
+**CONVERSIONE — ultimi 7 giorni:**
+| Metrica | Valore | Trend |
+|---|---|---|
+| Conversione prenotazioni | **3.33%** | ↓ -1.43% |
+| Preavviso prenotazione | **0.7 giorni** | ↑ +0.7g |
+| Visualizzazioni | **91** | ↑ **+21** ← massimo da mesi |
+| Aggiunte wish list | **4** | ↑ +1 |
+
+**CONVERSIONE — ultimi 30 giorni:**
+| Metrica | Valore | Trend |
+|---|---|---|
+| Conversione prenotazioni | **3.89%** | ↑ **+2.04%** ← in crescita |
+| Preavviso prenotazione | **2.5 giorni** | ↓ -5.4g (ma 2.5g = MOLTO meglio di 0.7g) |
+| Visualizzazioni | **427** | ↓ -1362 (vs mese precedente ancora alto) |
+| Aggiunte wish list | **18** | ↓ -16 |
+
+Analisi: ranking in netta risalita. Visualizzazioni settimanali toccano 91 (+21), record recente. Preavviso 30g a 2.5 giorni = listing appare con anticipo, non solo last-minute. Qualità 100% su tutto. Ottobre si sta riempiendo: Yassine(5-7) + Anwar(7-?) + Fazi Mohamed(9-12) + Kyrylo(14-18).
+
+---
 
 #### Snapshot 12 — Conversione ultimi 7 giorni (6 ott 2026, aggiorn. 4 ott)
 
