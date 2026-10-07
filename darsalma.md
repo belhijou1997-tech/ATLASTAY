@@ -18,7 +18,29 @@
 - [ ] **Nuovo listing Fatima** — sospeso da calendario, contattare supporto Airbnb (messaggio pronto)
 - [ ] **⚠️ ANWAR check-in OGGI 7 ott** → avvisare Badr! Orario da confermare.
 - [ ] **Scrivi recensione per Yassine** (5-7 ott) + manda messaggio ★5
-- [ ] **Verifica date Mircea-Cristian Popescu** su Booking.com (prenotato 24 sett — date non visibili)
+- [ ] **⚠️ Recensione negativa YASSIN** — scrivere il **20 ott** (giorno 13/14, finestra chiude 21 ott) — DOPO aver inviato claim MAD 1.000
+- [ ] **⚠️ Recensione negativa AHMED** — scrivere il **14 ott** (finestra chiude 15 ott) — DOPO esito claim
+- [x] **Verifica date Mircea-Cristian Popescu** ✅ → 2-6 nov, 4 notti, €178,94 netto
+
+---
+
+### 📝 TESTI RECENSIONI NEGATIVE (pronti)
+
+#### YASSIN — scrivere il 20 ott (finestra 7-21 ott)
+*Motivo: vetro rotto, macchie sangue su lenzuola e materasso, bagno biohazard, fumo in casa. Claim MAD 1.000 inviata. 9 foto in mano.*
+*Strategia: scrivi all'ultimo giorno → meno tempo per ritorsione. Airbnb riconosce recensioni ritorsive post-claim.*
+
+```
+Unfortunately I cannot recommend Yassin as a guest. After the stay (5–7 Oct), the apartment was found in unacceptable condition: blood stains on bed linen and mattress, a broken glass table top, used sanitary waste left on the bathroom floor, and evidence of smoking inside the apartment (strictly prohibited). A damage claim was necessary. The level of disrespect for the property went well beyond normal wear and tear.
+```
+
+#### AHMED BEIMER — scrivere il 14 ott (finestra chiude ~15 ott)
+*Motivo: disordine eccessivo, claim 350 DH rifiutata da Ahmed ("appartamento sporco + WiFi rotto"), escalata ad Airbnb con foto. In attesa esito.*
+*Strategia: scrivi DOPO esito claim. Se Airbnb ti dà ragione → recensione più forte. Se ti dà torto → recensione comunque, più cauta.*
+
+```
+Ahmed's stay ended in a dispute over the condition in which the apartment was left. A damage claim was filed for excessive mess. Ahmed contested the claim with inaccurate counter-statements. I would not host him again and cannot recommend him to other hosts.
+```
 
 ### 🚨 URGENTE — Ottobre calendario
 - [x] Mickaël Pouillon 13-20 ott — **CANCELLATO**
