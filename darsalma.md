@@ -18,7 +18,7 @@
 - [ ] **Nuovo listing Fatima** — sospeso da calendario, contattare supporto Airbnb (messaggio pronto)
 - [ ] **⚠️ ANWAR check-in OGGI 7 ott** → avvisare Badr! Orario da confermare.
 - [ ] **Scrivi recensione per Yassine** (5-7 ott) + manda messaggio ★5
-- [ ] **⚠️ Recensione negativa YASSIN** — scrivere il **20 ott** (giorno 13/14, finestra chiude 21 ott) — DOPO aver inviato claim MAD 1.000
+- [ ] **⚠️ Recensione negativa YASSIN** — scrivere il **20 ott** (giorno 13/14, finestra chiude 21 ott) — claim MAD 1.000 escalata ad Airbnb con 9 foto ✅
 - [ ] **⚠️ Recensione negativa AHMED** — scrivere il **14 ott** (finestra chiude 15 ott) — DOPO esito claim
 - [x] **Verifica date Mircea-Cristian Popescu** ✅ → 2-6 nov, 4 notti, €178,94 netto
 
@@ -86,6 +86,7 @@ Ahmed's stay ended in a dispute over the condition in which the apartment was le
 - **Set 2026 — Luce cucina:** riparata ✅
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
 - **26 set-1 ott — Ahmed Beimer (claim escalato 3 ott):** richiesta 350 DH per disordine eccessivo. Ahmed ha rifiutato: *"apartment not clean on arrival + WiFi not working."* → **ESCALATO ad Airbnb con foto come prove** · in attesa di decisione Airbnb. Rischio residuo: Ahmed potrebbe lasciare recensione negativa.
+- **5-7 ott — Yassine (claim escalato 7 ott):** richiesta MAD 1.000 · vetro tavolo rotto + macchie sangue su lenzuola e materasso + bagno biohazard (assorbenti sul pavimento) + fumo in casa (mozzicone trovato). Yassine ha negato: *"ho pulito prima di uscire, la donna delle pulizie ha disorganizzato tutto."* → **ESCALATO ad Airbnb con 9 foto** · in attesa decisione.
 
 **Nota strategica (30 set):** questi incidenti sono permanenti nel sistema Airbnb e spiegano perché l'alert "problemi annunci" non si cancella. Un nuovo listing riparte senza questo storico — ma se i comportamenti operativi (Badr irraggiungibile, WiFi instabile, cancellazioni forzate) non cambiano, il nuovo listing accumula gli stessi problemi.
 
@@ -1005,7 +1006,7 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 | 34 | Lahcen | Airbnb | 3 ott | 5 ott | 2 | TBD | ✅ ★5 · "Ottimo soggiorno, accogliente, pulito e confortevole, esattamente come descritto" · lingua: FR · check-in ★5 · risposta pubblica da pubblicare |
 | 35 | Mickaël Pouillon | Airbnb | 13 ott | 20 ott | 7 | — | ❌ CANCELLATO — date sovrapposte con Kyrylo (Booking.com) |
 | 36 | Kyrylo Stiopin | Booking.com | 14 ott | 18 ott | 4 | €165,06 netto | 🔵 Confermato — 2ad+2bam (5/8a) · check-in 18:00-19:00 · lordo €190,68 comm €25,62 |
-| 37 | Yassine (Yassi...) | Airbnb | 5 ott | 7 ott | 2 | TBD | ✅ Completato · recensione + ★5 da richiedere |
+| 37 | Yassine (Yassi...) | Airbnb | 5 ott | 7 ott | 2 | TBD | ⚠️ CLAIM ESCALATO ad Airbnb · MAD 1.000 · vetro rotto + sangue lenzuola + bagno biohazard + fumo · Yassin ha negato ("ho pulito, colpa donna pulizie") · 9 foto inviate |
 | 38 | Anwar | Airbnb | 7 ott | ? | ? | TBD | 🔴 CHECK-IN OGGI — avvisare Badr |
 | 39 | Fazi Mohamed Muaad Endarutenne Gedera Seyed Mohamed | Booking.com | 9 ott | 12 ott | 3 | €119,10 lordo | 🔵 Confermato — prenotato 3 ott |
 | 40 | Mircea-Cristian Popescu | Booking.com | 2 nov | 6 nov | 4 | €178,94 netto | 🔵 Confermato — 4 adulti · lordo €207,40 · comm €28,46 · orario non indicato |
