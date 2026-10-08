@@ -64,6 +64,8 @@ Ahmed's stay ended in a dispute over the condition in which the apartment was le
 
 ### Da fare recensioni
 - [x] **Risposta pubblica Olivia** ✅
+- [ ] **⚠️ BOOKING.COM Risposta pubblica Abdelazize 1.0/10** — testo pronto in spagnolo ✍️ → DA PUBBLICARE su Booking.com
+- [ ] **BOOKING.COM Risposta pubblica Buochra 10/10** — testo pronto in francese ✍️ → DA PUBBLICARE su Booking.com
 - [ ] **Risposta pubblica Byron ★2** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
 - [ ] **Risposta pubblica Aïssata ★4** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
 - [ ] **Risposta pubblica Imane ★4** — testo pronto ✍️ → DA PUBBLICARE su Airbnb
@@ -87,6 +89,7 @@ Ahmed's stay ended in a dispute over the condition in which the apartment was le
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
 - **26 set-1 ott — Ahmed Beimer (claim escalato 3 ott):** richiesta 350 DH per disordine eccessivo. Ahmed ha rifiutato: *"apartment not clean on arrival + WiFi not working."* → **ESCALATO ad Airbnb con foto come prove** · in attesa di decisione Airbnb. Rischio residuo: Ahmed potrebbe lasciare recensione negativa.
 - **5-7 ott — Yassine (claim escalato 7 ott):** richiesta MAD 1.000 · vetro tavolo rotto + macchie sangue su lenzuola e materasso + bagno biohazard (assorbenti sul pavimento) + fumo in casa (mozzicone trovato). Yassine ha negato: *"ho pulito prima di uscire, la donna delle pulizie ha disorganizzato tutto."* → **ESCALATO ad Airbnb con 9 foto** · in attesa decisione.
+- **⚠️ Booking.com — Abdelazize (Belgio) — 1.0/10 "Terribile" (rec. 7 ott 2026, soggiorno ago 2026):** "Hemos reservado y nos ha dejado tirados a última hora." → PROBABILE stesso incidente di ago (Badr ha chiesto cancellazione per cleaner assente). Risposta pubblica inviata in spagnolo. NON rimovibile perché evento reale.
 
 **Nota strategica (30 set):** questi incidenti sono permanenti nel sistema Airbnb e spiegano perché l'alert "problemi annunci" non si cancella. Un nuovo listing riparte senza questo storico — ma se i comportamenti operativi (Badr irraggiungibile, WiFi instabile, cancellazioni forzate) non cambiano, il nuovo listing accumula gli stessi problemi.
 
