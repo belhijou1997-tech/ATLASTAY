@@ -2,21 +2,23 @@
 
 ---
 
-## 📋 PROMEMORIA APERTI — aggiornato 7 ott 2026
+## 📋 PROMEMORIA APERTI — aggiornato 9 ott 2026
 
 *Questa sezione è aggiornata ad ogni sessione. Serve come reminder attivo.*
 
-### 🚨 URGENTE — Azioni da fare ADESSO (7 ott 2026)
-- [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · "Richiesta di risarcimento a carico di Beimer" IN CORSO · verificare importo + status
-- [ ] **⚠️ DECISIONE CLAIM AHMED BEIMER** — vedi sotto. Prima decidi, poi eventualmente scrivi recensione.
+### 🚨 URGENTE — Azioni da fare ADESSO (9 ott 2026)
+- [ ] **🔴 QUALITÀ AIRBNB CROLLATA** (snapshot 14, 8 ott) — Check-in 50% (-37.5%), Comunicazione 50% (-25%), Posizione 50% (-25%), Qualità/prezzo 75% (-12.5%). Era 100% tutto il 7 ott. Causa probabile: Yassin e/o Ahmed. **→ URGENTE aggiungere istruzioni check-in sul listing per recuperare il punteggio.**
+- [ ] **⚠️ Claim Beimer — CONTROLLARE ESITO** → Airbnb → Risoluzione controversie · verificare importo + status (scadenza ~10 ott)
+- [ ] **⚠️ DECISIONE CLAIM AHMED BEIMER** — vedi sotto. Prima decidi, poi scrivi recensione.
 - [ ] **NON mandare messaggio a Ahmed** per ★5 — è in disputa attiva con te
-- [ ] **Scrivi recensione per Marouane** → entro 13 giorni (scade ~16 ott) · testo pronto ✍️ → "Marouane was a great guest — easy communication, respectful of the space, and no issues whatsoever. We'd love to welcome him back to Dar Salma. Highly recommended! 🌟"
+- [ ] **Scrivi recensione per ANWAR** (07-09 ott, ★★★★★ "Tutto perfetto") → entro 14 giorni (~23 ott) + manda messaggio ★5
+- [ ] **Scrivi recensione per Marouane** → entro ~16 ott · testo pronto ✍️ → "Marouane was a great guest — easy communication, respectful of the space, and no issues whatsoever. We'd love to welcome him back to Dar Salma. Highly recommended! 🌟"
 - [ ] **Manda messaggio a Marouane** per chiedere ★5 → "Salam Marouane 🙏 Merci pour votre séjour à Dar Salma ! Si vous pouvez prendre 2 minutes pour laisser un avis sur Airbnb, ça nous aiderait vraiment beaucoup 🌟 On vous laisse également un très bel avis. Merci !"
-- [ ] **Aggiungi istruzioni check-in sul listing** — Airbnb segnala difficoltà su Beimer E Fatima
+- [ ] **🔴 Aggiungi istruzioni check-in sul listing** — categoria check-in a 50%, urgentissimo
 - [ ] **Risposta pubblica Lahcen ★5** — in francese ✍️ → "Merci beaucoup Lahcen, ça nous fait vraiment plaisir ! 🙏 On est ravis que tout se soit passé parfaitement — l'appartement propre et confortable, exactement comme promis. C'est exactement ce qu'on vise pour chaque séjour à Dar Salma. Tu seras toujours le bienvenu ! À bientôt 🌹"
 - [ ] **Scrivi recensione per Lahcen** su Airbnb → "Lahcen was a wonderful guest — respectful, easy to communicate with, and left the apartment in perfect condition. We'd be happy to welcome him back to Dar Salma anytime. Highly recommended! 🌟"
 - [ ] **Nuovo listing Fatima** — sospeso da calendario, contattare supporto Airbnb (messaggio pronto)
-- [ ] **⚠️ ANWAR check-in OGGI 7 ott** → avvisare Badr! Orario da confermare.
+- [x] **ANWAR checkout 9 ott** ✅ — ★★★★★ "Tutto perfetto, appartamento spazioso e accogliente. Sedare bellissimo!"
 - [ ] **Scrivi recensione per Yassine** (5-7 ott) + manda messaggio ★5
 - [ ] **⚠️ Recensione negativa YASSIN** — scrivere il **20 ott** (giorno 13/14, finestra chiude 21 ott) — claim MAD 1.000 escalata ad Airbnb con 9 foto ✅
 - [ ] **⚠️ Recensione negativa AHMED** — scrivere il **14 ott** (finestra chiude 15 ott) — DOPO esito claim
@@ -1125,6 +1127,35 @@ Crescita del +84% da fine maggio a fine luglio. Coerente con l'apertura della pi
 - **Preavviso 0.5 giorni** questa settimana = listing appare solo nei risultati last-minute, non nelle ricerche con anticipo → ranking ancora penalizzato.
 - **Conversione 4.07-4.21%** ottima: chi vede il listing prenota. Problema è la visibilità, non il prodotto.
 - **Settembre cancellazioni al 9.1%** = miglioramento netto. Segnale positivo.
+
+#### Snapshot 14 — Qualità + Conversione (9 ott 2026, aggiorn. 8 ott)
+
+**⚠️ QUALITÀ — CROLLATA (vs snapshot 13 che era 100% su tutto)**
+| Categoria | % | Trend |
+|---|---|---|
+| Comunicazione | **50.0%** | ▼ -25.0% 🔴 |
+| Check-in | **50.0%** | ▼ -37.5% 🔴🔴 |
+| Qualità/prezzo | **75.0%** | ▼ -12.5% 🟡 |
+| Posizione | **50.0%** | ▼ -25.0% 🔴 |
+
+Recensioni recenti visibili:
+- **Anwar** (07-09 ott): ★★★★★ "Tutto perfetto, appartamento spazioso e accogliente. Sedare bellissimo!"
+- **"Lah..."** (03-? ott): ★★★ (3 stelle visibili), testo parziale "Très... été... sym..."
+
+**Causa probabile crollo:** Yassin (5-7 ott, claim escalato) e/o Ahmed Beimer (26 set-1 ott, claim escalato) hanno lasciato valutazioni basse sulle sottocategorie dopo disputa.
+
+**CONVERSIONE — ultimi 7 giorni:**
+| Metrica | Valore | Trend |
+|---|---|---|
+| Conversione prenotazioni | **2.89%** | ▼ -1.17% |
+| Preavviso prenotazione | **0.3 giorni** | ▼ -0.2g (quasi same-day) |
+| Visualizzazioni | **186** | ▲ **+106** 🚀 RECORD ASSOLUTO |
+| Aggiunte wish list | **9** | ▲ +6 |
+| Ospiti fidelizzati | **0%** | — |
+
+Analisi: visualizzazioni 186 = record assoluto (+106), più che raddoppiate da 91 in una settimana. Listing molto visibile. Qualità crash è urgente da risolvere — aggiungere istruzioni check-in dettagliate per recuperare il punteggio e dissuadere valutazioni basse future.
+
+---
 
 #### Snapshot 13 — Qualità + Conversione (7 ott 2026, aggiorn. 6 ott)
 
