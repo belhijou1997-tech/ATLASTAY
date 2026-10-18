@@ -20,7 +20,8 @@
 - [ ] **Nuovo listing Fatima** — sospeso da calendario, contattare supporto Airbnb (messaggio pronto)
 - [x] **ANWAR checkout 9 ott** ✅ — ★★★★★ "Tutto perfetto, appartamento spazioso e accogliente. Sedare bellissimo!"
 - [ ] **Scrivi recensione per Yassine** (5-7 ott) + manda messaggio ★5
-- [ ] **⚠️ Recensione negativa YASSIN** — scrivere il **20 ott** (giorno 13/14, finestra chiude 21 ott) — claim MAD 1.000 escalata ad Airbnb con 9 foto ✅
+- [ ] **⚠️ Recensione negativa YASSIN** — scrivere il **20 ott** (finestra chiude 21 ott) — claim escalata ✅ · RECENSIONE RITORSIVA RICEVUTA → form rimozione inviato (18 ott) · attesa 48h
+- [ ] **🔴 INVIARE form rimozione recensione Yassin** → `airbnb.com/resolution/review_dispute/intro` (link da Airbnb support Gaurav, 18 ott)
 - [ ] **⚠️ Recensione negativa AHMED** — scrivere il **14 ott** (finestra chiude 15 ott) — DOPO esito claim
 - [x] **Verifica date Mircea-Cristian Popescu** ✅ → 2-6 nov, 4 notti, €178,94 netto
 
@@ -90,7 +91,7 @@ Ahmed's stay ended in a dispute over the condition in which the apartment was le
 - **Set 2026 — Luce cucina:** riparata ✅
 - [x] **Booking.com ago-set 2026:** 0 prenotazioni ← confermato
 - **26 set-1 ott — Ahmed Beimer (claim escalato 3 ott):** richiesta 350 DH per disordine eccessivo. Ahmed ha rifiutato: *"apartment not clean on arrival + WiFi not working."* → **ESCALATO ad Airbnb con foto come prove** · in attesa di decisione Airbnb. Rischio residuo: Ahmed potrebbe lasciare recensione negativa.
-- **5-7 ott — Yassine (claim escalato 7 ott):** richiesta MAD 1.000 · vetro tavolo rotto + macchie sangue su lenzuola e materasso + bagno biohazard (assorbenti sul pavimento) + fumo in casa (mozzicone trovato). Yassine ha negato: *"ho pulito prima di uscire, la donna delle pulizie ha disorganizzato tutto."* → **ESCALATO ad Airbnb con 9 foto** · in attesa decisione.
+- **5-7 ott — Yassin (claim escalato 7 ott):** richiesta MAD 1.000 · vetro tavolo rotto + macchie sangue su lenzuola e materasso + bagno biohazard + fumo in casa. Yassin ha lasciato **RECENSIONE PUBBLICA RITORSIVA** (menziona il claim da 100€). Airbnb support Gaurav (18 ott) ha fornito link per rimozione: `airbnb.com/resolution/review_dispute/intro` → risposta entro 48h.
 - **⚠️ Booking.com — Abdelazize (Belgio) — 1.0/10 "Terribile" (rec. 7 ott 2026, soggiorno ago 2026):** "Hemos reservado y nos ha dejado tirados a última hora." → PROBABILE stesso incidente di ago (Badr ha chiesto cancellazione per cleaner assente). Risposta pubblica inviata in spagnolo. NON rimovibile perché evento reale.
 
 **Nota strategica (30 set):** questi incidenti sono permanenti nel sistema Airbnb e spiegano perché l'alert "problemi annunci" non si cancella. Un nuovo listing riparte senza questo storico — ma se i comportamenti operativi (Badr irraggiungibile, WiFi instabile, cancellazioni forzate) non cambiano, il nuovo listing accumula gli stessi problemi.
